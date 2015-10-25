@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF">
+
+
+<div id="Layer1" style="position:absolute; width:405px; height:222px; z-index:1; left: 195px; top: 165px" class="texte_classique"> 
+  <p><font color="#00D900">::.. Forums ..::</font><br>
+    <br>
+    <a href="http://sourceforge.net/forum/forum.php?forum_id=28355" target="_blank">- 
+    Open Discussion -</a> [english]<br>
+    If you don't want to post in an other forum.<br>
+    Totally free, you can write everything you want.<br>
+  <p class="cadre12"><br>
+    <a href="http://sourceforge.net/forum/forum.php?forum_id=28356" target="_blank">- 
+    Help -</a> [english]<br>
+    You must know... ;)<br>
+    Concern the technical problems (questions about Linux, installation of Attal 
+    etc.) <br>
+    <br>
+    <a href="http://sourceforge.net/forum/forum.php?forum_id=48210" target="_blank">- 
+    Development -</a> [english]<br>
+    Concern the development of Attal under all its technical aspects (Programming, 
+    graphics, music etc.) <br>
+    <br>
+    <a href="http://sourceforge.net/forum/forum.php?forum_id=49743" target="_blank">- 
+    French only -</a> [french]<br>
+    For french only speaking people.<br>
+    <br>
+    <a href="http://sourceforge.net/forum/forum.php?forum_id=50448" target="_blank">- 
+    Cyberpunk theme -</a> [english]<br>
+    Only for cyberpunk theme messages (scenario, graphics, rules).<br>
+    You can post technical messages in &quot;development&quot;.<br>
+    <br>
+    <a href="http://sourceforge.net/forum/forum.php?forum_id=50449" target="_blank">- 
+    Medieval theme -</a> [english]<br>
+    Only for heroic fantasy theme messages (units, castles, ambient etc.)<br>
+    Please, no technical messages here.<br>
+    <br>
+</div>
+<!--#include virtual="../en_pages/en_interface2.shtml" --> 
+</body>
+</html>

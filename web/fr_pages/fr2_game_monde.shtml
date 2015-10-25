@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<STYLE TYPE="text/css">
+<!--
+A {text-decoration:none;}
+-->
+</STYLE>
+
+<STYLE>
+BODY
+{scrollbar-face-color: #666666; scrollbar-shadow-color: #33cc00; 
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #33cc00; 
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-arrow-color: #000D45; text-decoration: blink}
+</STYLE> 
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:405px; height:222px; z-index:3; left: 195px; top: 165px" class="cadre12"> 
+  <p class="cadre12"><img src="../fr_interface/titre_game_fr.jpg" width="382" height="16"><br>
+    <br>
+  <p><a href="fr2_game_cr.shtml">- Comptes rendus des r&eacute;unions &eacute;quipe 
+    -</a><br>
+    <a href="fr2_game_general.shtml">- Explications g&eacute;n&eacute;rales -</a><br>
+    <b>[th&egrave;me cyberpunk]</b><br>
+    <a href="fr2_game_monde.shtml">- Le monde / l'univers -</a><br>
+    <a href="fr2_game_regles.shtml">- Le jeu, les r&egrave;gles -</a><br>
+    <a href="fr2_game_unites.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+    <a href="fr2_game_scenario.shtml">- Sc&eacute;nario, campagnes -</a><br>
+  <p><b> [th&egrave;me m&eacute;di&eacute;val-fantastique]</b><br>
+    Partie actuellement vierge. 
+  <p class="cadre12"> <b>- Le monde / l'univers - [th&egrave;me cyberpunk]</b><br>
+    <br>
+    (en construction)<br>
+    <br>
+    <i><b>-- Ambiance g&eacute;n&eacute;rale --</b></i><br>
+    <br>
+    Le jeu se d&eacute;roule dans les ann&eacute;es 2070.<br>
+    Economie capitaliste d&eacute;velopp&eacute;e &agrave; outrance. <br>
+    Quelques importantes Corporations ont main mise sur le pouvoir politique des 
+    pays les plus avanc&eacute;s.<br>
+    La rentabilit&eacute; &eacute;tant le ma&icirc;tre mot, des domaines tels 
+    que l'&eacute;cologie ont compl&egrave;tement &eacute;t&eacute; abandonn&eacute;s.<br>
+    <b><br>
+    <i>-- Les technologies informatiques / telecom --</i></b><br>
+    <br>
+    Les technologies issues de l'informatique et des t&eacute;l&eacute;communications 
+    sont omnipr&eacute;sentes.<br>
+    --&gt; &agrave; d&eacute;velopper<br>
+    <br>
+    <i><b>-- Les biotechnologies --</b></i><br>
+    <br>
+    L'évolution des biotechnologies permet des implants et des &quot;mélanges&quot; 
+    humains/machine.<br>
+    --&gt; &agrave; d&eacute;velopper<br>
+    <br>
+    <i><b>-- Les drogues / stimulants --</b></i><br>
+    <br>
+    Les drogues, médicaments et autres dopants sont d'une efficacité redoutable 
+    et sont courament utilis&eacute;es (tant par les civils que par les militaires 
+    ou certaines milices). Ces drogues provoquent des effets secondaires variables, 
+    pouvant &ecirc;tre catastrophiques pour le corps humain sur le long terme.<br>
+    --&gt; &agrave; d&eacute;velopper<br>
+    <br>
+    <i><b>-- Le domaine militaire --</b></i><br>
+    <br>
+    Les armes chimiques sont très présentes et mieux contrôlées.<br>
+    <br>
+</div>
+<!--#include virtual="interface2.shtml" --> 
+</body>
+</html>

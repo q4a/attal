@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:450; z-index:3; left: 325; top: 130; height: 445" class="texte_classique"> 
+  <p><img src="../fr_interface/titre_screenshots1.jpg" width="382" height="16"><br>
+    <br>
+    Voici quelques images qui seront (ou pas ?) int&eacute;gr&eacute;es au jeu.<br>
+    La plupart d'entre elles sont encore en d&eacute;veloppement.<br>
+    <br>
+    Cliquez sur les images pour visualiser la taille r&eacute;elle (si disponible).<br>
+    <br>
+    Deux bases :<br>
+    <img src="../screenshots/base_fond_noir.jpg" width="150" height="150"> <a href="../screenshots/base_cyber.jpg" target="_blank"><img src="../screenshots/base_cyber_petite.jpg" width="120" height="90" border="0"></a><br>
+    <br>
+    Deux &eacute;oliennes :<br>
+    <a href="../screenshots/eolienne_01.jpg" target="_blank"><img src="../screenshots/eolienne_01_petite.jpg" width="120" height="90" border="0"></a><a href="../screenshots/eolienne_02.jpg" target="_blank"><img src="../screenshots/eolienne_02_petite.jpg" width="120" height="90" border="0"></a><br>
+    <br>
+    Des panneaux solaires :<br>
+    <a href="../screenshots/panneaux_1.jpg" target="_blank"><img src="../screenshots/panneaux_1_petit.jpg" width="120" height="90" border="0"></a> 
+    <a href="../screenshots/panneaux_2.jpg" target="_blank"><img src="../screenshots/panneaux_2_petit.jpg" width="120" height="90" border="0"></a><br>
+    <br>
+    <br>
+    Screenshots du jeu en d&eacute;veloppement :<br>
+    <br>
+    Th&egrave;me Cyberpunk (160 ko)<br>
+    <br>
+    <a href="../screenshots/screen0-1_1.jpg" target="_blank"><img src="../screenshots/screen0-1_1_petit.jpg" width="120" height="102" border="0"></a> 
+    <br>
+    <br>
+    <br>
+    Th&egrave;me M&eacute;di&eacute;val (160 ko)<br>
+    <br>
+    <a href="../screenshots/screen0-1_2.jpg" target="_blank"><img src="../screenshots/screen0-1_2_petit.jpg" width="120" height="102" border="0"></a> 
+    <br>
+    <br>
+    <br>
+    Un premier jet pour le logo du jeu :<br>
+    <br>
+    <img src="../screenshots/logo_interface.jpg" width="259" height="51"> <br>
+    <a href="../screenshots/logo_attal_1.jpg" target="_blank"><img src="../screenshots/logo_attal_1_petit.jpg" width="120" height="120" border="0"></a> 
+    <br>
+    <br>
+  </p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+
+
+
+<!--#include virtual="interface.shtml" -->
+</body>
+</html>

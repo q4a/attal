@@ -1,0 +1,128 @@
+ 
+<style type="text/css">
+<!--
+-->
+</style>
+<link rel="stylesheet" href="../test2.css">
+
+<layer id="Layer99" left="0" top="0" width="481" height="145" z-index="99">
+<img src="../fr_interface/interface_haut.jpg" width="600" height="153">
+</layer> 
+
+<layer id="Layer98" left="0" top="153" width="149" height="280" z-index="98"> 
+<div align="center"> <img src="../fr_interface/fr_interface_bas.jpg" usemap="#Map" border="0" width="150" height="277"> 
+  <map name="Map"><area shape="rect" coords="44,38,135,57" href="fr_nt_news.shtml"> 
+    <area shape="rect" coords="46,57,100,70" href="fr2_nt_project.shtml"><area shape="rect" coords="48,70,139,87" href="fr2_nt_development.shtml"> 
+    <area shape="rect" coords="47,87,139,101" href="fr2_nt_game.shtml"> <area shape="rect" coords="47,102,115,115" href="fr2_nt_screenshots.shtml"> 
+    <area shape="rect" coords="48,116,108,130" href="fr2_nt_downloads.shtml"> 
+    <area shape="rect" coords="47,132,93,147" href="fr2_nt_team.shtml"> <area shape="rect" coords="46,147,68,160" href="fr2_nt_faq.shtml"> 
+    <area shape="rect" coords="47,162,93,174" href="fr2_nt_forums.shtml" target="_blank"> 
+    <area shape="rect" coords="47,174,74,189" href="fr2_nt_links.shtml"> <area shape="rect" coords="47,212,131,225" href="../en_pages/en2_nt_news.shtml"> 
+    <area shape="rect" coords="48,261,112,274" href="mailto:attal@fr.st"></map> 
+  <span class="cadre11"><br>
+ <br>
+ <font size="1"> <a href="fr_news.shtml">-internet explorer version -</a></font></span></div>
+</layer>
+
+
+<layer id="Layer97" left="633" top="129" width="144" height="137" z-index="97"><br>
+<br>
+<table border="0" cellspacing="0" cellpadding="0" width="94%" class="cadre11">
+  <tr> 
+    <td width="100%"><img src="../fr_interface/3_info_haut.gif" width="133" height="27"></td>
+  </tr>
+  <tr> 
+    <td width="100%" background="../fr_interface/2_info_milieu.gif"> 
+      <div align="center" class="texte_infos"> 
+        <center>
+          <table border="0" width="93%" cellpadding="0" background="../fr_interface/noir.jpg" class="cadre11">
+            <tr> 
+              <td width="100%" class="cadre11"><font size="1"> 
+		:: 01-03-01 ::<br>
+		- last release: 0.2<br>
+                  - next: may 2001 ?<br>
+                  <br>
+                  :: 01-03-00 ::<br>
+                  <br>
+                  - Programmation: <br>
+			Code: environ 20 000 lignes de code                  
+ 		  <br>
+                  <br>
+                  - Divers <br>
+			Nous recherchons un graphiste 2D /3D
+                  <br><br>
+                  L'aventure continue...	
+		</font></td>
+            </tr>
+          </table>
+        </center>
+
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="100%"><img src="../fr_interface/2_info_bas.gif" width="133" height="18"></td>
+  </tr>
+</table>
+</layer>
+
+<layer id="Layer96" left="18" top="501" width="141" height="391" z-index="96"> 
+<table border="0" cellspacing="0" cellpadding="0" width="94%" class="cadre11">
+  <tr> 
+    <td width="100%"><img src="../fr_interface/3_info_haut.gif" width="133" height="27"></td>
+  </tr>
+  <tr> 
+    <td width="100%" background="../fr_interface/2_info_milieu.gif"> 
+      <div align="center" class="cadre11"> 
+        <center>
+          <table border="0" width="86%" cellpadding="0" background="../fr_interface/noir.jpg" class="cadre11">
+            <tr> 
+              <td width="100%" class="cadre11"> 
+                <p><font size="1"> 
+		:: 01-03-01 ::<br>
+                    <br>
+   			A venir:                
+			 <br>
+  			- Specifications completes<br>
+			- 'Mode' combat<br>
+			- De nouvelles musiques<br>
+			- Descriptif des regles    <br> 
+                  <br>
+                  --&gt; N'h&eacute;sitez-pas &agrave; participer aux diff&eacute;rents 
+                  forums<br>
+                  <br>
+                  --&gt; Vous pouvez proposer vos id&eacute;es de sc&eacute;nario 
+                  / campagnes dans les forums Cyber et Medieval...<br>
+                  </font></p>
+              </td>
+            </tr>
+          </table>
+        </center>
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="100%"><img src="../fr_interface/2_info_bas.gif" width="133" height="18"></td>
+  </tr>
+</table>
+</layer>
+
+
+<layer id="Layer95" left="631" top="21" width="84" height="44" z-index="95"> <!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" --> 
+<script type="text/javascript" language="JavaScript">var site="sm2pagomega"</script>
+<script type="text/javascript" language="JavaScript1.2" src="http://sm2.sitemeter.com/js/counter.js?site=sm2pagomega">
+
+</script>
+<noscript> <a href="http://sm2.sitemeter.com/stats.asp?site=sm2pagomega" target="_top"> 
+<img src="http://sm2.sitemeter.com/meter.asp?site=sm2pagomega" alt="Site Meter" border=0 width="32" height="32"></a> 
+</noscript> <!-- Copyright (c)2000 Site Meter --> <!--WEBBOT bot="HTMLMarkup" Endspan --> 
+<br>
+<a href="http://www.sourceforge.net" target="_blank"><img src="../images/logo_sourceforge.jpg" width="88" height="31" border="0"></a> 
+</layer>
+
+
+
+
+
+
+

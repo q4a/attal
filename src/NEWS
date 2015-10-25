@@ -1,0 +1,80 @@
+****************************
+**                        **
+**  Attal: Lords of Doom  **
+**                        **
+****************************
+
+Release 0.7
+	- Fog of war (buggy ?)
+	- Bugs in scenarii editor
+	- Add features in theme editor
+	- Medieval theme: Pictures of resources
+	- Medieval theme: Pictures of new bases (necromancer, barbarian and atlantis)
+
+Release 0.6.2
+	- IA rewrite and improved.
+	- Major bug fixing (minimap crash, huge computing time when fighting, ...).
+	- Fight against creatures on map.
+
+Release 0.6.1
+	- The AI can play also in adventure mode
+	- More graphics for decorations
+	- Cleaning of the code (comments, api, ...)
+	- Bug fixing
+
+Release 0.6
+	- The AI can fight (but still don't move in adventure mode)
+	- We handle buildings in bases (can build creatures, other buildings...)
+	- Friend lords can exchange some units
+	- Management of some buildings on map (mines...)
+	- Graphics for the 'druidic' race (buildings and creatures)
+	- Begin of management of creatures on map
+
+Release 0.5.1
+	- Scenario Editor can now load and save maps used by Attal
+	- Server controls if a player has some lords left and warns if a player has lost
+	- Move points (of lords) are handled
+	- Data files of theme medieval are updated
+
+Release 0.5
+	- Rewrite 'network layer' (AttalSocket)
+	- Lots of new or better graphics (transitions, buildings, bases (inside), units)
+	- Theme Editor and Scenario Editor are up-to-date
+	- Switch between fight mode and adventure mode
+	- Lot of small bugs removes and features improved
+
+Release 0.4
+	- Lot of graphics (lords, creatures, decorations, transitions)
+	- Data in medieval theme (for humans)
+	- Some add to the theme editor
+	- Better management of transitions
+	- Inside base dispayed (begin of management)
+
+Release 0.3
+	- A theme editor has been added (for units, races, ressources)
+	- Fight mode begin (move, hit, display)
+	- More things are managed by the server
+	- More and better graphisms
+	- Transitions on ground managed
+	- Decoration on the map are added
+
+Release 0.2
+	- Add network : there is now a client and a server. Data are exchanged
+	  by them. Turns are managed.
+	- Add an ia 'fake' (can be connected to the server but doesn't really
+	  play (just ends turns))
+	- More data are managed through themes (for units, lords,
+	  ressources...)
+	- The editor can edit scenario instead of maps.
+	- Graphics improve (add lords, bases, buildings)
+	- Some Lord management
+	- Some Base management
+	- Paths are displayed on map
+
+Release 0.1 
+	-Initial release
+	-Display map
+	-You can move lords on map
+	-Beginning of theme management
+	-Map editor
+

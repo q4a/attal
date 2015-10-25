@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE campaign>
+<campaign>
+	<name>How Ol'Bar become famous</name>
+	<theme>medieval</theme>
+	<description>
+		Help Ol'Bar to become famous
+	</description>
+	<current>0</current>
+	<scenario>OlBar_scen1.scn</scenario>
+	<scenario>OlBar_scen2.scn</scenario>
+	<scenario>OlBar_scen3.scn</scenario>
+</campaign>

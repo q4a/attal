@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="../en_pages/en_interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13">
+<img src="../en_interface/en_titre_screenshots.jpg" width="382" height="16"><br>
+  <br>
+  <a href="en2_nt_screenshots_gallerie.shtml">- Images gallery -</a><br>
+  Here are some graphics that will be included (soon) in Attal.<br>
+  Most of them are under development.<br>
+  <br>
+  <a href="en2_nt_screenshots_screen.shtml">- Screenshots -</a><br>
+  From the beginning to the end...<br>
+  <br>
+  <br>
+  <b>Screenshots :</b><br>
+  Click on it to enlarge.<br>
+  <br>
+  &quot;Infos Lords&quot; interface (will be graphical soon. This is done by coders)<br>
+  <br>
+  <a href="../screenshots/screenshot_011.jpg" target="_blank"><img src="../screenshots/screenshot_011_petit.jpg" width="120" height="118" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Cyberpunk theme (updated)<br>
+  <br>
+  <a href="../screenshots/screenshot-009.jpg" target="_blank"><img src="../screenshots/screenshot-009_petit.jpg" width="120" height="102" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Cyberpunk theme (160 ko)<br>
+  <br>
+  <a href="../screenshots/screen0-1_1.jpg" target="_blank"><img src="../screenshots/screen0-1_1_petit.jpg" width="120" height="102" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Heroic Fantasy Theme (160 ko)<br>
+  <br>
+  <a href="../screenshots/screen0-1_2.jpg" target="_blank"><img src="../screenshots/screen0-1_2_petit.jpg" width="120" height="102" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Our Logo (?) :<br>
+  <br>
+  <img src="../screenshots/logo_interface.jpg" width="259" height="51"> <br>
+  <a href="../screenshots/logo_attal_1.jpg" target="_blank"><img src="../screenshots/logo_attal_1_petit.jpg" width="120" height="120" border="0"></a> 
+  <br>
+  <br>
+</layer>
+</body>
+</html>

@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="445" z-index="1"> 
+<p  class="cadre13"><img src="../fr_interface/titre_screenshots1.jpg" width="382" height="16"><br>
+  <br>
+  <a href="fr2_nt_screenshots_gallerie.shtml">- Gallerie d'images -</a><br>
+  Cette section pr&eacute;sente toutes les images sp&eacute;cialement cr&eacute;&eacute;es 
+  pour Attal. Elles sont en 2d ou 3d et ne seront pas forc&eacute;ment int&eacute;gr&eacute;es 
+  au jeu.<br>
+  <br>
+  <a href="fr2_nt_screenshots_screen.shtml">- Screenshots -</a><br>
+  Vous trouverez ici tous les screenshots disponibles du jeu.<br>
+  Du tout premier (&eacute;motion ;) au dernier (&eacute;volution ;)<br>
+  <br>
+  <br>
+  <b>Screenshots :</b><br>
+  <br>
+  Cliquez sur les images pour visualiser la taille r&eacute;elle (si disponible).<br>
+  <br>
+  <br>
+  Un screenshot de l'interface &quot;Infos Lords&quot; <br>
+  [fait par les programmeurs, les graphistes vont habiller tout cela ;]<br>
+  <br>
+  <a href="../screenshots/screenshot_011.jpg" target="_blank"><img src="../screenshots/screenshot_011_petit.jpg" width="120" height="118" border="0"></a><br>
+  <br>
+  <br>
+  Th&egrave;me Cyberpunk am&eacute;lior&eacute; :<br>
+  <br>
+  <a href="../screenshots/screenshot-009.jpg" target="_blank"><img src="../screenshots/screenshot-009_petit.jpg" width="120" height="102" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Th&egrave;me Cyberpunk (160 ko)<br>
+  <br>
+  <a href="../screenshots/screen0-1_1.jpg" target="_blank"><img src="../screenshots/screen0-1_1_petit.jpg" width="120" height="102" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Th&egrave;me M&eacute;di&eacute;val (160 ko)<br>
+  <br>
+  <a href="../screenshots/screen0-1_2.jpg" target="_blank"><img src="../screenshots/screen0-1_2_petit.jpg" width="120" height="102" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Une capture de l'&eacute;diteur :<br>
+  <br>
+  <a href="../screenshots/screenshot_004.jpg"><img src="../screenshots/screenshot_004_petit.jpg" width="120" height="90" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Encore un, avec quelques objets affich&eacute;s...<br>
+  <br>
+  <a href="../screenshots/screenshot_003.jpg" target="_blank"><img src="../screenshots/screenshot_003_petit.jpg" width="120" height="90" border="0"></a> 
+  <br>
+  <br>
+  <br>
+  Le tout premier screenshot...<br>
+  <br>
+  <a href="../screenshots/screenshot_002.jpg" target="_blank"><img src="../screenshots/screenshot_002_petit.jpg" width="120" height="90" border="0"></a><br>
+  <br>
+  <br>
+  <br>
+  Un premier jet pour le logo du jeu :<br>
+  <br>
+  <img src="../screenshots/logo_interface.jpg" width="259" height="51"> <br>
+  <a href="../screenshots/logo_attal_1.jpg" target="_blank"><img src="../screenshots/logo_attal_1_petit.jpg" width="120" height="120" border="0"></a> 
+  <br>
+  <br>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</layer>
+
+</body>
+</html>

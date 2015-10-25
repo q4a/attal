@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE machines>
+<machines>
+	<machine name="First aid">
+		<type>0</type>
+		<param>0</param>
+	</machine>
+	<machine name="Small ammonition">
+		<type>1</type>
+		<param>3</param>
+	</machine>
+	<machine name="Balista">
+		<type>2</type>
+		<param>3</param>
+	</machine>
+	<machine name="Catapult">
+		<type>3</type>
+		<param>1</param>
+	</machine>
+</machines>

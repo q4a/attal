@@ -1,0 +1,7 @@
+
+all:
+	aclocal
+	autoheader
+	automake
+	perl automoc
+	autoconf     

@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+<div id="Layer1" style="position:absolute; width:405; height:222px; z-index:1; left: 195; top: 165" class="texte_classique"> 
+  <p><img src="../en_interface/en_titre_game.jpg" width="382" height="16"><br>
+  <p><br>
+    - World / Universe -<br>
+    <br>
+    <i><b>-- General atmosphere -- </b></i><br>
+    <br>
+    The game takes place in the 2070's. <br>
+    Capitalist economy developed in extravagance. <br>
+    Some important Corporations have hand put on the political power of the most 
+    advanced countries. <br>
+    The profitability being the boss word, domains such as the ecology were completely 
+    abandoned. <br>
+    <b><i><br>
+    -- The computer technologies / telecom --</i></b><br>
+    <br>
+    The technologies stemming from the data processing and the telecommunications 
+    are omnipresent. <br>
+    -- > to develop <br>
+    <br>
+    <i><b>-- The biotechnologies -- </b></i><br>
+    <br>
+    The evolution of the biotechnologies allows implants and &quot;mix&quot; <br>
+    human / machine.<br>
+    -- > to develop<br>
+    <br>
+    <i><b>-- Drugs -- </b></i><br>
+    <br>
+    Drugs, medicines and other drugs are of a redoubtable efficiency and are courament 
+    used (as by the civilians as by the servicemen or certain militias). These 
+    drugs provoke variable side effects, being able to be catastrophic for the 
+    human body on the long term. <br>
+    -- > to develop <b> <br>
+    </b> <br>
+    <i><b>-- The military domain -- </b></i><br>
+    <br>
+    Chemical weapons are very present and better controlled. <br>
+    <br>
+    <br>
+</div>
+<!--#include virtual="../en_pages/en_interface2.shtml" --> 
+</body>
+</html>

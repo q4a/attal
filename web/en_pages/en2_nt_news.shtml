@@ -1,0 +1,121 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+<!--#include virtual="../en_pages/en_interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"> <img src="../en_interface/en_titre_news.jpg" width="382" height="16"><br>
+  <br>
+  Welcome.<br>
+  Attal: Lords of Doom is a video game still in development.<br>
+  It's a turn-based strategy game, under Linux (for the moment) that can be played 
+  alone (against AI) or against other through a network (local or internet).<br>
+  <br>
+  If you want to join this project, don't hesitate to <a href="mailto:attal-devel@lists.sourceforge.net">contact 
+  us</a>.<br>
+  <br>
+  You can also look at the project's page on <a href="http://sourceforge.net/projects/attal/">Sourceforge.net</a> 
+  (where you can also suscribe to our mailing list, submit bugs or browse our 
+  CVS. <br>
+  <br>
+  <br>
+  <img src="../fr_interface/titre_news2_fr.jpg" width="382" height="12"> <br>
+  <b><br>
+  16-12-00</b><br>
+  - If you wish to add Attal'site on your website, just add this code :<br>
+  &lt;a href="http://www.attal.fr.st"&gt; <br>
+  &lt;img src="http://www.chez.com/attal/logo_anim1.gif" width="88" height="31" 
+  border="0" alt="Attal Logo"&gt &lt/a&gt; <br>
+  The button below will be shown:<br>
+  <br>
+  <img src="../logo_anim1.gif" width="88" height="31"> <br>
+  <br>
+  - We are setting up different management modules provided by Sourceforge :<br>
+  -- Task Manager: give tasks to team's members and show their evolution.<br>
+  -- Doc Manager: for doc management ;) Will show the game specifications (development, 
+  graphics etc.)<br>
+  -- Surveys: will be used for knowing user's opinion and bahaviour.<br>
+  <b><br>
+  11-12-00</b><br>
+  - Section &quot;downloads&quot; is updated, with some non definitive musics.<br>
+  - Website is now ok with Netscape.<br>
+  <b><br>
+  08-12-00<br>
+  </b> - Redaction of specifications is in progress (the most prescise possible).<br>
+  Please contact <a href="mailto:glover666@hotmail.com">Glover</a> to help him, 
+  or to give him advices.<br>
+  This part will be available on the Sourceforge.net site (Doc Manager section)<br>
+  - Gallery updated with a new &quot;factory&quot;.<br>
+  - You can have some difficulty to see this website correctly using Netscape 
+  4.76. We're trying to solve that.<br>
+  You can test the Netscape version --&gt; <a href="http://www.chez.com/attal/fr_pages/fr_nt_news.shtml">here</a> 
+  &lt;--<font size="2"><br>
+  </font><b> <br>
+  07-12-00 <br>
+  </b>- &quot;Team&quot; section updated.<br>
+  - We'll give you some important informations here... and soon...<br>
+  - The project is supported by www.archangelcastle.com <br>
+  (number 1 french site / Heroes of Might and Magic 3)<b><br>
+  <br>
+  05-12-00</b><br>
+  - 5 persons have joined the team:<br>
+  -- Glover (redactions of specifications, project synthesis)<br>
+  -- Bashker (developper)<br>
+  -- Marc (Heroic Fantasy graphics)<br>
+  -- Morgan (Heroic Fantasy graphics and musics)<br>
+  -- Enrique (rules definition)<br>
+  <br>
+  - Two new forums (we like forums ;) :<br>
+  -- Cyberpunk - theme (only for cyberpunk theme...)<br>
+  -- Medieval - theme (find it yourself ;)<br>
+  <br>
+  - We are structuring best that we can the development of the game. We'll give 
+  you as soon as possible the methods of work which will be used (technical documentation, 
+  graphic creation etc.) <br>
+  - A new image added by Alex (Screenshots/Gallery Section)<br>
+  <br>
+  <b> 30-11-00</b><br>
+  - V 0.2 will be ok (i hope so) for the beginning of January, 2001. <br>
+  - Forum " French only " was created for those that speak only French.<br>
+  A summary of the most important English messages will be done regularly on this 
+  forum. <br>
+  - Some websites support our project. If you wish to contribute to the development 
+  of Attal by making appear this site in your links, please, <br>
+  do not hesitate ! <br>
+  - Attal participates in the competition " Developers@Milia " with the aim of 
+  promoting the project (and to participate in show Milia on 2001). <br>
+  --> <a href="http://www.milia.com" target="_blank">www.milia.com</a> for more 
+  information (section " Developers@Milia") <br>
+  <br>
+  23-11-00 <br>
+  - &quot;Screenshots&quot; are updated with a new base.<br>
+  - Forums are now open (hosted by sourceforge.net):<br>
+  --- Open Discussion (you can write whatever you want)<br>
+  --- Help (...)<br>
+  --- Development (discussions about development of Attal)<br>
+  <br>
+  21-11-00<br>
+  - english website is ok<br>
+  - &quot;Attal: the game&quot; is updated. We add some details (the world of 
+  Attal, units etc.)<br>
+  - We need some people to help us (developers, graphists, scenarists etc.)<br>
+  <br>
+  15-11-00<br>
+  - The version 0.1 is now available (see "downloads")<br>
+  - The new website is nearly ok<br>
+  <br>
+  13-11-00<br>
+  - New pictures in "screenshots" section<br>
+  - First explanation about Attal coding in the "développement" section. Thanks 
+  Pascal !<br>
+  <br>
+</layer>
+
+</body>
+</html>

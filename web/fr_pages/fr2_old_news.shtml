@@ -1,0 +1,134 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=iso-8859-1">
+	<TITLE>Untitled Document</TITLE>
+	<META NAME="GENERATOR" CONTENT="StarOffice/5.2 (Linux)">
+	<META NAME="CREATED" CONTENT="20010302;23274200">
+	<META NAME="CHANGEDBY" CONTENT=" ">
+	<META NAME="CHANGED" CONTENT="20010302;23312700">
+	<!-- #include virtual="interface2.shtml" -->
+	<STYLE>
+	<!--
+		TD P { color: #ffffff; text-decoration: blink }
+		P { color: #ffffff; text-decoration: blink }
+		A:visited { color: #ccffcc; text-decoration: none }
+		A:link { color: #ccffcc; text-decoration: none }
+	-->
+	</STYLE>
+</HEAD>
+<BODY TEXT="#ffffff" LINK="#ccffcc" VLINK="#ccffcc" BGCOLOR="#000000">
+<DIV ID="Layer3" STYLE="position: absolute; top: 4.37cm; left: 5.16cm; width: 10.72cm; height: 5.87cm; border: none; padding: 0cm; background: #000000">
+	<P><FONT SIZE=2 STYLE="font-size: 9pt"><FONT FACE="Arial, Helvetica, sans-serif"><FONT COLOR="#ffffff"><SPAN STYLE="text-decoration: none"><FONT COLOR="#00d900">::
+	Archives des news ::</FONT></SPAN><BR><SPAN STYLE="text-decoration: none"><BR><B>17-01-01</B><BR>-
+	Les p&eacute;riodes festives de fin d'ann&eacute;e &eacute;tant
+	maintenant derri&egrave;re nous, nous pouvons donc nous replonger
+	dans le d&eacute;veloppement du jeu...<BR>Quoi de neuf depuis un
+	mois ?<BR>-- sans nouvelles de Glover qui devait nous proposer un
+	cahier des charges, nous avons d&eacute;cid&eacute; de le r&eacute;diger
+	nous-m&ecirc;me (Pascal et Gilles).<BR>Toutes vos contributions
+	seront les bienvenues.<BR><BR><B>-- news du code --</B><BR>- le code
+	avance r&eacute;guli&egrave;rement (Pascal et Cyrille d&eacute;veloppent
+	des modules relativement ind&eacute;pendant des sp&eacute;cifications
+	&agrave; venir) :<BR>--&gt; pr&eacute;-version de l'&eacute;cran de
+	combat, d&eacute;coup&eacute; en h&eacute;xagone <BR>--&gt; les
+	ressources peuvent maintenant &ecirc;tre g&eacute;r&eacute;es
+	basiquement :<BR>(noms des ressources g&eacute;r&eacute;es dans les
+	themes, valeurs transmises par reseau)<BR>--&gt; le chemin s'affiche
+	devant le Lord avant qu'il avance<BR>--&gt; gestion de plusieurs
+	Lords sur la carte <BR>--&gt; un aper&ccedil;u du
+	Marketplace<BR>[</SPAN><A HREF="../../web/fr_pages/fr2_screenshots_screen.shtml"><SPAN STYLE="text-decoration: none">screenshot</SPAN></A><SPAN STYLE="text-decoration: none">]<BR><BR><B>--
+	news du jeu --</B><BR>- Attal: The Duel <BR>--&gt; un sous projet
+	d'Attal: Lords of Doom, qui permettra de rendre jouable le module
+	combat ind&eacute;pendament du jeu principal. Ceci permettra aux
+	d&eacute;veloppeurs de tester leur code, aux graphistes de voir
+	directement leurs cr&eacute;ations int&eacute;gr&eacute;es dans la
+	partie combat etc.<BR>Et pourquoi pas un (petit) jeu &agrave; part
+	enti&egrave;re ?<BR>[plus d'informations sur le forum &quot;French
+	only&quot;]<BR><BR></SPAN><B>16-12-00</B><BR>- Vous pouvez placer ce
+	code sur votre site si vous souhaitez nous mettre dans vos liens
+	:<BR>&lt;a href=&quot;http://www.attal.fr.st&quot;&gt; <BR>&lt;img
+	src=&quot;http://www.chez.com/attal/logo_anim1.gif&quot; width=&quot;88&quot;
+	height=&quot;31&quot; border=&quot;0&quot; alt=&quot;Attal Logo&quot;&gt;
+	&lt;/a&gt; <BR>Le bouton ci-dessous appara&icirc;tra :<BR><BR> <BR><BR>-
+	Nous mettons progressivement en place les diff&eacute;rents modules
+	de gestion propos&eacute;s par Sourceforge :<BR>-- Task Manager:
+	permet de g&eacute;rer les diff&eacute;rentes t&acirc;ches, en
+	positionnant des membres, en montrant l'&eacute;tat actuel de la
+	t&acirc;che (en %)<BR>-- Doc Manager: module de gestion de
+	documentation. Ici sera pr&eacute;sent&eacute; le Cahier des
+	charges, ainsi que tous les documents de r&eacute;f&eacute;rence
+	(techniques ou non).<BR>-- Surveys : Sondages. Nous permettra de
+	poser quelques questions suite &agrave; certains d&eacute;bats par
+	exemple.<BR><BR><B>11-12-00</B><BR>- Update de la rubrique
+	&quot;downloads&quot; avec quelques musiques non d&eacute;finitives
+	du jeu.<BR>- Les probl&egrave;mes d'affichage du site sur Netscape
+	sont r&eacute;solus.<BR><BR><B>08-12-00<BR></B>- La r&eacute;daction
+	d'un cahier des charges le plus pr&eacute;cis possible du projet
+	commence. <BR>Contactez <A HREF="mailto:glover666@hotmail.com">Glover</A>
+	pour toute suggestion. Cette partie sera organis&eacute;e sur
+	Sourceforge.net (rubrique Doc Manager).<BR>- Une image de plus dans
+	la rubrique &quot;screenshots&quot;<BR>- Le site ne s'affiche pas
+	correctement sur une certaine version de Netscape (4.76). En passe
+	d'&ecirc;tre r&eacute;solu.<BR>Adresse test pour les utilisateurs de
+	Netscape :<BR><A HREF="http://www.chez.com/attal/fr_pages/fr_nt_news.shtml">Cliquez
+	ici.</A> <BR><BR><B>07-12-00<BR></B>- Rubrique &quot;l'&eacute;quipe&quot;
+	mise &agrave; jour.<BR>- Bient&ocirc;t de nombreuses informations
+	seront disponibles sur le site.<BR>- Le projet est soutenu par
+	<A HREF="http://www.archangelcastle.com/" TARGET="_blank">www.archangelcastle.com</A>
+	<BR>(r&eacute;f&eacute;rence fran&ccedil;aise d'Heroes of Might and
+	Magic).<B><BR><BR>05-12-00</B><BR>- 5 personnes rejoignent notre
+	&eacute;quipe:<BR>[retrouvez-les dans la rubrique &quot;l'&eacute;quipe&quot;
+	tr&egrave;s bient&ocirc;t]<BR>-- Glover (interface Programmeurs /
+	Graphistes ;)<BR>-- Bashker (programmation)<BR>-- Marc (graphismes
+	du th&egrave;me M&eacute;di&eacute;val-fantastique)<BR>-- Morgan
+	(graphismes + musiques du th&egrave;me M&eacute;di&eacute;val-fantastique)<BR>--
+	Enrique (d&eacute;finition des r&egrave;gles)<BR><BR>- Deux nouveaux
+	forums ont &eacute;t&eacute; cr&eacute;&eacute;s (on aime les forums
+	;)<BR>-- Cyberpunk - theme (d&eacute;di&eacute; au th&egrave;me
+	cyberpunk...)<BR>-- Medieval - theme (devinez ?)<BR><BR>- le site a
+	&eacute;t&eacute; modifi&eacute; graphiquement.<BR>Les modifications
+	seront int&eacute;gr&eacute;es &agrave; la partie anglaise
+	demain...<BR>N'h&eacute;sitez pas &agrave; rapporter les bugs que
+	vons constatez en pr&eacute;cisant le navigateur que vous utilisez
+	(<A HREF="mailto:mitro@netcourrier.com">mitro@netcourrier.com</A>)<BR><BR>-
+	Nous sommes en train de structurer du mieux que l'on peut le
+	d&eacute;veloppement du jeu. Nous vous donnerons d&egrave;s que
+	possible les m&eacute;thodes de travail qui seront utilis&eacute;es
+	(documentation technique, cr&eacute;ation graphique etc.)<BR><BR>-
+	Un nouveau g&eacute;n&eacute;rateur d'&eacute;nergie est disponible
+	dans la rubrique &quot;screenshots&quot; (by Alex).<BR><BR><B>30-11-00</B><BR>-
+	la v 0.2 est pr&eacute;vue pour d&eacute;but janvier 2001.<BR>- Un
+	forum &quot;French only&quot; a &eacute;t&eacute; cr&eacute;&eacute;
+	pour celles et ceux qui parlent uniquement fran&ccedil;ais. Un
+	r&eacute;sum&eacute; des messages anglais les plus importants sera
+	fait r&eacute;guli&egrave;rement sur ce forum.<BR>- Quelques sites
+	soutiennent notre projet. Si vous souhaitez contribuer au
+	d&eacute;veloppement d'Attal en faisant appara&icirc;tre ce site
+	dans vos liens, <BR>n'h&eacute;sitez pas !<BR>- Attal participe au
+	concours &quot;Developers@Milia&quot; dans le but de promouvoir le
+	projet (et de participer au salon Milia 2001).<BR>--&gt;
+	<A HREF="http://www.milia.com/" TARGET="_blank">www.milia.com</A>
+	pour plus d'infos (rubrique &quot;Developers@Milia&quot;)<BR><BR><B>23-11-00</B><BR>-
+	Update de la rubrique &quot;screenshots&quot; avec une nouvelle
+	base.<BR>- Ouverture des Forums de discussion (sur sourceforge):<BR>---
+	Open Discussion (pour tout ce que vous voulez dire)<BR>--- Help
+	(...)<BR>--- Development (discussions sur le d&eacute;veloppement
+	d'Attal)<BR><BR><B>21-11-00</B><BR>- la partie anglaise du site est
+	en ligne<BR>- maj de la rubrique &quot;Attal: le jeu&quot;. Ajout de
+	d&eacute;tails sur le monde, les unit&eacute;s, les classes de
+	personnages etc.<BR>- nous cherchons des programmeurs / graphistes /
+	sc&eacute;naristes pour <BR>participer au projet.<BR><BR><B>15-11-00</B><BR>-
+	La version 0.1 est disponible (rubrique &quot;downloads&quot;)<BR>-
+	Le site internet est pratiquement termin&eacute; (niveau contenu de
+	base).<BR><BR><B>13-11-00</B><BR>- Update de la rubrique
+	&quot;screenshots&quot; avec de nouvelles images<BR>- Update de la
+	rubrique &quot;d&eacute;veloppement&quot; avec des explications
+	d&eacute;taill&eacute;es sur la programmation du jeu (partie
+	r&eacute;seau). <BR><BR><B>10-11-00</B><BR>- Mise en ligne du site
+	internet du projet.<BR></FONT></FONT></FONT><BR><BR>
+	</P>
+</DIV>
+<!--#include virtual="interface2.shtml" -->
+</BODY>
+</HTML>

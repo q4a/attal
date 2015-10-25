@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bases>
+<bases>
+	<base>
+		<name>Castle</name>
+		<race>Human</race>
+		<building>
+			<name>Guardhouse</name>
+			<description>Produce pikemen</description>
+			<place>1</place>
+			<level>1</level>
+			<cost ressource="0">1000</cost>
+			<require></require>
+			<action></action>
+		</building>
+	</base>
+</bases>

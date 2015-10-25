@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"><font color="#00D900">::.. Forums ..::</font><br>
+  <br>
+  Ces espaces de communication permettent d'&eacute;changer des id&eacute;es sur 
+  les diff&eacute;rents aspects du projet.<br>
+  <br>
+  <a href="http://sourceforge.net/forum/forum.php?forum_id=28355" target="_blank">- 
+  Open Discussion -</a> [anglais]<br>
+  Destin&eacute; &agrave; accueillir les sujets qui ne peuvent pas &ecirc;tre 
+  trait&eacute;s dans les autres forums.<br>
+  Compl&egrave;tement libre.<br>
+<br>
+  <a href="http://sourceforge.net/forum/forum.php?forum_id=28356" target="_blank">- 
+  Help -</a> [anglais]<br>
+  Je vous vexe si j'explique ? ;)<br>
+  Concerne particuli&egrave;rement les probl&egrave;mes techniques (installation 
+  des versions, questions sur linux etc.)<br>
+  <br>
+  <a href="http://sourceforge.net/forum/forum.php?forum_id=48210" target="_blank">- 
+  Development -</a> [anglais]<br>
+  Concerne le d&eacute;veloppement d'Attal sous tous ses aspects techniques (programmation, 
+  graphismes, musique etc.)<br>
+  <br>
+  <a href="http://sourceforge.net/forum/forum.php?forum_id=49743" target="_blank">- 
+  French only -</a> [fran&ccedil;ais]<br>
+  Un espace d&eacute;di&eacute; &agrave; celles et ceux qui pr&eacute;f&egrave;rent 
+  s'exprimer en fran&ccedil;ais.<br>
+  Un bref r&eacute;sum&eacute; des messages importants des autres forums sera 
+  fait r&eacute;guli&egrave;rement.<br>
+  <br>
+  <a href="http://sourceforge.net/forum/forum.php?forum_id=50448" target="_blank">- 
+  Cyberpunk theme -</a> [anglais]<br>
+  Comme son nom l'indique, traite uniquement du th&egrave;me Cyberpunk (sc&eacute;nario, 
+  graphismes, r&egrave;gles).<br>
+  Merci de poster les messages &quot;techniques&quot; sur le forum &quot;Development&quot;.<br>
+  <br>
+  <a href="http://sourceforge.net/forum/forum.php?forum_id=50449" target="_blank">- 
+  Medieval theme -</a> [anglais]<br>
+  Traite uniquement du th&egrave;me M&eacute;di&eacute;val - Fantastique (ambiance, 
+  unit&eacute;s, d&eacute;bats sur les ch&acirc;teaux etc.)<br>
+  Encore une fois, pas de message technique sur ce forum.<br>
+  <br>
+  Nous pensons cr&eacute;er un forum &quot;sp&eacute;cifications&quot;...<br>
+  Le but de ces nombreux forums est de pouvoir les rendre relativement lisibles.<br>
+</layer>
+
+</body>
+</html>

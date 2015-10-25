@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bases>
+<bases>
+	<base>
+		<name>Castle</name>
+		<!--race>0</race-->
+		<vision>3</vision>
+		<disposition height="5" width="7">
+			0 0 0 0 0 0 0
+			0 0 0 0 0 0 0
+			1 1 1 1 1 0 0
+			1 1 1 1 1 1 1
+			0 0 2 1 1 1 1
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">2300	</resource>
+		<rescost>
+			<cost ressource="0">10</cost>
+			<cost ressource="1">4</cost>
+			<cost ressource="2">100</cost>
+			<cost ressource="3">4</cost>
+			<cost ressource="4">100</cost>
+			<cost ressource="5">100</cost>
+		</rescost>
+		<action type="0" coeff="7">
+			<elementary type="18" arg="5" arg1="0">7</elementary>
+		</action>
+		<action type="4" coeff="0">
+			<elementary type="18" arg="5" arg1="0">-30</elementary>
+		</action>
+		<action type="0" coeff="1">
+			<elementary type="19" arg="5" arg1="0">1</elementary>
+		</action>
+		<building>
+			<name>Village</name>
+			<description>Main Building</description>
+			<x>0</x>
+			<y>520</y>
+			<cost ressource="0">1000</cost>
+			<action type="1">
+			</action>
+		</building>
+		<building>
+			<name>Guarrison</name>
+			<description></description>
+			<x>760</x>
+			<y>436</y>
+			<cost ressource="0">1500</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<action type="3">
+				<param>0</param>
+				<param>0</param>
+				<param>7</param>
+			</action>
+		</building>
+		<building>
+			<name>Bridge</name>
+			<description></description>
+			<x>795</x>
+			<y>416</y>
+			<cost ressource="0">2000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Cathedral</name>
+			<description></description>
+			<x>698</x>
+			<y>526</y>
+			<cost ressource="0">2000</cost>
+			<cost ressource="2">20</cost>
+			<action type="3">
+				<param>0</param>
+				<param>3</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Marketplace</name>
+			<description></description>
+			<x>492</x>
+			<y>636</y>
+			<cost ressource="0">2000</cost>
+			<action type="4">
+			</action>
+		</building>
+		<building>
+			<name>Blacksmith</name>
+			<description></description>
+			<x>305</x>
+			<y>528</y>
+			<cost ressource="0">1500</cost>
+			<cost ressource="2">10</cost>
+			<action type="3">
+				<param>0</param>
+				<param>2</param>
+				<param>7</param>
+			</action>
+		</building>
+		<building>
+			<name>Magic Guild</name>
+			<description></description>
+			<x>687</x>
+			<y>419</y>
+			<cost ressource="0">2000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Griffon nest</name>
+			<description></description>
+			<x>209</x>
+			<y>193</y>
+			<cost ressource="0">2500</cost>
+			<cost ressource="2">10</cost>
+			<cost ressource="3">5</cost>
+			<cost ressource="4">5</cost>
+			<action type="3">
+				<param>0</param>
+				<param>5</param>
+				<param>7</param>
+			</action>
+		</building>
+		<building>
+			<name>Armor house</name>
+			<description></description>
+			<x>27</x>
+			<y>279</y>
+			<cost ressource="0">2000</cost>
+			<cost ressource="2">10</cost>
+			<cost ressource="3">5</cost>
+			<action type="3">
+				<param>0</param>
+				<param>1</param>
+				<param>7</param>
+			</action>
+		</building>
+		<building>
+			<name>Barracks</name>
+			<description></description>
+			<x>560</x>
+			<y>448</y>
+			<cost ressource="0">2000</cost>
+			<action type="5">
+			</action>
+		</building>
+		<building>
+			<name>Training ground</name>
+			<description></description>
+			<x>221</x>
+			<y>456</y>
+			<cost ressource="0">2000</cost>
+			<action type="3">
+				<param>0</param>
+				<param>4</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Castle</name>
+			<description></description>
+			<x>530</x>
+			<y>333</y>
+			<cost ressource="0">2000</cost>
+			<action type="2">
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Druidic</name>
+		<!--race>1</race-->
+		<vision>3</vision>
+		<disposition height="5" width="6">
+			0 0 0 0 0 0
+			0 0 1 1 0 0
+			0 1 1 1 1 0
+			1 1 1 1 1 1
+			1 1 2 1 1 1
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">1600	</resource>
+		<rescost>
+			<cost ressource="0">10</cost>
+			<cost ressource="1">2</cost>
+			<cost ressource="2">20</cost>
+			<cost ressource="3">14</cost>
+			<cost ressource="4">50</cost>
+			<cost ressource="5">145</cost>
+		</rescost>
+		<action type="0" coeff="1">
+			<elementary type="19" arg="5" arg1="0">1</elementary>
+		</action>
+		<action type="4" coeff="0">
+			<elementary type="18" arg="5" arg1="0">-22</elementary>
+		</action>
+		<action type="0" coeff="7">
+			<elementary type="18" arg="5" arg1="0">7</elementary>
+		</action>
+		<building>
+			<name>Magical forest</name>
+			<description></description>
+			<x>266</x>
+			<y>374</y>
+			<cost ressource="0">1500</cost>
+			<cost ressource="1">10</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Town hall</name>
+			<description>Main Building</description>
+			<x>130</x>
+			<y>477</y>
+			<mcost ressource="0">10</mcost>
+			<action type="1">
+			</action>
+		</building>
+		<building>
+			<name>Hole</name>
+			<description></description>
+			<x>0</x>
+			<y>478</y>
+			<cost ressource="0">1500</cost>
+			<mcost ressource="0">150</mcost>
+			<action type="0">
+			</action>
+			<require>3</require>
+		</building>
+		<building>
+			<name>Castle</name>
+			<description></description>
+			<x>0</x>
+			<y>305</y>
+			<cost ressource="0">4000</cost>
+			<cost ressource="1">20</cost>
+			<cost ressource="2">20</cost>
+			<action type="2">
+			</action>
+		</building>
+		<building>
+			<name>Traps</name>
+			<description></description>
+			<x>0</x>
+			<y>450</y>
+			<cost ressource="0">2000</cost>
+			<action type="0">
+			</action>
+			<require>2</require>
+		</building>
+		<building>
+			<name>Gifted tree</name>
+			<description></description>
+			<x>812</x>
+			<y>376</y>
+			<cost ressource="0">1000</cost>
+			<cost ressource="1">10</cost>
+			<action type="3">
+				<param>1</param>
+				<param>0</param>
+				<param>15</param>
+			</action>
+		</building>
+		<building>
+			<name>Tree of wisdom</name>
+			<description></description>
+			<x>422</x>
+			<y>397</y>
+			<cost ressource="0">4000</cost>
+			<cost ressource="1">10</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Cromlech</name>
+			<description></description>
+			<x>360</x>
+			<y>567</y>
+			<cost ressource="0">7000</cost>
+			<cost ressource="2">10</cost>
+			<cost ressource="3">5</cost>
+			<action type="3">
+				<param>1</param>
+				<param>4</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Fields</name>
+			<description></description>
+			<x>268</x>
+			<y>475</y>
+			<cost ressource="0">10000</cost>
+			<cost ressource="2">10</cost>
+			<action type="3">
+				<param>1</param>
+				<param>5</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Bridge</name>
+			<description></description>
+			<x>0</x>
+			<y>530</y>
+			<cost ressource="0">100</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Archery</name>
+			<description></description>
+			<x>624</x>
+			<y>471</y>
+			<cost ressource="0">4000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<cost ressource="3">5</cost>
+			<action type="3">
+				<param>1</param>
+				<param>3</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Stables</name>
+			<description></description>
+			<x>311</x>
+			<y>533</y>
+			<cost ressource="0">3000</cost>
+			<cost ressource="1">10</cost>
+			<cost ressource="3">2</cost>
+			<action type="3">
+				<param>1</param>
+				<param>2</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Market</name>
+			<description></description>
+			<x>200</x>
+			<y>581</y>
+			<cost ressource="0">2500</cost>
+			<action type="4">
+			</action>
+		</building>
+		<building>
+			<name>Magic guild 1</name>
+			<description></description>
+			<x>637</x>
+			<y>333</y>
+			<cost ressource="0">2000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Magic guild 2</name>
+			<description></description>
+			<x>637</x>
+			<y>312</y>
+			<cost ressource="0">2500</cost>
+			<action type="0">
+			</action>
+			<require>13</require>
+		</building>
+		<building>
+			<name>Magic guild 3</name>
+			<description></description>
+			<x>637</x>
+			<y>290</y>
+			<cost ressource="0">3000</cost>
+			<action type="0">
+			</action>
+			<require>14</require>
+		</building>
+		<building>
+			<name>Magic guild 4</name>
+			<description></description>
+			<x>637</x>
+			<y>269</y>
+			<cost ressource="0">3500</cost>
+			<action type="0">
+			</action>
+			<require>15</require>
+		</building>
+		<building>
+			<name>Magic guild 5</name>
+			<description></description>
+			<x>637</x>
+			<y>239</y>
+			<cost ressource="0">4000</cost>
+			<action type="0">
+			</action>
+			<require>16</require>
+		</building>
+		<building>
+			<name>Spellcasting University</name>
+			<description></description>
+			<x>637</x>
+			<y>206</y>
+			<cost ressource="0">5000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<action type="0">
+			</action>
+			<require>17</require>
+		</building>
+		<building>
+			<name>Aurora</name>
+			<description></description>
+			<x>244</x>
+			<y>118</y>
+			<cost ressource="0">20000</cost>
+			<cost ressource="2">10</cost>
+			<cost ressource="4">10</cost>
+			<action type="3">
+				<param>1</param>
+				<param>6</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Pit</name>
+			<description></description>
+			<x>148</x>
+			<y>640</y>
+			<cost ressource="0">2000</cost>
+			<cost ressource="2">5</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Stone</name>
+			<description></description>
+			<x>715</x>
+			<y>474</y>
+			<cost ressource="0">1000</cost>
+			<action type="3">
+				<param>1</param>
+				<param>1</param>
+				<param>10</param>
+			</action>
+		</building>
+		<building>
+			<name>Ye olde Inn</name>
+			<description>Meet heroes, recruit leaders</description>
+			<x>500</x>
+			<y>600</y>
+			<action type="5">
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Mercenary</name>
+		<!--race>2</race-->
+		<vision>3</vision>
+		<disposition height="5" width="6">
+			0 0 0 0 0 0
+			0 0 1 1 0 0
+			1 1 1 1 1 1
+			1 1 1 1 1 1
+			0 0 2 1 1 1
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">1500	</resource>
+		<rescost>
+			<cost ressource="0">10</cost>
+			<cost ressource="1">14</cost>
+			<cost ressource="2">12</cost>
+			<cost ressource="3">11</cost>
+			<cost ressource="4">20</cost>
+			<cost ressource="5">17</cost>
+		</rescost>
+		<action type="0" coeff="1">
+			<elementary type="19" arg="5" arg1="0">1</elementary>
+		</action>
+		<action type="4" coeff="0">
+			<elementary type="18" arg="5" arg1="0">2</elementary>
+		</action>
+		<action type="0" coeff="7">
+			<elementary type="18" arg="5" arg1="0">2</elementary>
+		</action>
+		<building>
+			<name>Tavern</name>
+			<description>Allow you to recruit lords</description>
+			<x>275</x>
+			<y>482</y>
+			<cost ressource="0">500</cost>
+			<cost ressource="1">5</cost>
+			<action type="5">
+			</action>
+		</building>
+		<building>
+			<name>Market</name>
+			<description>Allow you to trade resources</description>
+			<x>269</x>
+			<y>570</y>
+			<cost ressource="0">2500</cost>
+			<action type="4">
+			</action>
+		</building>
+		<building>
+			<name>Blacksmith</name>
+			<description>Allow you to buy iron bull</description>
+			<x>847</x>
+			<y>267</y>
+			<cost ressource="0">2000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="3">3</cost>
+			<action type="3">
+				<param>2</param>
+				<param>3</param>
+				<param>6</param>
+			</action>
+		</building>
+		<building>
+			<name>Townhall</name>
+			<description>Allow you to buy some other buildings.</description>
+			<x>4</x>
+			<y>499</y>
+			<cost ressource="0">4000</cost>
+			<cost ressource="1">10</cost>
+			<action type="1">
+			</action>
+		</building>
+		<building>
+			<name>Castle</name>
+			<description>Protect your town and allow you to recruit creatures</description>
+			<x>616</x>
+			<y>135</y>
+			<cost ressource="0">5000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">10</cost>
+			<cost ressource="3">5</cost>
+			<action type="2">
+			</action>
+		</building>
+		<building>
+			<name>Thieves Guild</name>
+			<description>Recruit some thieves</description>
+			<x>0</x>
+			<y>240</y>
+			<cost ressource="0">2000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<cost ressource="3">1</cost>
+			<cost ressource="4">1</cost>
+			<action type="3">
+				<param>2</param>
+				<param>1</param>
+				<param>6</param>
+			</action>
+		</building>
+		<building>
+			<name>Guild level 1</name>
+			<description>Teach some spells of level 1</description>
+			<x>172</x>
+			<y>185</y>
+			<cost ressource="0">2000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<cost ressource="3">2</cost>
+			<cost ressource="4">2</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Guild level 2</name>
+			<description>Teach some spells of level 2</description>
+			<x>188</x>
+			<y>160</y>
+			<cost ressource="0">3000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<cost ressource="3">3</cost>
+			<cost ressource="4">3</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Guild level 3</name>
+			<description>Teach some spells of level 3</description>
+			<x>194</x>
+			<y>139</y>
+			<cost ressource="0">4000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<cost ressource="3">4</cost>
+			<cost ressource="4">4</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Guild level 4</name>
+			<description>Teach some spells of level 4</description>
+			<x>202</x>
+			<y>124</y>
+			<cost ressource="0">5000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<cost ressource="3">5</cost>
+			<cost ressource="4">5</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Cottage</name>
+			<description>Allow you to recruit some dwarves.</description>
+			<x>477</x>
+			<y>541</y>
+			<cost ressource="0">1500</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">5</cost>
+			<action type="3">
+				<param>2</param>
+				<param>0</param>
+				<param>7</param>
+			</action>
+		</building>
+		<building>
+			<name>Black Palace</name>
+			<description>Allow you to recruit black mistresses.</description>
+			<x>645</x>
+			<y>503</y>
+			<cost ressource="0">10000</cost>
+			<cost ressource="2">20</cost>
+			<action type="3">
+				<param>2</param>
+				<param>4</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Labyrinth</name>
+			<description>Allow you to recruit minotaurs</description>
+			<x>339</x>
+			<y>453</y>
+			<cost ressource="0">25000</cost>
+			<cost ressource="2">30</cost>
+			<cost ressource="3">10</cost>
+			<action type="3">
+				<param>2</param>
+				<param>5</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Bull Breeding Pit</name>
+			<description>Allow you to recruit some bulls</description>
+			<x>54</x>
+			<y>600</y>
+			<cost ressource="0">5000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">1</cost>
+			<cost ressource="3">1</cost>
+			<action type="3">
+				<param>2</param>
+				<param>2</param>
+				<param>7</param>
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Necroman</name>
+		<!--race>3</race-->
+		<vision>3</vision>
+		<disposition height="5" width="7">
+			0 0 0 0 0 0 0
+			0 1 1 1 1 0 0
+			1 1 1 1 1 1 0
+			1 1 1 1 1 1 0
+			0 2 1 1 1 1 0
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">2200	</resource>
+		<rescost>
+			<cost ressource="0">10</cost>
+			<cost ressource="1">8</cost>
+			<cost ressource="2">8</cost>
+			<cost ressource="3">60</cost>
+			<cost ressource="4">6</cost>
+			<cost ressource="5">17</cost>
+		</rescost>
+		<action type="0" coeff="1">
+			<elementary type="19" arg="5" arg1="0">1</elementary>
+		</action>
+		<action type="4" coeff="0">
+			<elementary type="18" arg="5" arg1="0">-15</elementary>
+		</action>
+		<action type="0" coeff="7">
+			<elementary type="18" arg="5" arg1="0">10</elementary>
+		</action>
+		<building>
+			<name>Nozferatu Castle</name>
+			<description></description>
+			<x>408</x>
+			<y>484</y>
+			<cost ressource="0">5000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="3">10</cost>
+			<action type="3">
+				<param>3</param>
+				<param>3</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Ruins</name>
+			<description></description>
+			<x>510</x>
+			<y>526</y>
+			<cost ressource="0">2500</cost>
+			<action type="4">
+			</action>
+		</building>
+		<building>
+			<name>Swamp</name>
+			<description></description>
+			<x>673</x>
+			<y>561</y>
+			<cost ressource="0">1500</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">2</cost>
+			<action type="3">
+				<param>3</param>
+				<param>0</param>
+				<param>10</param>
+			</action>
+		</building>
+		<building>
+			<name>Cemetery</name>
+			<description></description>
+			<x>675</x>
+			<y>627</y>
+			<cost ressource="0">2000</cost>
+			<cost ressource="1">8</cost>
+			<cost ressource="3">5</cost>
+			<action type="3">
+				<param>3</param>
+				<param>1</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Pyramid</name>
+			<description></description>
+			<x>0</x>
+			<y>579</y>
+			<cost ressource="0">3000</cost>
+			<cost ressource="1">1</cost>
+			<cost ressource="2">1</cost>
+			<cost ressource="3">10</cost>
+			<action type="3">
+				<param>3</param>
+				<param>2</param>
+				<param>8</param>
+			</action>
+		</building>
+		<building>
+			<name>Mansion</name>
+			<description></description>
+			<x>143</x>
+			<y>537</y>
+			<cost ressource="0">4000</cost>
+			<cost ressource="1">10</cost>
+			<action type="1">
+			</action>
+		</building>
+		<building>
+			<name>Royal Pyramid</name>
+			<description></description>
+			<x>42</x>
+			<y>592</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Dead Tree</name>
+			<description></description>
+			<x>843</x>
+			<y>413</y>
+			<cost ressource="0">500</cost>
+			<cost ressource="1">5</cost>
+			<action type="5">
+			</action>
+		</building>
+		<building>
+			<name>Castle</name>
+			<description></description>
+			<x>0</x>
+			<y>437</y>
+			<cost ressource="0">5000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="2">10</cost>
+			<cost ressource="3">5</cost>
+			<action type="2">
+			</action>
+		</building>
+		<building>
+			<name>Deadwulfes hide</name>
+			<description>Recruit revived wulfes here</description>
+			<x>633</x>
+			<y>434</y>
+			<cost ressource="0">25000</cost>
+			<cost ressource="1">30</cost>
+			<cost ressource="2">20</cost>
+			<cost ressource="4">10</cost>
+			<action type="3">
+				<param>3</param>
+				<param>5</param>
+				<param>8</param>
+			</action>
+		</building>
+		<building>
+			<name>Doorway to the Underworld</name>
+			<description>Release Apocalyptic Riders</description>
+			<x>437</x>
+			<y>587</y>
+			<cost ressource="0">10000</cost>
+			<cost ressource="2">20</cost>
+			<action type="3">
+				<param>3</param>
+				<param>4</param>
+				<param>5</param>
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Sorcerer</name>
+		<!--race>4</race-->
+		<vision>3</vision>
+		<disposition height="5" width="7">
+			0 0 0 0 0 0 0
+			0 0 0 1 1 0 0
+			0 1 1 1 1 1 0
+			1 1 2 1 1 1 0
+			0 0 0 0 0 1 0
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<rescost>
+			<cost ressource="0">1</cost>
+			<cost ressource="1">1</cost>
+			<cost ressource="2">1</cost>
+			<cost ressource="3">1</cost>
+			<cost ressource="4">1</cost>
+			<cost ressource="5">105</cost>
+		</rescost>
+		<building>
+			<name>Castle</name>
+			<description></description>
+			<x>756</x>
+			<y>447</y>
+			<action type="2">
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Magician</name>
+		<!--race>5</race-->
+		<vision>3</vision>
+		<disposition height="5" width="7">
+			0 0 1 1 1 0 0
+			0 1 1 1 0 1 0
+			1 1 1 1 1 1 0
+			1 1 1 1 1 1 0
+			1 1 1 2 0 0 0
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<rescost>
+			<cost ressource="0">1</cost>
+			<cost ressource="1">1</cost>
+			<cost ressource="2">1</cost>
+			<cost ressource="3">1</cost>
+			<cost ressource="4">1</cost>
+			<cost ressource="5">137</cost>
+		</rescost>
+		<building>
+			<name>Castle</name>
+			<description></description>
+			<x>100</x>
+			<y>200</y>
+			<action type="2">
+			</action>
+		</building>
+		<building>
+			<name>Boathouse</name>
+			<description></description>
+			<x>350</x>
+			<y>330</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Academy of Water</name>
+			<description>Recruit Water Mages</description>
+			<x>200</x>
+			<y>280</y>
+			<action type="3">
+				<param>5</param>
+				<param>0</param>
+				<param>15</param>
+			</action>
+		</building>
+		<building>
+			<name>Academy of Nature</name>
+			<description>Recruit Earthmages</description>
+			<x>0</x>
+			<y>480</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Academy of Fire</name>
+			<description>Recruit Firemages</description>
+			<x>705</x>
+			<y>263</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Tavern</name>
+			<description>Recruit your Lords here</description>
+			<x>588</x>
+			<y>279</y>
+			<action type="5">
+			</action>
+		</building>
+		<building>
+			<name>Townhall</name>
+			<description>Main building</description>
+			<x>704</x>
+			<y>410</y>
+			<action type="1">
+			</action>
+		</building>
+		<building>
+			<name>Academy of the Air</name>
+			<description>Recruit air mages</description>
+			<x>318</x>
+			<y>415</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Tower of Despair</name>
+			<description></description>
+			<x>646</x>
+			<y>112</y>
+			<action type="0">
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Barbarian</name>
+		<!--race>6</race-->
+		<vision>3</vision>
+		<disposition height="5" width="7">
+			0 0 0 0 0 0 0
+			0 0 0 0 0 0 0
+			0 0 1 0 0 0 0
+			1 1 1 1 1 1 1
+			99 99 2 1 1 1 0
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">1200	</resource>
+		<rescost>
+			<cost ressource="0">4</cost>
+			<cost ressource="1">4</cost>
+			<cost ressource="2">40</cost>
+			<cost ressource="3">10</cost>
+			<cost ressource="4">150</cost>
+			<cost ressource="5">145</cost>
+		</rescost>
+		<action type="0" coeff="1">
+			<elementary type="19" arg="5" arg1="0">1</elementary>
+		</action>
+		<action type="4" coeff="0">
+			<elementary type="18" arg="5" arg1="0">18</elementary>
+		</action>
+		<action type="0" coeff="7">
+			<elementary type="18" arg="5" arg1="0">10</elementary>
+		</action>
+		<building>
+			<name>Lair</name>
+			<description></description>
+			<x>114</x>
+			<y>232</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Deep forest</name>
+			<description></description>
+			<x>206</x>
+			<y>145</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Archery Hut</name>
+			<description></description>
+			<x>839</x>
+			<y>619</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Arena</name>
+			<description></description>
+			<x>546</x>
+			<y>294</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Market</name>
+			<description></description>
+			<x>850</x>
+			<y>523</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Power Fort</name>
+			<description></description>
+			<x>558</x>
+			<y>130</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Forge</name>
+			<description></description>
+			<x>851</x>
+			<y>295</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Magic Guild</name>
+			<description></description>
+			<x>114</x>
+			<y>401</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Castle</name>
+			<description></description>
+			<x>704</x>
+			<y>119</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Cave's Island</name>
+			<description></description>
+			<x>415</x>
+			<y>590</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Building</name>
+			<description></description>
+			<x>825</x>
+			<y>676</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Townhall</name>
+			<description></description>
+			<x>0</x>
+			<y>533</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Garbage Dump</name>
+			<description></description>
+			<x>0</x>
+			<y>330</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Tavern</name>
+			<description></description>
+			<x>272</x>
+			<y>305</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Hades</name>
+		<!--race>7</race-->
+		<vision>3</vision>
+		<disposition height="5" width="7">
+			0 0 0 0 0 0 0
+			0 0 0 1 0 0 0
+			0 1 1 1 1 1 0
+			0 1 1 1 1 1 0
+			0 0 2 1 1 1 0
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<rescost>
+			<cost ressource="0">1</cost>
+			<cost ressource="1">1</cost>
+			<cost ressource="2">1</cost>
+			<cost ressource="3">1</cost>
+			<cost ressource="4">1</cost>
+			<cost ressource="5">121</cost>
+		</rescost>
+		<building>
+			<name>Infernal Palace</name>
+			<description></description>
+			<x>672</x>
+			<y>254</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Huts of the Abyss</name>
+			<description></description>
+			<x>174</x>
+			<y>212</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Deumeure</name>
+			<description></description>
+			<x>0</x>
+			<y>213</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Guild</name>
+			<description></description>
+			<x>150</x>
+			<y>81</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Furnace Bridge</name>
+			<description></description>
+			<x>182</x>
+			<y>339</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Temple</name>
+			<description></description>
+			<x>463</x>
+			<y>414</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Flames</name>
+			<description></description>
+			<x>465</x>
+			<y>437</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Forgery</name>
+			<description></description>
+			<x>303</x>
+			<y>354</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Training Camps</name>
+			<description></description>
+			<x>531</x>
+			<y>167</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Castle</name>
+			<description></description>
+			<x>677</x>
+			<y>86</y>
+			<action type="2">
+			</action>
+		</building>
+		<building>
+			<name>Castle Clouds</name>
+			<description></description>
+			<x>609</x>
+			<y>23</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Town Hall</name>
+			<description></description>
+			<x>0</x>
+			<y>433</y>
+			<action type="1">
+			</action>
+		</building>
+		<building>
+			<name>Disastrous Passage</name>
+			<description></description>
+			<x>632</x>
+			<y>497</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Port</name>
+			<description></description>
+			<x>437</x>
+			<y>589</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Tavern</name>
+			<description></description>
+			<x>251</x>
+			<y>594</y>
+			<action type="5">
+			</action>
+		</building>
+		<building>
+			<name>Doors to Hell</name>
+			<description></description>
+			<x>823</x>
+			<y>559</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Market</name>
+			<description></description>
+			<x>474</x>
+			<y>328</y>
+			<action type="4">
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Atlantis</name>
+		<!--race>8</race-->
+		<vision>3</vision>
+		<disposition height="5" width="7">
+			0 0 0 0 0 0 0
+			0 0 1 1 1 0 0
+			0 1 1 1 1 1 0
+			1 1 1 1 1 1 1
+			0 1 2 1 1 1 0
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">1400	</resource>
+		<rescost>
+			<cost ressource="0">10</cost>
+			<cost ressource="1">220</cost>
+			<cost ressource="2">4</cost>
+			<cost ressource="3">8</cost>
+			<cost ressource="4">12</cost>
+			<cost ressource="5">73</cost>
+		</rescost>
+		<action type="0" coeff="1">
+			<elementary type="19" arg="5" arg1="3">1</elementary>
+		</action>
+		<action type="4" coeff="0">
+			<elementary type="18" arg="5" arg1="0">-15</elementary>
+		</action>
+		<action type="0" coeff="5">
+			<elementary type="18" arg="5" arg1="0">8</elementary>
+		</action>
+		<building>
+			<name>Castle</name>
+			<description></description>
+			<x>508</x>
+			<y>253</y>
+			<cost ressource="0">1000</cost>
+			<action type="2">
+			</action>
+		</building>
+		<building>
+			<name>Tritons' House</name>
+			<description></description>
+			<x>338</x>
+			<y>417</y>
+			<cost ressource="0">1000</cost>
+			<action type="3">
+			</action>
+		</building>
+		<building>
+			<name>Magic Guild</name>
+			<description></description>
+			<x>792</x>
+			<y>372</y>
+			<cost ressource="0">1000</cost>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Sea Altar</name>
+			<description></description>
+			<x>220</x>
+			<y>522</y>
+			<cost ressource="0">1000</cost>
+			<action type="4">
+			</action>
+		</building>
+		<building>
+			<name>Shipwreck</name>
+			<description></description>
+			<x>498</x>
+			<y>447</y>
+			<cost ressource="0">1000</cost>
+			<action type="5">
+			</action>
+		</building>
+		<building>
+			<name>Giant Shell</name>
+			<description></description>
+			<x>290</x>
+			<y>436</y>
+			<cost ressource="0">1000</cost>
+			<action type="3">
+			</action>
+		</building>
+		<building>
+			<name>Abyss</name>
+			<description></description>
+			<x>778</x>
+			<y>598</y>
+			<cost ressource="0">1000</cost>
+			<action type="3">
+			</action>
+		</building>
+		<building>
+			<name>Coral-red</name>
+			<description></description>
+			<x>121</x>
+			<y>462</y>
+			<cost ressource="0">1000</cost>
+			<action type="3">
+			</action>
+		</building>
+		<building>
+			<name>Townhall</name>
+			<description></description>
+			<x>2</x>
+			<y>534</y>
+			<cost ressource="0">1000</cost>
+			<action type="1">
+			</action>
+		</building>
+		<building>
+			<name>Mermaid's Pool</name>
+			<description></description>
+			<x>765</x>
+			<y>450</y>
+			<action type="3">
+			</action>
+		</building>
+	</base>
+	<base>
+		<name>Golem</name>
+		<!--race>9</race-->
+		<vision>3</vision>
+		<disposition height="5" width="7">
+			0 0 0 0 1 1 0
+			0 0 0 0 1 1 0
+			0 1 1 1 1 1 0
+			0 1 1 1 1 1 0
+			0 2 1 1 1 0 0
+		</disposition>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">1000	</resource>
+		<rescost>
+			<cost ressource="0">1</cost>
+			<cost ressource="1">1</cost>
+			<cost ressource="2">1</cost>
+			<cost ressource="3">1</cost>
+			<cost ressource="4">1</cost>
+			<cost ressource="5">145</cost>
+		</rescost>
+		<action type="0" coeff="1">
+			<elementary type="19" arg="5" arg1="2">1</elementary>
+		</action>
+		<action type="0" coeff="4">
+			<elementary type="18" arg="5" arg1="0">3</elementary>
+		</action>
+		<building>
+			<name>Fortifications</name>
+			<description></description>
+			<x>619</x>
+			<y>201</y>
+			<cost ressource="0">2000</cost>
+			<cost ressource="1">5</cost>
+			<cost ressource="3">5</cost>
+			<action type="2">
+			</action>
+		</building>
+		<building>
+			<name>Manticor's Cave</name>
+			<description></description>
+			<x>480</x>
+			<y>140</y>
+			<action type="3">
+				<param>1</param>
+				<param>0</param>
+				<param>15</param>
+			</action>
+		</building>
+		<building>
+			<name>Sandwulf's Pit</name>
+			<description></description>
+			<x>550</x>
+			<y>400</y>
+			<action type="3">
+				<param>1</param>
+				<param>0</param>
+				<param>10</param>
+			</action>
+		</building>
+		<building>
+			<name>Gargoyle's Hide</name>
+			<description></description>
+			<x>0</x>
+			<y>480</y>
+			<action type="3">
+				<param>1</param>
+				<param>0</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Ironstream</name>
+			<description></description>
+			<x>675</x>
+			<y>634</y>
+			<action type="3">
+				<param>1</param>
+				<param>0</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Waterfall</name>
+			<description></description>
+			<x>555</x>
+			<y>500</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Totem</name>
+			<description>The main building</description>
+			<x>200</x>
+			<y>220</y>
+			<action type="1">
+			</action>
+		</building>
+		<building>
+			<name>Magical Spirits</name>
+			<description></description>
+			<x>330</x>
+			<y>20</y>
+			<action type="0">
+			</action>
+		</building>
+		<building>
+			<name>Stonegolem's Mine</name>
+			<description></description>
+			<x>280</x>
+			<y>300</y>
+			<action type="3">
+				<param>1</param>
+				<param>0</param>
+				<param>5</param>
+			</action>
+		</building>
+		<building>
+			<name>Campfire</name>
+			<description>The place where heroes go!</description>
+			<x>370</x>
+			<y>500</y>
+			<action type="5">
+			</action>
+		</building>
+	</base>
+</bases>

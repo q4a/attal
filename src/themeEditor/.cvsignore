@@ -1,0 +1,11 @@
+editor
+moc_*
+*.moc.cpp
+*.o
+Makefile
+Makefile.in
+.deps
+theme-editor
+ThemeEditor.plg
+Debug
+Release

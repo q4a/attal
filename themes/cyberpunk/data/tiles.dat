@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tiles>
+<tiles>
+	<tile>
+		<name>Ground</name>
+		<coef>1</coef>
+	</tile>
+	<tile>
+		<name>Water</name>
+		<coef>-1</coef>
+        </tile>
+        <tile>
+		<name>Rock</name>
+		<coef>-1</coef>
+	</tile>
+</tiles>

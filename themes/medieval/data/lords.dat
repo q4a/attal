@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE lords>
+<lords>
+	<lord category="1">
+		<name>Lady Alea</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">0</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1500</cost>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>15</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>2</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>2</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="0">
+		<name>Lieutnant Brutus</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1500</cost>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>1</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>2</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>3</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>4</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>5</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="0">
+		<name>General Lucius</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2300</cost>
+		<cost resource="1">1</cost>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="1">
+		<name>Lord Siddhara</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1500</cost>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="2">
+		<name>Ol'Bar</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">4</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">10</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1750</cost>
+		<unit>
+			<race>1</race>
+			<level>3</level>
+			<number>10</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="2">
+		<name>Kan'Thur</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1450</cost>
+		<cost resource="3">3</cost>
+		<unit>
+			<race>1</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="3">
+		<name>E'Mira</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2100</cost>
+		<cost resource="2">7</cost>
+		<unit>
+			<race>1</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="3">
+		<name>Al'krah</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1767</cost>
+		<cost resource="4">9</cost>
+		<unit>
+			<race>1</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="4">
+		<name>RhaaDo</name>
+		<characteristic type="attack">6</characteristic>
+		<characteristic type="defense">4</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">7</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1900</cost>
+		<unit>
+			<race>2</race>
+			<level>2</level>
+			<number>10</number>
+		</unit>
+		<unit>
+			<race>2</race>
+			<level>0</level>
+			<number>5</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="4">
+		<name>MagharRo</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1900</cost>
+		<cost resource="2">10</cost>
+		<unit>
+			<race>2</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="5">
+		<name>SusnarYe</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2400</cost>
+		<unit>
+			<race>2</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="5">
+		<name>TongRa</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2700</cost>
+		<unit>
+			<race>2</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="6">
+		<name>Kar Domadosch</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">8</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2100</cost>
+		<unit>
+			<race>3</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="7">
+		<name>All Rardosch</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">9</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2900</cost>
+		<unit>
+			<race>3</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="6">
+		<name>Dor Angrosch</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">7</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1780</cost>
+		<unit>
+			<race>3</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="7">
+		<name>Gar Akkasch</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">7</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">3000</cost>
+		<unit>
+			<race>3</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="8">
+		<name>Lord17</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">7</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2600</cost>
+		<unit>
+			<race>4</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="8">
+		<name>Lord18</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">7</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1900</cost>
+		<unit>
+			<race>4</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="9">
+		<name>Lord19</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">7</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2700</cost>
+		<unit>
+			<race>4</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="9">
+		<name>Lord20</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">400</characteristic>
+		<characteristic type="vision">7</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2500</cost>
+		<unit>
+			<race>4</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="10">
+		<name>Lord21</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">200</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1700</cost>
+		<unit>
+			<race>5</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="10">
+		<name>Lord22</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2400</cost>
+		<unit>
+			<race>5</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="11">
+		<name>Lord23</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1790</cost>
+		<unit>
+			<race>5</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="11">
+		<name>Lord24</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1560</cost>
+		<unit>
+			<race>5</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="12">
+		<name>Lord25</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2000</cost>
+		<unit>
+			<race>6</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="12">
+		<name>Lord26</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2700</cost>
+		<unit>
+			<race>6</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="13">
+		<name>Lord27</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2400</cost>
+		<unit>
+			<race>6</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="13">
+		<name>Lord28</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1400</cost>
+		<unit>
+			<race>6</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="14">
+		<name>Lord29</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1900</cost>
+		<unit>
+			<race>7</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="14">
+		<name>Lord30</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2700</cost>
+		<unit>
+			<race>7</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="15">
+		<name>Lord31</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2340</cost>
+		<unit>
+			<race>7</race>
+			<level>0</level>
+			<number>2</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="15">
+		<name>Lord32</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1780</cost>
+		<cost resource="1">10</cost>
+		<unit>
+			<race>7</race>
+			<level>0</level>
+			<number>2</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="16">
+		<name>Lord33</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2300</cost>
+		<unit>
+			<race>8</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="16">
+		<name>Lord34</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1450</cost>
+		<unit>
+			<race>8</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="17">
+		<name>Lord35</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">3000</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1750</cost>
+		<unit>
+			<race>8</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="17">
+		<name>Lord36</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2000</cost>
+		<unit>
+			<race>8</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="18">
+		<name>Lord37</name>
+		<characteristic type="attack">3</characteristic>
+		<characteristic type="defense">2</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2500</cost>
+		<unit>
+			<race>9</race>
+			<level>0</level>
+			<number>2</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="18">
+		<name>Lord38</name>
+		<characteristic type="attack">2</characteristic>
+		<characteristic type="defense">3</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">1500</cost>
+		<unit>
+			<race>9</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="19">
+		<name>Lord39</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2000</cost>
+		<unit>
+			<race>9</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord category="0">
+		<name>Lord40</name>
+		<characteristic type="attack">1</characteristic>
+		<characteristic type="defense">1</characteristic>
+		<characteristic type="movemax">300</characteristic>
+		<characteristic type="vision">6</characteristic>
+		<characteristic type="level">0</characteristic>
+		<cost resource="0">2000</cost>
+		<unit>
+			<race>9</race>
+			<level>0</level>
+			<number>1</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+		<unit>
+			<race>0</race>
+			<level>0</level>
+			<number>0</number>
+		</unit>
+	</lord>
+</lords>

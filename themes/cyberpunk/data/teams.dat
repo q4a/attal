@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE teams>
+<teams>
+	<team>
+		<name>Red</name>
+		<red>Red</red>
+		<green>Red</green>
+		<blue>Red</blue>
+	</team>
+	<team>
+		<name>Blue</name>
+		<red>Blue</red>
+		<green>Blue</green>
+		<blue>Blue</blue>
+	</team>
+</teams>

@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF">
+ 
+
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte_classique"> 
+  <p><img src="../en_interface/en_titre_team.jpg" width="382" height="16"><br>
+    <br>
+   The team is currently composed of 5 members : <br>
+    <br>
+    Pascal Audoux, Cyrille Verrier, Alexandre Lhérault and Gilles Oppeneau have launched this project.<br>
+    <br>
+    - <a href="mailto:paudoux@chez.com">Audoux Pascal</a>, developper. <br>
+    24 years old<br>
+    Work in Telecom : (<a href="http://www.yalbi.com">www.yalbi.com</a>)<br>
+    <br>
+    - <a href="mailto:verrier@chez.com">Verrier Cyrille</a>, developper. <br>
+    21 years old <br>
+    Student in computer science.<br>
+    <br>
+    - <a href="mailto:lherault1@caramail.com">Lhérault Alexandre</a>, graphist. 
+    <br>
+    23 years old <br>
+    Student in arts.<br>
+    <br>
+    - <a href="mailto:mitro@netcourrier.com">Oppeneau Gilles</a>, graphist & 
+    webmaster.<br>
+    24 years old<br>
+    Work in Networks<br>
+    <br>
+    - <a href="mailto:etombuffy@multimania.com">Touchot Eloise</a>, scénarist. 
+    <br>
+    14 years old <br>
+    <br>
+    <br>
+	Of course, we need a lot of other people like developpers, graphists, musicians, beta-tester, ...
+	Just <a href="mailto:mitro@netcourrier.com">write us</a> !
+    <br>
+    <br>
+</div>
+
+
+
+
+
+
+
+
+
+<!--#include virtual="../en_pages/en_interface.shtml" -->
+
+
+</body>
+</html>

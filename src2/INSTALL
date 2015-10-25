@@ -1,0 +1,201 @@
+Binaries:
+On linux:
+    Just make sure, that your enviroment variables are set as it said in HOWTOPLAY file and
+    themes directory (or symbolic link to it) is set to the current directory, from you want to start Attal
+On windows:
+		Double click on installer
+
+Sources:
+
+== Compile the game ==
+
+We are now using qmake for building Attal.
+
+For using qmake you must be sure that the environment variables QMAKESPEC and QTDIR are correctly sets.
+For more information, read the documentation given with qt about qmake.
+
+The sintax is:
+On linux:
+export QTDIR=path to qt
+
+On windows, if QTDIR is not set:
+set QTDIR=path to qt
+set PATH=%QTDIR%\bin;%PATH%
+
+Note that you will need to have (at least) qt 4.5.0 installed (lib and include files).
+Attal is tested with various gcc compilers, from gcc 3.2.2 to gcc 4 and mingw
+
+*IMPORTANT*: Themes directory need to be placed in src2 directory
+
+On linux:
+It should be no more necessary, but if you have some problems to find libraries set the environment variable LD_LIBRARY_PATH to local directory like this:
+export LD_LIBRARY_PATH=.
+
+On Windows:
+$> qmake -o Makefile Makefile.pro
+$> make
+
+On linux:
+Now, do the following steps:
+$ qmake -o Makefile Makefile.pro
+$ make
+$ make install (as root)
+
+Or, better, after setting QTDIR , do the following steps:
+$ ./autogen.sh
+$ make
+$ make install (as root)
+$ /sbin/ldconfig (as root)
+
+== Run the game ==
+
+Well, everything should be ok now.
+You can launch :
+- the client:
+	$ attal-client &
+- the server:
+	$ attal-server &
+- the ia-client:
+	$ attal-ai &
+- the scenario editor:
+	$ attal-scenario-editor &
+- the theme editor:
+	$ attal-theme-editor &
+- the campaign editor:
+	$ attal-campaign-editor &
+
+IMPORTANT NOTE: all the executables need to find the theme (medieval theme for the moment) and so the folder 'themes',
+which have to contain the 'medieval' theme, is found if is:
+* present in the current directory (where there are the binaries) only if you play in local directory
+* can be set with --themepath switch at command line
+* can be set with environment variable ATTAL_THEME_PATH
+
+Using make install these steps are not necessary if the game is installed ( make install ).
+
+
+== Delete the game == 
+
+On linux:
+NOTE: to uninstall the game use:
+$ make uninstall (as root)
+Also ~/.attal if you want to delete old saved games
+
+On windows:
+Simply delete the folder, if compiled from the source, and also c:\attal if you want to delete old saved games
+
+== Config options ==
+
+You can edit config.pro for setting some global options (for example compiling in static if you got problem with dynamic libs).
+
+If you have some problems for compiling it, you can read INSTALL.Debian
+which relates a user experience for compiling it on Debian...
+
+If you have some problems for compiling it on MacosX, that seem not manage well dynamic libs
+try to compile with staticlib, uncommenting 
+
+	#CONFIG += staticlib
+
+in config.pro
+
+If you want to debug some part of code, please try to compile with debug option, uncommenting
+
+ #CONFIG += debug
+
+as above
+
+Sound in compilation from source code is enabled , if you want to disable this, commenting like this
+
+ #DEFINES += WITH_SOUND
+
+For different options of compilation, read comments in config.pro
+
+== Environment variables ==
+
+On linux:
+If you want to make an attal package you have various environment variable to set to help your work
+all these commands are to do before launch autogen.sh:
+
+export ATT_PREFIX=your path
+Choose a different installation directory
+
+export ATT_LIB_PREFIX=your path
+Choose a different libs installation directory
+
+export ATT_DOCS_PREFIX=your path
+Choose a different documentation installation directory
+
+export ATT_THEMES_PREFIX=your path
+Set the default path where attal will search themes
+
+export ATT_TRANSL_PREFIX=your path
+Set the default path where attal will search translations
+
+export ATT_TEMP_THEMES_PREFIX=your path
+Set the place where place themes ( that could be different from theme_prefix ( useful for packages )
+
+export ATT_TEMP_TRANSL_PREFIX=your path
+Set the place where place translations ( that could be different from transl_prefix ( useful for packages )
+
+export ATT_QMAKE=qmake_bin 
+Set a different qmake
+
+export ATT_LUPDATE=lupdate_bin
+Set a different lupdate
+
+export ATT_LRELEASE=lrelease_bin
+Set a different lrelease
+
+export ATT_CROSS_COMPILE=true
+Activate some cross compilation fixes
+
+export ATT_VERSION=your version
+Set a different version
+
+export ATT_DEBUG=true
+Enable debug
+
+export ATT_GPROF=true
+Enable profiling
+
+On windows:
+set ATT_PREFIX=your path
+Choose a different installation directory
+
+set ATT_LIB_PREFIX=your path
+Choose a different libs installation directory
+
+set ATT_DOCS_PREFIX=your path
+Choose a different documentation installation directory
+
+set ATT_THEMES_PREFIX=your path
+Set the default path where attal will search themes
+
+set ATT_TRANSL_PREFIX=your path
+Set the default path where attal will search translations
+
+set ATT_TEMP_THEMES_PREFIX=your path
+Set the place where place themes ( that could be different from theme_prefix ( useful for packages )
+
+set ATT_TEMP_TRANSL_PREFIX=your path
+Set the place where place translations ( that could be different from transl_prefix ( useful for packages )
+
+set ATT_QMAKE=qmake_bin 
+Set a different qmake
+
+set ATT_LUPDATE=lupdate_bin
+Set a different lupdate
+
+set ATT_LRELEASE=lrelease_bin
+Set a different lrelease
+
+set ATT_CROSS_COMPILE=true
+Activate some cross compilation fixes
+
+set ATT_VERSION=your version
+Set a different version
+
+set ATT_DEBUG=true
+Enable debug
+
+set ATT_GPROF=true
+Enable profiling

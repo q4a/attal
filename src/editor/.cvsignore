@@ -1,0 +1,7 @@
+editor
+*.moc.cpp
+*.o
+Makefile
+Makefile.in
+.deps
+attal-editor

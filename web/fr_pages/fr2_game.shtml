@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<STYLE TYPE="text/css">
+<!--
+A {text-decoration:none;}
+-->
+</STYLE>
+
+<STYLE>
+BODY
+{scrollbar-face-color: #666666; scrollbar-shadow-color: #33cc00; 
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #33cc00; 
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-arrow-color: #000D45; text-decoration: blink}
+</STYLE> 
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:405px; height:222px; z-index:3; left: 195px; top: 165px" class="cadre12"> 
+  <p><img src="../fr_interface/titre_game_fr.jpg" width="382" height="16"><br>
+    <br>
+    <a href="fr2_game_cr.shtml">- Comptes rendus des r&eacute;unions &eacute;quipe 
+    -</a><br>
+    Vous trouverez ici les diff&eacute;rents comptes rendus r&eacute;dig&eacute;s 
+    &agrave; la suite des diff&eacute;rentes &quot;r&eacute;unions&quot; de l'&eacute;quipe 
+    de d&eacute;veloppement.<br>
+    <br>
+    <a href="fr2_game_general.shtml">- Explications g&eacute;n&eacute;rales -</a><br>
+    Quelques explications g&eacute;n&eacute;rales sur le jeu lui-m&ecirc;me, son 
+    ambiance, son originalit&eacute;.<br>
+    <br>
+    <b>[th&egrave;me cyberpunk]</b><br>
+    <br>
+    <a href="fr2_game_monde.shtml">- Le monde / l'univers -</a><br>
+    Point sur le monde dans lequel les joueurs &eacute;volueront. Etat d'avancement 
+    des technologies, de la soci&eacute;t&eacute;.<br>
+    <br>
+    <a href="fr2_game_regles.shtml">- Le jeu, les r&egrave;gles -</a><br>
+    Explications sur les r&egrave;gles du jeu d'Attal.<br>
+    <br>
+    <a href="fr2_game_unites.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+    D&eacute;tail des classes de personnages disponibles, des diff&eacute;rents 
+    b&acirc;timents et structures qu'il est possible de construire, des ressources 
+    pr&eacute;sentes dans le jeu.<br>
+    <br>
+    <a href="fr2_game_scenario.shtml">- Sc&eacute;nario, campagnes -</a><br>
+    D&eacute;tails sur le sc&eacute;nario du jeu, des diff&eacute;rentes campagnes.<br>
+    <br>
+    <br>
+  <p><b> [th&egrave;me m&eacute;di&eacute;val-fantastique]</b><br>
+<br>
+    <a href="fr2_game_unites_med.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+    D&eacute;tail des classes de personnages disponibles, des diff&eacute;rents 
+    b&acirc;timents et structures qu'il est possible de construire, des ressources 
+    pr&eacute;sentes dans le jeu.<br>
+    
+    <br>
+
+</div>
+<!--#include virtual="interface2.shtml" --> 
+</body>
+</html>

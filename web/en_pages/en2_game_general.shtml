@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+<div id="Layer1" style="position:absolute; width:405; height:222px; z-index:1; left: 195; top: 165" class="texte_classique"> 
+  <p><img src="../en_interface/en_titre_game.jpg" width="382" height="16"><br>
+  <p><br>
+    - General overview - <br>
+    <br>
+    The game will be themeable in order to deal with different rules, graphics, 
+    scenarii.<br>
+    <br>
+    Most of the current graphics (see "screenshots") are included in the cyberpunk-theme 
+    (the world in a half century).<br>
+    <br>
+    <br>
+    In Attal, you rule Lords (the equivalent of Heroes in HOMM3) and their armies. 
+    They will increase their experience in finding artefacts, objects or in fighting 
+    other lords. <br>
+    <br>
+    You will have (also) to manage bases and towns that you can develop (in order 
+    to produce more or better units, and so on), use mines or factories (which 
+    provide ressources) to produce other structures...<br>
+    <br>
+    In each game, you will have a mission to achieve but you could also find other 
+    sub-missions during the game.<br>
+    <br>
+    <u>- The World of Attal </u><br>
+    <br>
+    The world of attal will change with the theme used and so for Lords, units, 
+    bases, ...<br>
+    <br>
+    <u>- Attal, yet another strategy game ?</u><br>
+    <br>
+    Yes, we will (of course) use good ideas of other strategy game like HOMM 3. 
+    But our goal is to make a really unique game, with our own rules and story 
+    even if, at the beginning, Attal could be very close of HOMM3.<br>
+    <br>
+    <br>
+    We will use our own graphics, drawn in 3D.<br>
+    <br>
+    We are working on an original scenario that will be (at least we hope so) 
+    captivating. <br>
+    Rules will be easy to change and to adapt. <br>
+    We hope you will help us for this project... <br>
+    <br>
+    <br>
+    As we said before, all this modifications won't be possible at first but we 
+    will evolve towards them.<br>
+    <br>
+    If you want to join us for developping them, do not hesitate to <a href="mailto:attal@fr.st">join 
+    us</a>. <br>
+    <br>
+    <br>
+</div>
+<!--#include virtual="../en_pages/en_interface2.shtml" --> 
+</body>
+</html>

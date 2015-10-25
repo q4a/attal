@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE categories>
+<categories>
+	<category>
+		<name>Zound</name>
+		<value>0</value>
+	</category>
+	<category>
+		<name>Few</name>
+		<value>4</value>
+	</category>
+	<category>
+		<name>Several</name>
+		<value>9</value>
+	</category>
+	<category>
+		<name>Pack</name>
+		<value>19</value>
+	</category>
+	<category>
+		<name>Lots</name>
+		<value>49</value>
+	</category>
+	<category>
+		<name>Horde</name>
+		<value>99</value>
+	</category>
+	<category>
+		<name>Throng</name>
+		<value>249</value>
+	</category>
+	<category>
+		<name>Swarm</name>
+		<value>499</value>
+	</category>
+	<category type="max">
+		<name>Legion</name>
+	</category>
+</categories>

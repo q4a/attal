@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+
+<layer id="Layer1" class="texte_classique" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"><img src="../fr_interface/titre_project_fr.jpg" width="382" height="16"><br>
+  <br>
+  - Attal sera un jeu de stratégie au tour par tour dont le principe (dans les 
+  r&egrave;gles) rappelle "Heroes of Might and Magic III" édité par 3do. <br>
+  <br>
+  Le jeu est développé dans une optique multijoueurs (réseau local + internet) 
+  et solo (campagnes, missions, quêtes et sous-quêtes, ennemis gérés par l'ordinateur). 
+  <br>
+  Il sera con&ccedil;u pour être "ouvert" et modulable (&quot;themeable&quot;), 
+  en offrant la possibilité d'implémenter facilement de nouveaux graphismes, de 
+  nouvelles campagnes, voire même de nouvelles règles., sous forme de &quot;mod&quot;.<br>
+  Nous fournirons aussi un éditeur de cartes ainsi qu'un éditeur de scénario. 
+  <br>
+  <br>
+  Les graphismes actuellement cr&eacute;&eacute;s par notre &eacute;quipe sont 
+  int&eacute;gr&eacute;s au th&egrave;me &quot;Cyberpunk&quot;. Il est pr&eacute;vu 
+  de d&eacute;velopper plus tard un th&egrave;me &quot;M&eacute;di&eacute;val-Fantastique&quot; 
+  reprenant les styles de graphismes correspondant &agrave; cet univers, ainsi 
+  que des r&egrave;gles adapt&eacute;es (avec gestion des sorts etc.)<br>
+  <br>
+  - Nous avons l'ambition de créer un jeu complet, libre, et d'une qualité pouvant 
+  tenir la comparaison avec des jeux commerciaux. <br>
+  <br>
+  <i>Complet</i> -> notre but n'est pas de proposer uniquement un moteur pouvant 
+  servir de base à une création de jeu, mais bel et bien de réaliser un jeu complet, 
+  avec la possibilité de jouer en multijoueurs ou en solo, comprenant des campagnes, 
+  un éditeur de cartes etc. Le développement sera orienté pour que le jeu "final" 
+  soit modulable, et pour que chaque personne puisse intégrer les modifications 
+  qu'il souhaite librement. <br>
+  <br>
+  <i>Libre</i> -> Développé en Open Source, le but d'Attal n'est pas de nous faire 
+  gagner de l'argent (pfff, dommage...), mais de nous mettre à l'épreuve pour 
+  essayer de prouver qu'il est encore possible de faire de bons jeux sans pour 
+  autant payer une équipe de 70 développeurs pendant 2 ans...<br>
+  <br>
+  <i>Qualité</i> -> notre "modèle" en terme de qualité seront les jeux commerciaux 
+  actuels, tout en esp&eacute;rant pouvoir faire encore mieux à certains niveaux. 
+  (oui la barre est plac&eacute;e volontairement haute, c'est pour la motivation 
+  ;) <br>
+  <br>
+  Ce (grand) projet est tout récent (le premier tour de table de l'équipe date 
+  de fin Aout 2000...) mais nous avons quelques idées claires sur ce que nous 
+  voulons -et pouvons- faire (cf la Roadmap). <br>
+  <br>
+  L'équipe est actuellement composée de cinq personnes (très motivées !) mais 
+  ne demande qu'à s'agrandir. <br>
+  Nous vous invitons donc à parcourir les différentes rubriques de ce site, et 
+  si vous êtes intéressés par le développement d'un certain nombre de modules 
+  (programmation, graphismes, musique, scénario etc.), n'hésitez pas à <a href="mailto:attal@fr.st">nous 
+  contacter</a>. <br>
+  <br>
+  Vous pouvez consulter la <a href="fr2_nt_roadmap.shtml">roadmap</a> qui présente 
+  les différentes étapes prévues du développement d'Attal.<br>
+  <br>
+  <br>
+</layer>
+
+</body>
+</html>

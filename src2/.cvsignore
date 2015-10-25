@@ -1,0 +1,17 @@
+themes
+*.opt
+*.plg
+*.scn
+*.so
+*.so.*
+*.qm
+Makefile
+attal-client
+attal-server
+theme-editor
+scenario-editor
+attal-campaign-editor
+attal-scenario-editor
+attal-theme-editor
+attal-ai
+devel.pro

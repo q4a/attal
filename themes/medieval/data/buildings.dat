@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE buildings>
+<buildings>
+	<building>
+		<name>Magic Guild</name>
+		<vision>3</vision>
+		<description>Allow to learn new spells (not implemented)</description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="16" arg="0" arg1="0">1000</elementary>
+		</action>
+		<action type="1" coeff="0">
+			<elementary type="1" arg="0" arg1="0">1</elementary>
+		</action>
+		<action type="2" coeff="0">
+			<elementary type="3" arg="0" arg1="0">4</elementary>
+		</action>
+		<action type="3" coeff="0">
+			<elementary type="2" arg="0" arg1="0">2</elementary>
+		</action>
+		<disposition height="2" width="1">
+			1
+			2
+		</disposition>
+		</building>
+	<building>
+		<name>Steel refinery</name>
+		<vision>3</vision>
+		<description>Give between 0 to 10 Iron each day</description>
+		<frame>2</frame>
+		<animation>5</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="17" arg="2" arg1="0">5</elementary>
+		</action>
+		<disposition height="2" width="1">
+			1
+			2
+		</disposition>
+		</building>
+	<building>
+		<name>Lighthouse</name>
+		<vision>3</vision>
+		<description>Increase movements on seas (not implemented)</description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="1" coeff="0">
+			<elementary type="11" arg="1" arg1="0">5</elementary>
+		</action>
+		<disposition height="2" width="1">
+			1
+			2
+		</disposition>
+		</building>
+	<building>
+		<name>Water Mill</name>
+		<vision>3</vision>
+		<description>Add 100 people to your kindom</description>
+		<frame>3</frame>
+		<animation>10</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="16" arg="0" arg1="0">100</elementary>
+		</action>
+		<disposition height="1" width="1">
+			2
+		</disposition>
+		</building>
+	<building>
+		<name>Wind Mill</name>
+		<vision>3</vision>
+		<description>Give a lot of food once a week</description>
+		<frame>4</frame>
+		<animation>10</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="7">
+			<elementary type="17" arg="3" arg1="0">2000</elementary>
+		</action>
+		<disposition height="3" width="3">
+			0 0 0
+			0 1 0
+			0 2 0
+		</disposition>
+		</building>
+	<building>
+		<name>Cyclop's hut</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 1 0 0 0
+			1 1 1 0 0
+			1 2 1 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Magic Eye</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			0 2 0 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Ore's mine</name>
+		<vision>3</vision>
+		<description>Give between 0 to 16 Ore each day</description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="17" arg="2" arg1="0">8</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			1 1 1 1 0
+			1 2 1 1 0
+		</disposition>
+		</building>
+	<building>
+		<name>Gem's mine</name>
+		<vision>3</vision>
+		<description>Give between 0 to 4 Diamonds each day</description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="17" arg="4" arg1="0">2</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			1 1 1 1 0
+			2 1 1 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Iron's mine</name>
+		<vision>3</vision>
+		<description>Give between 0 to 8 Iron each day</description>
+		<frame>2</frame>
+		<animation>80</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="17" arg="2" arg1="0">20</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			1 1 1 1 0
+			2 1 1 1 0
+		</disposition>
+		</building>
+	<building>
+		<name>Gold's mine</name>
+		<vision>3</vision>
+		<description>Give between 0 to 1960 Gold each monday</description>
+		<frame>6</frame>
+		<animation>15</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="17" arg="0" arg1="0">980</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 1 1 0 0
+			1 1 1 1 0
+			2 1 1 1 0
+		</disposition>
+		</building>
+	<building>
+		<name>Multidimensional door</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 1 1 0 0
+			1 1 1 1 0
+			1 1 1 1 0
+			1 2 1 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Wood sawmill</name>
+		<vision>3</vision>
+		<description>Give between 0 to 8 Wood each day</description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="17" arg="1" arg1="0">4</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			1 1 1 0 0
+			1 1 1 0 0
+			1 1 2 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Sulfur's mine</name>
+		<vision>3</vision>
+		<description>Give between 0 to 6 Sulfur each day</description>
+		<frame>6</frame>
+		<animation>15</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="17" arg="4" arg1="0">3</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 1 1 0 0
+			1 1 1 1 0
+			1 1 2 1 0
+		</disposition>
+		</building>
+	<building>
+		<name>Cromlech</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="16" arg="4" arg1="0">1</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 1 1 1 0
+			1 1 1 1 0
+			0 1 2 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Centaurus stable</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="16" arg="4" arg1="0">1</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			1 1 0 0 0
+			2 1 0 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Archery</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="16" arg="4" arg1="0">1</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			1 1 1 0 0
+			2 0 0 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Statue</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="16" arg="4" arg1="0">1</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			1 0 0 0 0
+			2 0 0 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Unicorn's field</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<action type="0" coeff="0">
+			<elementary type="16" arg="4" arg1="0">1</elementary>
+		</action>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			2 1 1 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Human creature generator 1</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			0 1 1 1 0
+			1 2 1 1 0
+		</disposition>
+		</building>
+	<building>
+		<name>Human creature generator 2</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 1 1 0
+			0 0 1 1 0
+			1 1 2 1 0
+		</disposition>
+		</building>
+	<building>
+		<name>Human creature generator 3</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			2 0 0 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Human creature generator 4</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			2 0 0 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Human creature generator 5</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			2 0 0 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Human creature generator 6</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="5" width="5">
+			0 0 0 0 0
+			0 0 0 0 0
+			1 1 1 0 0
+			1 1 1 0 0
+			1 1 2 0 0
+		</disposition>
+		</building>
+	<building>
+		<name>Fountain</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>4</frame>
+		<animation>10</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">0	</resource>
+		<disposition height="3" width="2">
+			0 0
+			1 1
+			2 1
+		</disposition>
+		</building>
+	<building>
+		<name>Viillage</name>
+		<vision>3</vision>
+		<description></description>
+		<frame>1</frame>
+		<animation>1</animation>
+		<resource type="0">0	</resource>
+		<resource type="1">0	</resource>
+		<resource type="2">0	</resource>
+		<resource type="3">0	</resource>
+		<resource type="4">0	</resource>
+		<resource type="5">500	</resource>
+		<action type="0" coeff="1">
+			<elementary type="19" arg="5" arg1="0">2</elementary>
+		</action>
+		<action type="0" coeff="1">
+			<elementary type="16" arg="3" arg1="0">25</elementary>
+		</action>
+		<disposition height="3" width="4">
+			0 0 0 0
+			0 2 1 0
+			0 0 0 0
+		</disposition>
+		</building>
+</buildings>

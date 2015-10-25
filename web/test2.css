@@ -1,0 +1,22 @@
+.cadre11 { font-family: Arial, Helvetica, sans-serif; border: #CCCCCC ; font-size: 8pt; color: 
+#33cc00}
+.cadre12 { font-family: Arial, Helvetica, sans-serif; border: #CCCCCC ; font-size: 9pt; color: 
+#FFFFFF}
+.cadre13 { font-family: Arial, Helvetica, sans-serif; border: #CCCCCC ; font-size: 10pt; color: 
+#FFFFFF}
+.cadre10 { font-family: Arial, Helvetica, sans-serif; background-image: url(images/fond2.jpg); 
+border: #CCCCCC ridge; font-size: 9pt}
+.cadre2 { font-family: Arial, Helvetica, sans-serif; background-image: url(images/fond.jpg); 
+border: #CCCCCC ridge; font-size: 9pt} 
+.cadre3 { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; background-image: 
+url(images/fond.jpg); border: groove; border-color: #FFFFFF d0tted} 
+.cadre4 { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; background-image: 
+url(images/fond2.jpg); border: #FFFFFF; border-style: groove} 
+.cadre5 { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; background-image: 
+url(images/fond2.jpg)}
+.cadre6 { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; background-image: 
+url(images/fond.jpg)}
+.texte_classique { font-family: Arial, Helvetica, sans-serif; border: #CCCCCC; font-size: 10pt; color: #FFFFFF}
+.cadre_1 { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: 
+#FFFFFF; border: thin #CCCCCC outset} 
+.texte_infos { font-family: Arial, Helvetica, sans-serif; border: #CCCCCC font-size: 8pt; color: #33cc00} 

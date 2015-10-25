@@ -1,0 +1,175 @@
+
+
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC" size="3">
+
+
+<!--#include virtual="interface3.shtml" -->
+
+
+
+
+<layer id="Layer1" class="texte_classique" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre12"><font size="2"><img src="../fr_interface/titre_presentation_fr.jpg" width="382" height="16"><br>
+  <br>
+  Bienvenue.<br>
+  Attal: Lords of Doom est un jeu vidéo en développement.<br>
+  Jeu de stratégie au tour par tour, Attal sera jouable sous Linux (dans un premier 
+  temps), en solo et en multi-joueurs (réseau local ou internet).<br>
+  <br>
+  Si vous souhaitez contribuer à ce projet, n'hésitez pas à nous contacter.<br>
+  Vous pouvez consulter la page du projet sur <a href="http://attal.sourceforge.net/" target="_blank">Sourceforge.net</a>.<br>
+  <br>
+  <img src="../fr_interface/titre_news2_fr.jpg" width="382" height="12"><br>
+  <br>
+  <b>05-12-00</b><br>
+  - 5 personnes rejoignent notre &eacute;quipe:<br>
+  [retrouvez-les dans la rubrique &quot;l'&eacute;quipe&quot; tr&egrave;s bient&ocirc;t]<br>
+  -- Glover (interface Programmeurs / Graphistes ;)<br>
+  -- Bashker (programmation)<br>
+  -- Marc (graphismes du th&egrave;me M&eacute;di&eacute;val-fantastique)<br>
+  -- Morgan (graphismes + musiques du th&egrave;me M&eacute;di&eacute;val-fantastique)<br>
+  -- Enrique (d&eacute;finition des r&egrave;gles)<br>
+  <br>
+  - Deux nouveaux forums ont &eacute;t&eacute; cr&eacute;&eacute;s (on aime les 
+  forums ;)<br>
+  -- Cyberpunk - theme (d&eacute;di&eacute; au th&egrave;me cyberpunk...)<br>
+  -- Medieval - theme (devinez ?)<br>
+  <br>
+  - le site a &eacute;t&eacute; modifi&eacute; graphiquement.<br>
+  Les modifications seront int&eacute;gr&eacute;es &agrave; la partie anglaise 
+  demain...<br>
+  N'h&eacute;sitez pas &agrave; rapporter les bugs que vons constatez en pr&eacute;cisant 
+  le navigateur que vous utilisez (<a href="mailto:mitro@netcourrier.com">mitro@netcourrier.com</a>)<br>
+  <br>
+  - Nous sommes en train de structurer du mieux que l'on peut le d&eacute;veloppement 
+  du jeu. Nous vous donnerons d&egrave;s que possible les m&eacute;thodes de travail 
+  qui seront utilis&eacute;es (documentation technique, cr&eacute;ation graphique 
+  etc.)<br>
+  <br>
+  - Un nouveau g&eacute;n&eacute;rateur d'&eacute;nergie est disponible dans la 
+  rubrique &quot;screenshots&quot; (by Alex).<br>
+  <br>
+  <b>30-11-00</b><br>
+  - la v 0.2 est pr&eacute;vue pour d&eacute;but janvier 2001.<br>
+  - Un forum &quot;French only&quot; a &eacute;t&eacute; cr&eacute;&eacute; pour 
+  celles et ceux qui parlent uniquement fran&ccedil;ais. Un r&eacute;sum&eacute; 
+  des messages anglais les plus importants sera fait r&eacute;guli&egrave;rement 
+  sur ce forum.<br>
+  - Quelques sites soutiennent notre projet. Si vous souhaitez contribuer au d&eacute;veloppement 
+  d'Attal en faisant appara&icirc;tre ce site dans vos liens, <br>
+  n'h&eacute;sitez pas !<br>
+  - Attal participe au concours &quot;Developers@Milia&quot; dans le but de promouvoir 
+  le projet (et de participer au salon Milia 2001).<br>
+  --&gt; <a href="http://www.milia.com" target="_blank">www.milia.com</a> pour 
+  plus d'infos (rubrique &quot;Developers@Milia&quot;)<br>
+  <br>
+  <b>23-11-00</b><br>
+  - Update de la rubrique &quot;screenshots&quot; avec une nouvelle base.<br>
+  - Ouverture des Forums de discussion (sur sourceforge):<br>
+  --- Open Discussion (pour tout ce que vous voulez dire)<br>
+  --- Help (...)<br>
+  --- Development (discussions sur le d&eacute;veloppement d'Attal)<br>
+  <br>
+  <b>21-11-00</b><br>
+  - la partie anglaise du site est en ligne<br>
+  - maj de la rubrique &quot;Attal: le jeu&quot;. Ajout de d&eacute;tails sur 
+  le monde, les unit&eacute;s, les classes de personnages etc.<br>
+  - nous cherchons des programmeurs / graphistes / sc&eacute;naristes pour <br>
+  participer au projet.<br>
+  <br>
+  <b>15-11-00</b><br>
+  - La version 0.1 est disponible (rubrique "downloads")<br>
+  - Le site internet est pratiquement terminé (niveau contenu de base).<br>
+  <br>
+  <b>13-11-00</b><br>
+  - Update de la rubrique "screenshots" avec de nouvelles images<br>
+  - Update de la rubrique "développement" avec des explications détaillées sur 
+  la programmation du jeu (partie réseau). <br>
+  <br>
+  <b>10-11-00</b><br>
+  - Mise en ligne du site internet du projet.<br>
+  <br>
+  <br>
+  </font>
+</layer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		

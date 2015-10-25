@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte_classique"> 
+  <p><img src="../fr_interface/titre_team_fr.jpg" width="382" height="16"><br>
+    <br>
+    L'équipe est actuellement composée de cinq personnes : <br>
+    <br>
+    Pascal Audoux, Cyrille Verrier, Alexandre Lh&eacute;rault et Gilles Oppeneau 
+    sont à l'origine de ce projet.<br>
+    <br>
+    - <a href="mailto:paudoux@chez.com">Audoux Pascal</a>, développeur / traducteur<br>
+    24 ans<br>
+    Profession: Informatique &amp; Telecom (<a href="http://www.yalbi.com">www.yalbi.com</a>)<br>
+    <br>
+    - <a href="mailto:verrier@chez.com">Verrier Cyrille</a>, développeur. <br>
+    21 ans <br>
+    Etudiant en Ma&icirc;trise d'informatique.<br>
+    <br>
+    - <a href="mailto:lherault1@caramail.com">Lhérault Alexandre</a>, graphiste. 
+    <br>
+    23 ans <br>
+    Etudiant en Maîtrise d'Arts Plastiques.<br>
+    <br>
+    - <a href="mailto:mitro@netcourrier.com">Oppeneau Gilles</a>, graphiste & 
+    webmaster.<br>
+    24 ans<br>
+    Profession: Informatique<br>
+    <br>
+    - <a href="mailto:etombuffy@multimania.com">Touchot Eloise</a>, scénariste. 
+    <br>
+    14 ans <br>
+    Webmastrice d'un site sur la série "<a href="http://www.chez.com/oppeneau/etom">Buffy 
+    contre les Vampires</a>" <br>
+    Webmastrice d'un site consacr&eacute; au tennis: " <a href="http://www.100tennis.fr.fm/">100% 
+    tennis</a> " <br>
+    <br>
+    <br>
+    Bien entendu, toutes les personnes souhaitant apporter leur contribution à 
+    ce projet sont invitées à nous <a href="mailto:mitro@netcourrier.com">contacter</a> 
+    (développeurs, graphistes, scénaristes, musiciens, beta-testeurs etc.) <br>
+    <br>
+    Vous pouvez consulter la <a href="http://sourceforge.net/projects/attal/">page 
+    du projet</a> Attal sur Sourceforge.net si vous voulez vous inscrire à notre 
+    mailing list, participer au forum ou parcourir notre CVS. <br>
+    <br>
+    <br>
+</div>
+
+
+
+
+
+
+
+
+
+<!--#include virtual="interface.shtml" --> 
+
+</body>
+</html>

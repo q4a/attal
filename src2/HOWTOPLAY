@@ -1,0 +1,130 @@
+
+IMPORTANT: this file is obsolete, use HOWTOPLAY.html instead
+
+The goal of this file is to explain how to play with Attal!
+
+Summary
+I - Getting Started
+	1) Installation
+	2) Launching the game
+	3) Connecting players
+	4) Choose a scenario
+
+II - Playing
+	1) Generalities
+	2) Turn by turn game
+	3) Managing lords
+	4) Managing bases
+		4.1)Inside a base
+	5) Economic
+	6) Fight mode
+	7) End of game
+
+
+
+*******************************
+***** I - Getting Started *****
+*******************************
+
+1) Installation
+ First, install the game (read INSTALL for any question)
+
+
+2) Launching the game
+Start the executables:
+You can launch :
+- the client:
+	$ ./attal-client &
+- the server:
+	$ ./attal-server &
+- the ia-client:
+	$ ./attal-ai &
+
+IMPORTANT NOTE: all the executables need to find the theme (medieval theme for the moment) and so the folder 'themes',
+which have to contain the 'medieval' theme must be present in the current directory (where there are the binaries).
+
+If you have some problems to find libraries set the environment variable LD_LIBRARY_PATH to local directory like this:
+export LD_LIBRARY_PATH=.
+
+For the moment, if you want to play a scenario alone against one AI, you have to start
+attal-client, attal-server and attal-ai (you have to launch as many attal-ai as you need of AI players).
+Now is present the possibility to start the server from client (Fast Server action in menu file in attal-client) and
+to fill the others players of scenario with ai (action Fill with Ai in menu Game in attal-server).
+
+
+3) Connecting players
+Connect your clients and AI to the server:
+attal-ai and attal-client have a menu with a 'connect' item (or use CTRL+C as shortcut).
+It requests you to set the IP adress of the server (if you are playing in local, you don't have to change anything).
+
+Each player connected is shown on the server interface.
+
+4) Choose a scenario
+Choose a scenario in the server:
+By default, you have 2 demo scenarii directly available from the server interface but you
+can choose another one (the demo scenarii are not really exciting!).
+Default scenarii are available in /themes/medieval/scenarii
+You could find some new scenarii on our website (www.attal-thegame.org in the section 'd/l scenarii').
+Of course, you can edit your own scenarii with the scenario editor provided with Attal
+
+Now click on 'Start' button in the server to launch the game.
+Each player has to play at his turn.
+
+
+************************
+***** II - Playing *****
+************************
+
+1) Generalities
+In adventure mode, you manage your lords and bases.
+The interface is composed by:
+-menus, for global actions: quit, connect/disconnect, hide/show some elements of the interface
+-main view, which displays the map (adventure mode)
+-chat window, for talking with other players and also see some message from server
+-Mini-map where you can see the whole map (click on it for centering the main view where you want)
+-Tab window where you can have general information, see the list of your lords and see the list of your
+bases
+
+2) Turn-by-turn game
+Attal is a turn by turn game, so you play only when it is your turn to.
+There is no time limitation for the moment...
+When it is not your turn to play, you can only chat with other player or,
+if you are attacked by another player, defend yourself (in fight mode)
+
+3) Managing lords
+You can select a lord through the list of lords or on clicking on it in the main view
+Then you can make it move in clicking elsewhere on the map (you will see first a path on the ground and if you click again the lord will move).
+If you click twice on a lord (on the map or in the list), you can see the characteristics of the lord (and change its artefacts, its units...)
+If two 'friend' lords encounter, you can do some exchange between them (units, artefacts...)
+If they are opponent, they fight! (see (5 - Fight mode))
+
+4) Managing bases
+You can select a base through the list of bases or on clicking on it in the main view
+If you click twice on a base (on the map or in the list), you can see the inside of the base and act inside (add new buildings, buy units, trade in the market...)
+When a lord enter in a base, you automatically see the inside of the base.
+	
+	4.1)Inside a base:
+	Inside a base you have a market, where you can trade your resources, some building where you can buy some units,
+	every week (but the time will customizable) and a building where you can build some other buildings (and sell it)
+	When you buy an unit , it will be placed on the unit window (click on lord face (or no lord face) to activate this window)
+
+5) Economic
+The economic part in Attal is quite complex: you have to manage bases , buildings , lord and units.
+All internals buildings and units can have a mantainment cost that is payed every week.
+The external building can produce a fixed number of resource or one random number between two ranges (RANDRESSOURCE), between zero and the coeff of resource,
+also the external buildings can give other bonus. 
+Every base have a population: this population growth every week by a rate that depend on type of base.
+Every base loss population by a percentage value fixed by race every time the base change owner.
+The money (gold) give by a base is equal to his population, so take care to defend the most populated bases.
+Every base can have a market and these prices depend on type of base, so differents players have different strategies about resources.
+The prices of resources depend on type of base you own: you pay the best prices for resources if you onw bases of different races.
+All these proprieties are theme-dependant, so you can see that in theme-editor.
+
+6) Fight mode
+When two opponent lords encounter, or if a lord attacks a creature stack on the map, the game enter in fight mode.
+It is a turn-by-turn fight, where you can move each lord's units on the ground.
+A current unit is automatically selected and has to be played. When the player who owns it has finished (make it move, or fight a neighbour unit...) the next unit is selected and so on... The fight is finished when a lord has lost all its units or when he flees. Then, the winner gain some experience and the game returns in adventure mode, normally.
+
+7) End of the game
+If a player lost all its lords and bases, he has lost the game.
+

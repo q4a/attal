@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<STYLE TYPE="text/css">
+<!--
+A {text-decoration:none;}
+-->
+</STYLE>
+
+<STYLE>
+BODY
+{scrollbar-face-color: #666666; scrollbar-shadow-color: #33cc00; 
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #33cc00; 
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-arrow-color: #000D45; text-decoration: blink}
+</STYLE> 
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:405; z-index:3; left: 195; top: 165; height: 445" class="cadre12"> 
+  <p><img src="../fr_interface/titre_screenshots1.jpg" width="382" height="16"><br>
+    <br>
+    <a href="fr2_screenshots_gallerie.shtml">- Gallerie d'images -</a><br>
+    Cette section pr&eacute;sente toutes les images sp&eacute;cialement cr&eacute;&eacute;es 
+    pour Attal. Elles sont en 2d ou 3d et ne seront pas forc&eacute;ment int&eacute;gr&eacute;es 
+    au jeu.<br>
+    <br>
+    <br>
+    <a href="fr2_screenshots_screen.shtml">- Screenshots -</a><br>
+    Vous trouverez ici tous les screenshots disponibles du jeu.<br>
+    Du tout premier (&eacute;motion ;) au dernier (&eacute;volution ;)<br>
+    <br>
+    <br>
+  </p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+<!--#include virtual="interface2.shtml" --> 
+</body>
+</html>

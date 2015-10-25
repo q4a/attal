@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"><font color="#00D900">::.. Liens ..::</font><br>
+  <br>
+  <br>
+  - Vous pouvez placer ce code sur votre site si vous souhaitez nous mettre dans 
+  vos liens :<br>
+  &lt;a href="http://www.attal.fr.st"&gt; <br>
+  &lt;img src="http://aatal.sourceforge.net/images/logo_anim1.gif" width="88" height="31" 
+  border="0" alt="Attal Logo"&gt &lt/a&gt; <br>
+  Le bouton ci-dessous appara&icirc;tra :<br>
+  <br>
+  <a href="http://www.attal.fr.st"> <img src="../images/logo_anim1.gif" width="88" height="31" 
+    border="0" alt="Attal Logo"></a><br>
+  <br>
+  -------------------------------------- <br>
+  <b>: Heroes :</b><br>
+  <br>
+  - Archangelcastle -<br>
+  <a href="http://www.archangelcastle.com" target="_blank">www.archangelcastle.com</a> 
+  <br>
+  Le plus important site fran&ccedil;ais sur la s&eacute;rie Heroes.<br>
+  PhilR et Elalie vous propose une mine d'informations utiles sur ce jeu, divers 
+  forums, des cartes &agrave; t&eacute;l&eacute;charger etc.<br>
+  A noter qu'Archangel soutient fortement notre projet.<br>
+  <br>
+  <br>
+  <b>: Projets :</b><br>
+  <br>
+  <a href="http://www.sourceforge.net" target="_blank"><img src="../images/logo_sourceforge.jpg" width="88" height="31" border="0"></a><br>
+  - Sourceforge -<br>
+  <a href="http://www.sourceforge.net" target="_blank">www.sourceforge.net</a><br>
+  SourceForge est un service gratuit pour les développeurs Open Source. <br>
+  Il offre l'accès le plus simple aux meilleurs services CVS, listes de diffusion, 
+  gestion des bugs, forums de discussion, gestion des tâches, hébergement de site, 
+  archivage de fichiers, sauvegardes complètes, etc. via une interface d'administration 
+  entièrement par le web. <br>
+  <br>
+  <br>
+  <img src="../images/minijesuislibre2.gif" width="79" height="31"><br>
+  - Je suis libre -<br>
+  <a href="http://www.jesuislibre.org" target="_blank">www.jesuislibre.org</a><br>
+  Ce site cr&eacute;&eacute; par Bruno Adele est une initiative remarquable.<br>
+  Il référence les contributions libres des développeurs francophones pour BeOs,Linux,Mac 
+  Os,et Windows.<br>
+  Si vous faites partie d'un projet, n'h&eacute;sitez pas &agrave; participer 
+  &agrave; l'&eacute;volution de ce site en apportant votre contribution.<br>
+  Vous pouvez &eacute;galement participer au d&eacute;veloppement de ce projet 
+  :<br>
+  <a href="http://sourceforge.net/projects/jesuislibre/%20" target="_blank">http://sourceforge.net/projects/jesuislibre/ 
+  </a><br>
+  <br>
+  <br>
+  <img src="../images/freeciv.gif" width="80" height="30"><br>
+  - Freeciv -<br>
+  <a href="http://www.freeciv.org" target="_blank">www.freeciv.org</a> <br>
+  On ne présente plus freeciv... <br>
+  la référence en matière de jeu Open Source. <br>
+  Outre un jeu très réussi et en constante évolution, le site est vivant et très 
+  bien documenté. Nous recommandons particulièrement la lecture de la page 'Comment 
+  contribuer ?'. <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+<p class="cadre12">Le reste bient&ocirc;t... 
+<p class="cadre13">&nbsp; 
+</layer>
+
+</body>
+</html>

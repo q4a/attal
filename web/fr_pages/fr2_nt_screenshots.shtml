@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="445" z-index="1"> 
+<p class="cadre13">
+<img src="../fr_interface/titre_screenshots1.jpg" width="382" height="16"><br>
+  <br>
+  <a href="fr2_nt_screenshots_gallerie.shtml">- Gallerie d'images -</a><br>
+  Cette section pr&eacute;sente toutes les images sp&eacute;cialement cr&eacute;&eacute;es 
+  pour Attal. Elles sont en 2d ou 3d et ne seront pas forc&eacute;ment int&eacute;gr&eacute;es 
+  au jeu.<br>
+  <br>
+  <br>
+  <a href="fr2_nt_screenshots_screen.shtml">- Screenshots -</a><br>
+  Vous trouverez ici tous les screenshots disponibles du jeu.<br>
+  Du tout premier (&eacute;motion ;) au dernier (&eacute;volution ;)<br>
+  <br>
+  <br>
+</p>
+
+</layer>
+
+</body>
+</html>

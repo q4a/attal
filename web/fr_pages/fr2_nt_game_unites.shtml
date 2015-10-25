@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"> <img src="../fr_interface/titre_game_fr.jpg" width="382" height="16"><br>
+  <b><br>
+  </b><a href="fr2_nt_game_cr.shtml">- Comptes rendus des r&eacute;unions &eacute;quipe 
+  -</a><br>
+  <a href="fr2_nt_game_general.shtml">- Explications g&eacute;n&eacute;rales -</a><br>
+  <b>[th&egrave;me cyberpunk]</b><br>
+  <a href="fr2_nt_game_monde.shtml">- Le monde / l'univers -</a><br>
+  <a href="fr2_nt_game_regles.shtml">- Le jeu, les r&egrave;gles -</a><br>
+  <a href="fr2_nt_game_unites.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+  <a href="fr2_nt_game_scenario.shtml">- Sc&eacute;nario, campagnes -</a><br>
+  <b> [th&egrave;me m&eacute;di&eacute;val-fantastique]</b><br>
+  Partie actuellement vierge. <b><br>
+  <br>
+  - Unit&eacute;s, structures, ressources - [th&egrave;me cyberpunk]</b><br>
+  <br>
+  (en construction)<br>
+  <br>
+  <i><b>-- Les ressources --</b></i><br>
+  <br>
+  Ressources vitales (outre l'argent):<br>
+  - Energie <br>
+  - Fer <br>
+  - Silicium <br>
+  - Titane <br>
+  - Plastique <br>
+  <br>
+  <i><b>-- Les unit&eacute;s --</b></i><br>
+  <br>
+  On distingue quatre grands types de pouvoirs : <br>
+  1) Militaire <br>
+  2) Biotechno <br>
+  3) Homme d'influence/politique/d'affaire <br>
+  4) Informatique et électronique<br>
+  <br>
+  Pour chacun de ces pouvoirs, il existe un type de Lord avec une base et des 
+  unités spécifiques. Pour un type de pouvoir, il existe 7 unités de base, pouvant 
+  être upgradées chacune une fois.<br>
+  <br>
+  <b> D&eacute;tail des unit&eacute;s :</b><br>
+  <i><br>
+  * Unités Militaires : </i><br>
+  - Soldat de base <br>
+  - Soldats armes &quot;corps &agrave; corps&quot;<br>
+  - Arbaletriers d'élite <br>
+  - Une unité mobile (utilisant un jet pack ?) <br>
+  - Bazooka / soldats de &quot;d&eacute;fense&quot;<br>
+  - Surfeurs lasers <br>
+  - Blindé-chromé<br>
+  <br>
+  <i>* Unités Info/Electro :</i><br>
+  - Androide de base (genre c3po) <br>
+  - Unité mobile, genre "roue tireuse" de la menace fantome <br>
+  - Unité de tir à distance (&agrave; d&eacute;finir + pr&eacute;cisement)<br>
+  - Unité mobile (&agrave; definir + pr&eacute;cisement)<br>
+  - Unité de tir à distance (&agrave; d&eacute;finir + pr&eacute;cisement) <br>
+  - Robot, de bonne qualité dans tous les domaines<br>
+  - Terminator <br>
+  <br>
+  <i>* Unités Biogénéticien :</i><br>
+  - Légèrement biomodifié <br>
+  - Mec genre Cobra <br>
+  - Mobile (bas remplacé par des roues ou système roulant) <br>
+  - Robocop (moyen dans tous les domaines) <br>
+  - Snipper bio <br>
+  - Mutant <br>
+  - Quasi robot mais cerveau humain<br>
+  <br>
+  <i>* Unités Homme d'influence :</i><br>
+  Pas encore definies<br>
+  <br>
+  <b>Compétences :</b> <br>
+  (remplace les sorts dans HOMM3).<br>
+  Il y a 4 catégories de sorts (une par type de pouvoir différent). <br>
+  Chaque sort est considéré comme :<br>
+  sort de combat (C) (utilisable uniquement en phase de combat) <br>
+  ou sort d'aventure (A) (utilisable uniquement hors des combats). <i>Militaires 
+  : </i><br>
+  - Doper attaque (C)<br>
+  - Transport de troupe (A) <br>
+  - Génie militaire (accélère déplacement) (C) <br>
+  - Infos sur Lords adverses (A) <br>
+  - Soutien aérien (C)<br>
+  - Largage de mines (C) <br>
+  - Gaz paralyzant (unites humaines aux alentours) (C) <br>
+  - Gaz empoisonné (minimise degat) (C)<br>
+  <br>
+  <i>Informatique : </i><br>
+  - Virus info (C) (plusieurs types)<br>
+  - Voir carte du monde (A)<br>
+  - Brouillage electrique (C) <br>
+  - Infos sur Lords adverses (A)<br>
+  - Prise de controle robots/equipements adverse (C)<br>
+  <br>
+  <i>Biotechnologies : </i><br>
+  - Soigner (C) <br>
+  - Doper attaque (C) <br>
+  - Doper défense (resistance) (C) <br>
+  - Ressuciter (C) <br>
+  - Virus biologiques (C)<br>
+  - Adrenaline (attaque double) (C) <br>
+  - Clonage (double unite) (A)<br>
+  - Folie (attaque unite la plus proche) (C)<br>
+  <br>
+  <i>Homme d'influence :</i><br>
+  -Soudoyer (C) <br>
+  -Motiver ses propres troupes(C)<br>
+  -Info Lords (A) -Vol Argent (A) <br>
+  -Discredit (baisse le pouvoir lord adverse) (C) <br>
+  -Dissimulation (invisible aux autres) : (A et C)<br>
+  <br>
+</layer>
+
+</body>
+</html>

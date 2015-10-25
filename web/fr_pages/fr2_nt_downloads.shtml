@@ -1,0 +1,72 @@
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"> <img src="../fr_interface/titre_downloads_fr.jpg" width="382" height="16"><br>
+     <br>
+     
+Attal 0.2
+<br>
+  <ul>
+    <li><a href="ftp://attal.sourceforge.net/pub/attal%20">ftp://attal.sourceforge.net/pub/attal</a><br>
+    <li>Attal 0.1 : <a href="ftp://attal.sourceforge.net/pub/attal/attal-0.2.tgz">Cliquez 
+      pour télécharger
+      </a> 
+</ul>
+
+Attal 0.1
+<br>
+  <ul>
+    <li><a href="ftp://attal.sourceforge.net/pub/attal%20">ftp://attal.sourceforge.net/pub/attal</a><br>
+    <li>Attal 0.1 : <a href="ftp://attal.sourceforge.net/pub/attal/attal-0.1.tgz">Cliquez 
+      pour télécharger
+      </a> 
+  </ul>
+
+Développement / Prograùùation
+<br>
+<ul>
+<li> Le fichier précisant les règles d'écriture adoptées pour la programmation
+du jeu est accessible au format texte <a href="../download/fr_coding.txt"> en cliquant ici</a>.
+<li> Le fichier de configuration pour emacs peut être téléchargé 
+<a href="ftp://attal.sourceforge.net/pub/attal/config-emacs">ici</a>.
+</ul>
+
+
+Les liens ci-dessous ne sont pas ok [en cours de check]
+  Quelques musiques (non d&eacute;finitives) qui pourront &ecirc;tre int&eacute;gr&eacute;es 
+  <br>
+  au jeu :<br>
+  <br>
+  --&gt; format mp3 &lt;--<br>
+  <br>
+  - <a href="../downloads/Combat01.mp3">Musique 1</a> (892 ko)<br>
+  - <a href="../downloads/Combat02.mp3">Musique 2</a> (858 ko)<br>
+  - <a href="../downloads/Combat03.mp3">Musique 3</a> (1072 ko)<br>
+  - <a href="../downloads/Combat04.mp3">Musique 4</a> (1545 ko)<br>
+  - <a href="../downloads/Combat06.mp3">Musique 5</a> (1286 ko)<br>
+
+</layer>
+
+</body>
+
+</html>
+
+
+
+		
+
+		

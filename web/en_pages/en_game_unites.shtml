@@ -1,0 +1,140 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte_classique"> 
+  <p><img src="../en_interface/en_titre_game.jpg" width="382" height="16"><br>
+  <p><b><br>
+    - Units, structures, ressources -</b><br>
+    <br>
+    -&gt; to develop<br>
+    <br>
+    <i><b>-- Ressources --</b></i><br>
+    <br>
+    Vital resources (besides the money):<br>
+    - Energy <br>
+    - Iron <br>
+    - Silicon <br>
+    - Titanium<br>
+    - Plastic<br>
+    <br>
+    <i><b>-- Units --</b></i><br>
+    <br>
+    There are four big types of &quot;powers&quot;: <br>
+    1) Military <br>
+    2) Biotechno <br>
+    3) Man of influence/politique<br>
+    4) Computer and electronic<br>
+    <br>
+    For each of these powers, there is a type of Lord with a base and specific 
+    units. For a type of power, there are 7 basic units, being able to be upgrade 
+    each once. <br>
+    <br>
+    <b>Detail of units: </b><br>
+    <br>
+    <i>* Military units: </i><br>
+    - Basic soldier<br>
+    - Soldiers weapon: "hand-to-hand fight" <br>
+    - Arbaletriers of elite <br>
+    - A mobile unit (using a jet pack?) <br>
+    - Bazooka / soldiers of "defence" <br>
+    - Surfers<br>
+    - Armored car <br>
+    <br>
+    <i>* Units Computer / Electro:</i><br>
+    <br>
+    - Basic android (c3po style) <br>
+    - Mobile unit <br>
+    - Unity of shot at distance (to define) <br>
+    - Mobile unit (to define) <br>
+    - Unity of shot at distance (to define) <br>
+    - Robot, good performance in every domains<br>
+    - Terminator <br>
+    <br>
+    <i>* Units Biogeneticist: </i><br>
+    - Slightly being biomodified <br>
+    - A man (Cobra style)<br>
+    - Mobile (legs replaced by wheels or rolling system) <br>
+    - Robocop (equal in all the domains) <br>
+    - Snipper bio <br>
+    - Mutant <br>
+    - Almost robot but human brain <br>
+    <br>
+    <i>* Units Man of influence: </i><br>
+    <br>
+    --&gt; to define<br>
+    <br>
+    <b>Competences: </b><br>
+    ( Replace the spells in HOMM3). <br>
+    There are 4 categories of spells (one by type of different power). <br>
+    Every spell is considered as:<br>
+    Spell of fight ( C ) (useful only in phase of fight) or spell of adventure 
+    ( A ) (useful only outside the fights).<br>
+    <br>
+    <i>Military:</i><br>
+    - Dope attack ( C ) <br>
+    - Transport of troop ( A ) <br>
+    - Military engineering (accelerates movement) ( C )<br>
+    - Information about opposite Lords ( A ) <br>
+    - Air support ( C )<br>
+    - Dropping mines ( C ) <br>
+    - Paralyzant gas (human unites in the surroundings) ( C ) <br>
+    - Poisoned gas (minimizes degat) ( C ) <br>
+    <br>
+    <i>Computers: </i><br>
+    - Computer virus ( C ) ( several types) <br>
+    - See world map ( A ) <br>
+    - Electrical jamming ( C ) <br>
+    - Information about opposite Lords ( A ) <br>
+    - Robots / equipements opposite control ( C ) <br>
+    <br>
+    <br>
+    <i>Biotechnologies: </i><br>
+    - Treat ( C ) <br>
+    - Dope attack ( C ) <br>
+    - Dope resistance ( C ) <br>
+    - To resurect ( C ) <br>
+    - Biologic viruses ( C ) <br>
+    - Adrenaline (double attack) ( C ) <br>
+    - Cloning (double units) ( A ) <br>
+    - Madness (affects the most close units) ( C )<br>
+    <br>
+    <i>Man of influence:</i> <br>
+    - To bribe ( C ) <br>
+    - To motivate the own troops ( C ) <br>
+    - Info Lords ( A ) <br>
+    - Steal money ( A )<br>
+    - Discredit (low the power opposite lord) ( C )<br>
+    - dissimulation (invisible in the others): (A and C) <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </div>
+
+
+
+
+
+
+
+
+
+<!--#include virtual="../en_pages/en_interface.shtml" --> 
+
+
+</body>
+</html>

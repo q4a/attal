@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE lords>
+<lords>
+	<lord name="Captain Flam">
+		<race>Human</race>
+		<category>Barbarian</category>
+		<attack>3</attack>
+		<defense>2</defense>
+		<power>1</power>
+		<knowledge>1</knowledge>
+		<unit creature="Pikemen">
+			<number>15</number>
+		</unit>
+		<unit creature="Zorglub">
+			<number>2</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>2</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord name="Acudal Uposax">
+		<race>Human</race>
+		<category></category>
+		<attack>0</attack>
+		<defense>0</defense>
+		<power>0</power>
+		<knowledge>0</knowledge>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord name="Linus Torvalds">
+		<race>Human</race>
+		<category></category>
+		<attack>0</attack>
+		<defense>0</defense>
+		<power>0</power>
+		<knowledge>0</knowledge>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord name="Mitro">
+		<race>Human</race>
+		<category></category>
+		<attack>0</attack>
+		<defense>0</defense>
+		<power>0</power>
+		<knowledge>0</knowledge>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord name="Dr Frankestein">
+		<race>Human</race>
+		<category>Chirurgian</category>
+		<attack>0</attack>
+		<defense>0</defense>
+		<power>0</power>
+		<knowledge>0</knowledge>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+	</lord>
+	<lord name="Zorro">
+		<race>Human</race>
+		<category>Hero</category>
+		<attack>3</attack>
+		<defense>3</defense>
+		<power>2</power>
+		<knowledge>1</knowledge>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+		<unit creature="Pikemen">
+			<number>0</number>
+		</unit>
+	</lord>
+</lords>

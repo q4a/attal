@@ -1,0 +1,317 @@
+****************************
+**                        **
+**  Attal: Lords of Doom  **
+**                        **
+****************************
+
+Release 1.0-rc3
+	- User Interface improvements
+		- New campaign interface
+		- More popup
+		- Various improvements
+	- Game speed improvements
+	- Market rewrite
+	- AI improvements
+	- Add base and building customizable vision
+	- Better documentation
+	- Code refactoring
+	- Save every turn now optional
+	- Removed some features not implemented
+	- Volume control
+	- Bug fixing
+	- Medieval theme:
+		- Update scenarios
+		- Tuning some values
+
+Release 1.0-rc2
+	- No more necessity of LD_LIBRARY_PATH on linux
+	- Resource management rewrite, added local resources
+	- Population is another resource
+	- Levels implemented
+	- Possibility to steal resources to creatures
+	- Remote server control added
+	- Speed improvement and refactoring of code
+	- Improvements in fight interface
+	- Allow 'chat' in fight mode and base display
+	- ThemeEditor improved
+	- Added actions to bases
+	- Add popup help
+	- Better debian package
+	- Bug fixing
+	- Medieval theme:
+		- Resources changed, now only: Money, Wood, Iron, Food, Diamond, Population
+		- 'Mines' buildings in adventure mode smaller
+		- Units smaller
+		- Water transitions
+		- New flags
+
+Release 1.0-rc1
+	
+	- Graphical engine improved
+	- Porting to new qt graphic engine
+	- New graphics ( bases and units )
+	- Client interface partially rewrite to optimize space
+	- Ai rewrite
+	- New scenarii
+	- Drop all Qt3Support
+	- Server and ai are integrated in client so for local game, no need of other program that attal-client
+	- Better handling of fight animations
+	- Sound management
+		- Sound management improved
+		- Enable/disable sound and music in client during the game
+	- Ai is also integrated in server (no need of external ai client (except for debug))
+	- Player management in server
+		- kick player
+		- control of client attal version
+	- Better handling of installation
+	- Minimap improved
+	- Improved search and management of themes (command line args , environment var, local directory, hardcoded path)
+	- Implemented autosave and save every turn
+	- Implemented fight with garrison lord
+	- Implemented animation speed control in fight
+	- Implemented split unit
+	- Managed dependencies between buildings inside base
+	- Managed more kind of animations for creatures (dead, dying, attack high, attack low, shoot high, shoot low...)
+	- Added management for small bases pixmap in client
+	- Initial separation between server and engine
+	- New saved data in scenarii:
+		- game version
+		- turn
+		- start date
+		- production of creatures
+	- Calendar:
+		- Improved api
+	- Quests: 
+	  -Implemented date-based quests
+	- Require at least Qt 4.2.0
+	- A lot of bug fixing
+	- Medieval theme:
+ 		-	New graphics for bases
+		- New graphics for internal buildings
+		- New external building : village
+		- New creatures : Magician creatures and Necromancer creatures
+		- New scenarii : TheIsland, TheLabyrint, Villages
+		- Added faces for mercenary units
+		- New lord faces
+
+Release 0.10.1
+	- Better fight management
+	- Partial drop of Qt3Support
+	- Minimap improved
+	- Dependecies between buildings implemented
+	- Village implemented
+	- Bug fixing
+
+Release 0.10
+	- Porting to Qt4
+	- Windows port
+	- New displayLord Interface
+	- Start game management improved
+	- Grid implemented in scenarioEditor
+	- Fight: 
+		- Usability improvements
+		- Add active unit animation
+		- Better handling of cursors for fight
+		- New end game dialog
+		- Various bug fixing
+	- Music management improvements
+	- Calendar:
+		- Save of calendar implemented
+		- Handling of calendar in scenarioEditor
+		- Handling of calendar in themeEditor
+		- Improved api
+	- Campaign:
+		- Update campaign management in server
+		- Improved saving
+		- Campaign editor bug fix
+	- Usability improvements
+	- Bug fixing
+	- Medieval theme: First Campaign : How Ol'Bar become famous
+
+Release 0.9.4
+	- Teams management (server,client,ai,scenario editor)
+	- Tavern implemented
+	- Usability improvements
+	- Save of campaigns implemented
+	- Handling of animations in themeEditor
+	- Added make install (and uninstall) for unix
+	- Bug fixing
+	- Medieval theme: Animations for the 'druidic' creatures
+
+Release 0.9.3
+	- Highlight lord when selected
+	- Better start game management (autoFill with AI, hide AI (experimental), better campaign management)
+	- Improved fight mode (client, server, bug fix)
+	- Improved scenarioEditor ( disposition management, better placement management)
+	- Disposition for decoration now used for pathfinding
+	- Add command line help 
+	- Is possible to disable sound at command line (for hardware problems)
+	- Management of different screen resolutions
+	- Management of log level at command line
+	- Management of player vision on savefiles
+	- Usability improvements 
+		- highlight internals buildings
+		- more info
+		- better buy building interface
+		- castle improved
+		- market improved 
+	- Improve AI
+		- AI can use market
+		- Better management of internals buildings
+	- New scenarios
+	- Bug fixing
+
+Release 0.9.2
+	- Castle implemented
+	- Better connection management
+	- Destroy unit implemented
+	- Manage 'behaviour' of map creatures (flee/join/mercenary/attack)
+	- Manage growth of map creatures
+	- RandomResource rewrite
+	- Usability improvements (more info, better buy interface, autoscrolling)
+	- Exchange units partially rewrite
+	- Add "groups" for decorations
+	- Autodraw paths and other small improvement in scenarioEditor
+	- Improved themeEditor
+	- Fix/improve AI
+			- AI can explore
+			- Priorities for targets
+			- Tuning AI based on enemy power
+			- Various fix.
+	- Bug fixing
+
+Release 0.9.1
+	- New calendar api
+	- Fast connection (client start server and connect to it)
+	- Auto fill scenarii with ai 
+	- New display of inside base
+	- Update documentation
+	- Add pixmaps for Mercenary base 
+	- Flag management for bases	
+	- Bug fixing
+
+Release 0.9
+	- Sets flags for lords on map
+	- Manage sounds effects
+	- More user-frendly informations on game (turn, resources, etc...)
+	- Management of 'far' cells in path
+	- Improve townhall inside building (for buying other buildings)
+	- Improved AI
+	- Save Game implemented
+	- Population management
+	- Clean-up of code
+	- Management of experience in game
+	- Very basic campaign management
+	- Bug fixing
+
+Release 0.8.1
+	- Improve management of events on map (chests, resources...) and in editor
+	- Some coding of quests (basic management)
+	- Market implemented
+	- Minimap in scenario editor
+	- Levels of experience management (in theme editor)
+	- Added docs
+	- Management of buildings (external and internal) in editors
+	- Bug fixing
+
+Release 0.8
+	- Animation of creatures in fight mode (moves only)
+	- Management of tiles diversification in editors
+	- New Client Interface
+	- Some artefact management
+	- Improved connections management
+	- Sell of internal buildings
+	- Bug fixing
+
+Release 0.7.2
+	- Management of bonus and chest
+	- Fix/improve AI
+	- Better mini-map
+	- Music management
+	- Better fight mode
+	- Tiles diversification
+
+Release 0.7.1
+	- Improve scenarii editor
+	- Improve theme editor
+	- Add lots of graphics for decorations (roads, trees...)
+	- Manage decoration effects (roads cost less move points...)
+	- Fix bugs in fog of war
+	- Improve fight mode
+
+Release 0.7
+	- Fog of war (buggy ?)
+	- Bugs in scenarii editor
+	- Improve scenarii editor (properties of lords, creatures, bases...)
+	- Add features in theme editor (preview of base...)
+	- New architecture of sources. Use of qmake
+	- Medieval theme: Pictures of resources
+	- Medieval theme: Pictures of new bases (necromancer, barbarian and atlantis)
+
+Release 0.6.2
+	- IA rewrite and improved.
+	- Major bug fixing (minimap crash, huge computing time when fighting, ...).
+	- Fight against creatures on map.
+
+Release 0.6.1
+	- The AI can play also in adventure mode
+	- More graphics for decorations
+	- Cleaning of the code (comments, api, ...)
+	- Bug fixing
+
+Release 0.6
+	- The AI can fight (but still don't move in adventure mode)
+	- We handle buildings in bases (can build creatures, other buildings...)
+	- Friend lords can exchange some units
+	- Management of some buildings on map (mines...)
+	- Graphics for the 'druidic' race (buildings and creatures)
+	- Begin of management of creatures on map
+
+Release 0.5.1
+	- Scenario Editor can now load and save maps used by Attal
+	- Server controls if a player has some lords left and warns if a player has lost
+	- Move points (of lords) are handled
+	- Data files of theme medieval are updated
+
+Release 0.5
+	- Rewrite 'network layer' (AttalSocket)
+	- Lots of new or better graphics (transitions, buildings, bases (inside), units)
+	- Theme Editor and Scenario Editor are up-to-date
+	- Switch between fight mode and adventure mode
+	- Lot of small bugs removes and features improved
+
+Release 0.4
+	- Lot of graphics (lords, creatures, decorations, transitions)
+	- Data in medieval theme (for humans)
+	- Some add to the theme editor
+	- Better management of transitions
+	- Inside base dispayed (begin of management)
+
+Release 0.3
+	- A theme editor has been added (for units, races, ressources)
+	- Fight mode begin (move, hit, display)
+	- More things are managed by the server
+	- More and better graphisms
+	- Transitions on ground managed
+	- Decoration on the map are added
+
+Release 0.2
+	- Add network : there is now a client and a server. Data are exchanged
+	  by them. Turns are managed.
+	- Add an ia 'fake' (can be connected to the server but doesn't really
+	  play (just ends turns))
+	- More data are managed through themes (for units, lords,
+	  ressources...)
+	- The editor can edit scenario instead of maps.
+	- Graphics improve (add lords, bases, buildings)
+	- Some Lord management
+	- Some Base management
+	- Paths are displayed on map
+
+Release 0.1 
+	-Initial release
+	-Display map
+	-You can move lords on map
+	-Beginning of theme management
+	-Map editor
+

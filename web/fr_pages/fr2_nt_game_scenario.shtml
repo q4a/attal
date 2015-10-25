@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"><img src="../fr_interface/titre_game_fr.jpg" width="382" height="16"><br>
+  <br>
+  <a href="fr2_nt_game_cr.shtml">- Comptes rendus des r&eacute;unions &eacute;quipe 
+  -</a><br>
+  <a href="fr2_nt_game_general.shtml">- Explications g&eacute;n&eacute;rales -</a><br>
+  <b>[th&egrave;me cyberpunk]</b><br>
+  <a href="fr2_nt_game_monde.shtml">- Le monde / l'univers -</a><br>
+  <a href="fr2_nt_game_regles.shtml">- Le jeu, les r&egrave;gles -</a><br>
+  <a href="fr2_nt_game_unites.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+  <a href="fr2_nt_game_scenario.shtml">- Sc&eacute;nario, campagnes -</a><br>
+  <b> [th&egrave;me m&eacute;di&eacute;val-fantastique]</b><br>
+  Partie actuellement vierge.<br>
+  <br>
+  <b>- Sc&eacute;nario, campagnes -</b><br>
+  <br>
+  Partie en d&eacute;veloppement.<br>
+</layer>
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"><img src="../fr_interface/titre_game_fr.jpg" width="382" height="16"><br>
+  <br>
+  <a href="fr2_nt_game_cr.shtml">- Comptes rendus des r&eacute;unions &eacute;quipe 
+  -</a><br>
+  <a href="fr2_nt_game_general.shtml">- Explications g&eacute;n&eacute;rales -</a><br>
+  <b>[th&egrave;me cyberpunk]</b><br>
+  <a href="fr2_nt_game_monde.shtml">- Le monde / l'univers -</a><br>
+  <a href="fr2_nt_game_regles.shtml">- Le jeu, les r&egrave;gles -</a><br>
+  <a href="fr2_nt_game_unites.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+  <a href="fr2_nt_game_scenario.shtml">- Sc&eacute;nario, campagnes -</a><br>
+  <b> [th&egrave;me m&eacute;di&eacute;val-fantastique]</b><br>
+  Partie actuellement vierge.<br>
+  <br>
+  <b>- Explications g&eacute;n&eacute;rales -</b><br>
+  <br>
+  Le jeu sera &quot;themeable&quot;, et pourra ainsi g&eacute;rer diff&eacute;rents 
+  types de graphismes, de r&egrave;gles, de campagnes etc.<br>
+  <br>
+  Les graphismes r&eacute;alis&eacute;s (voir &quot;screenshots&quot;) sont int&eacute;gr&eacute;s 
+  dans le mod &quot;Cyberpunk&quot; (le monde tel que l'on peut l'imaginer dans 
+  quelques dizaines d'ann&eacute;es).<br>
+  <br>
+  <br>
+  Dans Attal, vous dirigerez des Lords (équivalent des Héros de HOMM 3) et leurs 
+  armées/unit&eacute;s. Ils gagneront de l'expérience en découvrant des artefacts 
+  ou d'autres objets divers, ou encore en combattant contre des Lords ennemis. 
+  <br>
+  <br>
+  Vous aurez aussi des villes et des bases qui pourront être développés (dans 
+  le but de produire plus d'armées, de meilleures unités de combat etc.), et vous 
+  pourrez utiliser des mines produisant un certain type de ressources (titane, 
+  eau, uranium, etc.) pour construire des b&acirc;timents, diff&eacute;rents types 
+  de structures (tourelles de d&eacute;fense etc.). <br>
+  <br>
+  Pour chaque partie, vous aurez une mission principale à terminer, mais vous 
+  pourrez trouver quelques missions secondaires durant le jeu. <br>
+  <br>
+  <u>- L'ambiance </u><br>
+  <br>
+  L'ambiance du jeu Attal sera fonction du th&egrave;me utilis&eacute; (cyberpunk, 
+  médiéval fantastique ou autre), avec les différents styles de personnages propre 
+  à ce genre (humains, cyborgs, unit&eacute;s diverses ou chevaliers, nains, orcs, 
+  elfes en fonction du th&egrave;me).<br>
+  <br>
+  <u>- Attal, un n i&egrave;me jeu de strat&eacute;gie ?</u><br>
+  <br>
+  Nous allons effectivement utiliser sans complexe les jeu de strat&eacute;gie 
+  existant comme base de développement, le but étant de parvenir à réaliser un 
+  jeu complet, stable, avec un système de règles "complexes". <br>
+  Nous avons donc décidé de partir d'un jeu existant pour nous décharger de certaines 
+  parties qui font la conception d'un jeu vidéo, telles les règles par exemple. 
+  Nous allons donc nous inspirer dans un premier temps des règles d'Heroes of 
+  Might and Magic III et les adapter pour Attal. <br>
+  <br>
+  Cependant, même si nous trouvons nos mod&egrave;les dans des jeux tels qu'Heroes, 
+  UFO, Syndicate etc., notre but final est de produire un jeu original à plusieurs 
+  niveaux:<br>
+  <br>
+  Au niveau graphique tout d'abord, puisque nous avons décidé d'intégrer des graphismes 
+  en pseudo 3D. <br>
+  Le but est de créer la plupart des éléments du jeu en 2D, et de les intégrer 
+  ensuite dans celui ci en 2D, le tout gér&eacute; par un moteur de sprites. Nous 
+  esp&eacute;rons ainsi obtenir une plus grande finesse dans les graphismes du 
+  jeu, tout en gardant la jouabilité reconnue des jeux de stratégies en 2D.<br>
+  <br>
+  Au niveau du scénario et des campagnes puisque nous esperons pouvoir proposer 
+  une histoire originale et prenante, ce qui n'est pas chose facile.<br>
+  <br>
+  Au niveau des règles, il est en effet pr&eacute;vu de pouvoir modifier celles 
+  existantes et d'en créer de nouvelles tout en gardant une cohérence indispensable. 
+  <br>
+  Nous comptons sur votre aide pour participer à cette évolution. <br>
+  <br>
+  Au niveau des créatures/unit&eacute;s, avec une série de Lords, de personnages 
+  originaux.<br>
+  <br>
+  Au niveau des objets, avec de nouveaux artefacts proposant des &quot;bonus&quot; 
+  originaux. <br>
+  <br>
+  Toutes ces modifications seront possibles, mais pas forc&eacute;ment r&eacute;alis&eacute;es 
+  dans les premi&egrave;res versions du jeu.<br>
+  <br>
+  Si vous souhaitez intégrer l'équipe pour gérer une partie de ces originalités, 
+  n'hésitez pas à nous <a href="mailto:attal@fr.st">contacter</a>. <br>
+</layer>
+
+</body>
+</html>

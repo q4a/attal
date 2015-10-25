@@ -1,0 +1,95 @@
+Cette réunion avait pour but de définir l'univers d'Attal : Lords of Doom.
+
+Le jeu se déroule vers 2070.
+L'économie capitaliste est développée à outrance.
+Les technologies issues de l'informatique et des télécommunications sont omniprésentes.
+L'évolution des biotechnologies permet des implants et des mélanges humains/machine.
+Les drogues, médicaments et autres dopants sont d'une efficacité redoutable.
+Les armes chimiques sont aussi très présentes et mieux contrôlées.
+
+Ressources vitales (outre l'argent):
+-Energie
+-Fer
+-Silicium
+-Titane
+-Plastique
+
+On distingue quatre grands types de pouvoirs :
+1) Militaire
+2) Biotechno
+3) Homme d'influence/politique/d'affaire
+4) Informatique et électronique
+
+Pour chacun de ces pouvoirs, il existe un type de Lord avec une base et des unités spécifiques.
+Pour un type de pouvoir, il existe 7 unités de base, pouvant être upgradées chacune une fois.
+
+* Unités Militaires :
+-Soldat de base
+-Soldats armés d'épées laser
+-Arbaletriers d'élite
+-une unité mobile (utilisant un jet pack ?)
+-bazooka
+-surfeurs lasers
+-blindé-chromé
+
+* Unités Info/Electro
+-Androide de base (genre c3po)
+-unité mobile, genre "roue tireuse" de la menace fantome
+-unité de tir à distance (a definir + precisement)
+-unité mobile (a definir + precisement)
+-unité de tir à distance (a definir + precisement)
+-robot, de bonne qualité dans tous les domaines
+-Terminator
+
+* Unités Biogénéticien
+-légèrement biomodifié
+-Mec genre Cobra
+-Mobile (bas remplacé par des roues ou système roulant)
+-Robocop (moyen dans tous les domaines)
+-Snipper bio
+-Mutant (cf tortue ninja)
+-Quasi robot mais cerveau humain
+
+* Unités Homme d'influence
+Pas encore definies
+
+Compétences : (remplace les sorts dans HOMM3)
+Il y a 4 catégories de sorts (une par type de pouvoir différent).
+Chaque sort est considéré comme sort de combat (C) (utilisable uniquement en phase de combat) ou sort d'aventure (A) (utilisable uniquement hors des combats).
+
+M :
+-doper attaque (C)
+-transport de troupe (A)
+-Génie militaire (accélère déplacement) (C)
+-Infos sur Lords adverses (A)
+-Soutien aérien (C)
+-Largage de mines (C)
+-Gaz paralyzant (unites humaines aux alentours) (C)
+-Gaz empoisonné (minimise degat) (C)
+
+I :
+-Virus info (C) (plusieurs types)
+-Voir carte du monde (A)
+-Brouillage electrique (C)
+-Infos sur Lords adverses (A)
+-Prise de controle robots/equipements adverse (C)
+
+B:
+-soigner (C)
+-doper attaque (C)
+-doper défense (resistance) (C)
+-Ressuciter (C)
+-Virus biologiques (C)
+-Adrenaline (attaque double) (C)
+-Clonage (double unite) (A)
+-Folie (attaque unite la plus proche) (C)
+
+H:
+-Soudoyer (C)
+-Motiver ses propres troupes(C)
+-Info Lords (A)
+-Vol Argent (A)
+-Discredit (baisse le pouvoir lord adverse) (C)
+-Dissimulation (invisible aux autres) : (A et C)
+
+

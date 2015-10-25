@@ -1,0 +1,156 @@
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css">
+
+<!--
+
+-->
+
+</style>
+
+<link rel="stylesheet" href="../style.css">
+
+</head>
+
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte_classique"> 
+  <p><img src="../fr_interface/titre_development_fr.jpg" width="382" height="16"><br>
+    <br>
+    <i><b>Roadmap : </b></i><br>
+    Dernière modification: 21/08/00. <br>
+    <br>
+    <b>Version 0.1 </b><br>
+    Développement (estimation) : environ 1 mois <br>
+    Date de sortie (estimation) : fin septembre <br>
+    * Pré requis : Site web <br>
+    <br>
+    <i>* Graphismes : </i><br>
+    - Textures basiques pour la mer, le sol, avec des transitions <br>
+    (sur fond transparent) <br>
+    - Quelques arbres (sur fond transparent) <br>
+    - 1 Château / base<br>
+    - 1 Lord (avec ses animations ?) <br>
+    - Divers: flèches, curseurs, drapeaux (pour les bâtiments et les Lords) <br>
+    <br>
+    <i>* Programmation : </i><br>
+    - Editeur de cartes <br>
+    - Les Lords peuvent bouger sur les cartes<br>
+    - Les Lords peuvent entrer dans les chateaux<br>
+    - Les chateaux peuvent être améliorés <br>
+    <br>
+    <b>Version 0.2 </b><br>
+    Développement (estimation) : 3 mois<br>
+    Date de sortie (estimation): début 2001 <br>
+    <br>
+    <i>* Graphismes :</i><br>
+    - Quelques Lords, avec leurs animations complètes.<br>
+    - Quelques bâtiments importants (mines...)<br>
+    - Intérieur d'un chateau <br>
+    - Graphismes des ressources <br>
+    - Differentes textures pour le sol <br>
+    - Développement de l'interface <br>
+    <br>
+    <i>* Programmation :</i><br>
+    - Gestion du réseau<br>
+    - Gestion des règles principales et des tours<br>
+    - Gestion simplifiée des combats - Gestion des batiments principaux<br>
+    <br>
+    <b>Version 0.3</b><br>
+    Développement (estimation) : 4 mois <br>
+    Date de sortie (estimation): Mai 2001 <br>
+    <br>
+    <i>* Graphismes : </i><br>
+    - Lords et Créatures (création + animations complètes) <br>
+    - Création des animations de combat <br>
+    - Artefacts et Bonus <br>
+    <br>
+    <i>* Programmation : </i><br>
+    - Gestion complète des combats <br>
+    - Gestion plus complète des règles (spécialement : artefacts et bonus) <br>
+    <br>
+    <b>Version 0.4 </b><br>
+    Développement (estimation) : 4 mois<br>
+    Date de sortie (estimation): Septembre 2001 (devrait être la version Alpha)<br>
+    <i><br>
+    * Graphismes: </i><br>
+    - Textures du sol (definitives et complètes)<br>
+    - Tous les batiments et les chateaux <br>
+    - Bateaux<br>
+    - Obstacles pour les phases de combat<br>
+    - Background pour les phases de combat <br>
+    - Animations graphiques des sorts <br>
+    <i><br>
+    * Programmation:</i><br>
+    - Gestion de l'eau et des bateaux<br>
+    - IA permet de jouer (relativement bien) <br>
+    <br>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--#include virtual="interface.shtml" --> 
+
+
+
+</body>
+
+</html>
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		

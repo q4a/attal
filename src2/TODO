@@ -1,0 +1,23 @@
+Things to do...
+===============
+
+C: Code
+G: Graphic
+M: Music
+S: Scenario
+T: Theme
+O: Other
+
+04) [M] Add a music game (when no game has been started [Need Volunteer])
+05) [G] Add introduction video when game is starting [Need Volunteer]
+06) [C] Choose player's team in server [COMPLICATED]
+08) [S] Use new pixmaps of tree in scenarii
+12) [C] Allow activation or not of some rules for 'tuning' difficulty level [Which rules to choose ?]
+22) [T/C] Some move arrows are twice in the theme data...
+27) [C] Manage many creature animations for a kind of action, to choose randomly
+32) [C] Manage some params of AI in a file for a better tuning (and some different AI) ( maybe AI scripting in LUA? )
+49) [C] Better management of Buildings
+51) [C] Better management of Artefacts 
+53) [C,G] Animation (for lords, ...)
+55) [C] Don't use MAX_UNIT const
+60) [O] Add developer documentation

@@ -1,0 +1,50 @@
+I spent like three hours working to get the 0.7 src compiled, so I want to share my problems and how I solved them.
+Perhaps one of the developpers reads it and some things will be easier in the future.
+I am not very experienced in Linux, so some things might seem strange to you, but - it's working...
+I will give some NOTEs to the developpers, marked with NOTE.
+
+Because I'm using Debian 3.0, some things might work on other distros that didn't work in Debian 3.0.
+
+First of: You need: libqt3, libqt3-dev.
+ Then you have to add a unstable host in your /etc/apt/sources.list, for example: "deb ftp://128.101.80.131/debian unstable main contrib non-free"
+ Now update your apt and install the package libstdc++5. This will install a couple of programs and libraries, but nothing will be removed.
+ (NOTE: please say somewhere that we need libstdc++5, Debian 3.0 stable has libstdc++3!)
+
+ Download the sources and unpack, cd into the unpacked directory(I will refer to that dir as "top").
+ Type: export QTDIR=/usr/share/qt
+ Type: export QMAKESPEC=/usr/share/qt/mkspecs/linux-g++/qmake.conf
+
+ Then run in top: qmake -o Makefile Makefile.pro
+ Get into every subdir and run: qmake -o Makefile Makefile.pro
+ (NOTE: please mention that in the INSTALL file!)
+
+ Because Debian installs some qt libraries in /usr/lib/qt3/plugins/styles, you have to type(as superuser):
+ cd /usr/lib
+ ln qt3/plugins/styles/libqwindowsstyle.so -s
+ ln libqwindowsstyle.so libqwindowsstyle.so.1 -s
+
+ (I really don't know why attal needs libqwindowsstyle.so for compiling, but libqwindowsstyle.so.1 for running)
+
+ exit superuser
+
+ Then edit every Makefile in every subdir and add at the end of the line beginning with "LIBS =":
+ -lqwindowsstyle
+
+ Now... compile. Type make. (finally)
+
+ Uh no, not starting the program yet. It has NO idea where to look for its libraries.
+
+ Log in as root again, type:
+ cd /usr/lib
+ ln top/libCommon.so.1 -s
+ ln top/libClient.so.0
+ ln top/libFight.so.1
+ ln top/libServer.so.1
+
+ Ok it should start now.
+ (NOTE: Developpers: the bins should really look into the top directory for the libs...)
+
+ Have fun.
+ Oh, and good luck - most probably you have to change something else on your system.
+
+ --Prophyle 

@@ -1,0 +1,67 @@
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="stylesheet" href="../style.css">
+
+</head>
+
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte_classique"> 
+
+  <p><img src="../fr_interface/titre_downloads_fr.jpg" width="382" height="16"><br>
+
+    <br>
+
+	La version 0.1 d'Attal vient de sortir ! Empressez-vous de la télécharger sur notre site ftp.
+
+    
+
+      <ul>
+
+	<li><a href="ftp://attal.sourceforge.net/pub/attal">ftp://attal.sourceforge.net/pub/attal</a><br>
+
+	<li>Attal 0.1 : <a href="ftp://attal.sourceforge.net/pub/attal/attal-0.1.tgz">Cliquez pour télécharger</a> <br>
+
+ </ul>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--#include virtual="interface.shtml" --> 
+
+
+
+</body>
+
+</html>
+
+
+
+		
+
+		

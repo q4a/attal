@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE decorations>
+<decorations>
+	<group>
+			<name>Road</name>
+			<info></info>
+			<effect type="2">40</effect>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+	</group>
+	<group>
+			<name>Path</name>
+			<info></info>
+			<effect type="2">20</effect>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+	</group>
+	<group>
+			<name>River</name>
+			<info></info>
+			<effect type="3">10</effect>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				1
+			</disposition>
+		</decoration>
+	</group>
+	<group>
+			<name>Tree</name>
+			<info></info>
+			<effect type="1">0</effect>
+			<effect type="6">0</effect>
+		<decoration>
+			<disposition height="1" width="1">
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="3">
+				0 1 1
+				1 1 1
+				0 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="3">
+				0 0 0
+				1 1 0
+				1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				0 0 0 0
+				1 1 1 1
+				1 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="2">
+				0 0
+				1 0
+				1 1
+				2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="2">
+				0 0
+				1 0
+				1 1
+				2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 0 0 0
+				1 1 1 1
+				0 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 0 0 0
+				1 1 1 1
+				0 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 0 1 0
+				1 1 1 1
+				0 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="3">
+				0 1 0
+				1 1 1
+				0 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="3">
+				0 0 0
+				1 1 0
+				1 1 1
+				1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="2">
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="2">
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="3">
+				1 1 0
+				1 1 1
+				0 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="3">
+				0 0 0
+				0 1 0
+				0 1 1
+				1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="2">
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="2">
+				0 0
+				1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="1">
+				0
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 0 1 1
+				0 1 1 0
+				1 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				1 1 1 0
+				0 0 1 1
+				0 0 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				0 1 1 0
+				1 1 1 2
+				1 0 0 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 0 0 0
+				0 1 1 0
+				1 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="6">
+				0 0 0 1 0 0
+				0 1 1 1 1 0
+				1 1 1 1 1 2
+				1 1 1 0 0 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="3">
+				0 0 0
+				1 1 1
+				1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="7">
+				0 0 0 0 0 1 0
+				0 1 1 1 1 1 1
+				1 1 1 1 1 1 0
+				0 2 0 0 0 0 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="5" width="6">
+				0 0 0 0 0 0
+				0 0 1 1 0 0
+				1 1 1 1 1 0
+				1 1 1 1 1 0
+				0 0 0 0 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="3">
+				0 0 0
+				1 1 0
+				1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				1 1 0 0
+				1 1 1 0
+				0 1 2 0
+			</disposition>
+		</decoration>
+	</group>
+	<group>
+			<name>Grass</name>
+			<info></info>
+			<effect type="1">0</effect>
+		<decoration>
+			<disposition height="3" width="4">
+				0 0 0 0
+				0 1 1 0
+				1 2 1 1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 1 0 0
+				0 1 1 0
+				1 2 1 1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="5">
+				0 0 1 0 0
+				0 1 1 1 0
+				1 2 1 1 1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 0 0 0
+				1 1 0 0
+				2 0 0 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 1
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="5">
+				0 0 0 0 0
+				0 1 1 1 1
+				0 1 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="5">
+				0 0 1 0 0
+				1 1 1 1 1
+				0 0 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 0 0 0
+				0 1 1 0
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="3">
+				0 1 0
+				0 1 0
+				0 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="4">
+				0 1 0 0
+				0 1 1 0
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 0 0 0
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="2">
+				0 0
+				1 2
+			</disposition>
+		</decoration>
+	</group>
+	<group>
+			<name>Earth</name>
+			<info></info>
+			<effect type="1">0</effect>
+		<decoration>
+			<disposition height="2" width="4">
+				1 1 1 0
+				0 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 0
+				0 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 0
+				0 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 1
+				1 1 1 2
+			</disposition>
+		</decoration>
+	</group>
+	<group>
+			<name>Snow</name>
+			<info></info>
+			<effect type="1">0</effect>
+		<decoration>
+			<disposition height="3" width="3">
+				0 1 0
+				1 1 1
+				1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				0 0 1 0
+				2 1 1 1
+				0 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="3">
+				0 1 0
+				0 1 0
+				1 1 1
+				1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="2">
+				1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="3">
+				0 0 0
+				0 1 0
+				0 1 0
+				1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 1
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 0
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="5">
+				0 0 0 0 0
+				0 1 1 1 0
+				1 1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="5">
+				0 0 0 0 0
+				0 1 1 1 0
+				1 1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				0 0
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="2">
+				1 1
+				1 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="3">
+				0 1 0
+				1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				1 1 1 1
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				0 0 1 0
+				0 1 1 0
+				1 1 1 2
+			</disposition>
+		</decoration>
+	</group>
+	<group>
+			<name>Sand</name>
+			<info></info>
+			<effect type="1">0</effect>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				0 1 1 0
+				1 1 1 1
+				0 0 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				0 0 0 0
+				1 1 1 1
+				1 1 2 1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="2">
+				2 2
+				2 1
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="3">
+				1 0 1
+				0 1 1
+				0 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="1" width="1">
+				2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 0
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 1
+				0 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 0
+				0 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 1
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 1
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="4">
+				0 0 0 0
+				0 0 1 0
+				0 1 1 0
+				0 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="4" width="2">
+				1 1
+				0 1
+				0 1
+				0 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 1 1 0
+				0 1 2 0
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="2" width="4">
+				0 0 0 0
+				1 1 1 2
+			</disposition>
+		</decoration>
+		<decoration>
+			<disposition height="3" width="5">
+				0 0 0 0 0
+				0 1 1 1 0
+				0 1 1 2 0
+			</disposition>
+		</decoration>
+	</group>
+</decorations>

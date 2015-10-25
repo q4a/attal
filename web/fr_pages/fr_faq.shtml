@@ -1,0 +1,99 @@
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte"> 
+
+  <p class="texte_classique"><img src="../fr_interface/titre_faq_fr.jpg" width="382" height="16"><br>
+
+    <br>
+
+    La FAQ reprend toutes les questions que vous pouvez vous poser 
+
+    sur Attal (programmation, graphismes, campagnes, intégration des thèmes 
+
+    etc.) et y répond (du mieux possible).<br>
+
+	
+  <ul>
+    <li>Comment utiliser les thèmes dans Attal ? 
+      <blockquote> Pour changer du thème par défaut il vous suffit de rajouter 
+        l'option '-theme' au lancement du client, suivi du nom du thème. Il existe 
+        pour l'instant deux thèmes : 'medieval' et 'cyberpunk' </blockquote>
+    <li>Pourquoi les graphismes du theme 'medieval' sont-ils si peu<br>
+      travaillés ? 
+      <blockquote> Les graphistes actuels d'Attal ont décidé de se focaliser sur 
+        un seul thème ('cyberpunk') qui leur tenait à coeur et qui occuppe déjà 
+        tout leur temps. Le thème 'medieval' est développé très rapidement pour 
+        l'instant en bricolant quelques images. Si vous êtes intéressé par ce 
+        thème et que vous avez quelques talents de graphiste, nous accepterons 
+        volontiers vos contributions. </blockquote>
+    <li>Je n'arrive pas à compiler Attal. Que faut-il faire ? 
+      <blockquote> Lire le fichier INSTALL !! Si cela ne marche toujours pas, 
+        <a href="mailto:paudoux@chez.com">me contacter</a>. </blockquote>
+    <li>Peut-on (ou pourra-t-on) jouer à Attal sous Windows ?
+      <blockquote>
+        Les sources d'Attal sont écrites en C++ et sont donc portables. Elles
+utilisent cependant une bibliothèque : Qt. Cette dernière est disponible sous
+Unix et sous Windows. Le problème est que la version Windows est (pour
+l'instant) payante, même si le programme est sous GPL. Nous n'avons pas les
+moyens pour l'instant de nous offrir une licence Windows de cette bibliothèque, mais pourquoi pas
+plus tard... 
+      </blockquote>
+  </ul>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--#include virtual="interface.shtml" -->
+
+</body>
+
+</html>
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		

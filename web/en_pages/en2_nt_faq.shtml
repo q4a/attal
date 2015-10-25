@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="../en_pages/en_interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13">
+<img src="../en_interface/en_titre_faq.jpg" width="382" height="16"><br>
+  <br>
+  The FAQ answers all the questions you could have about Attal (development, graphics, 
+  scenarii, themes...).<br>
+<ul>
+  <li>How playing with new themes ? 
+    <blockquote> If you want to play with a new theme, you just have to add the 
+      '-theme' option when you start Attal (followed by a theme name). For the 
+      moment, there is only two themes : 'medieval' and 'cyberpunk'. </blockquote>
+  <li>Why graphics of the 'medieval' theme are so ugly ? 
+    <blockquote> Attal's graphists are only focused (for the moment) on the cyberpunk 
+      theme (it takes all their time and energy). The 'medieval' theme is quickly 
+      developped in parallel in order to show you another theme but we can't spend 
+      time for it. If you are interested by developping it, we will welcome your 
+      contribution. </blockquote>
+  <li>I can't compile Attal ! What to do ? Read INSTALL file !! If it's not enough, 
+    <a href="mailto:paudoux@chez.com">contact me</a>. 
+</ul>
+</layer>
+
+</body>
+</html>

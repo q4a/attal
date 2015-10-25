@@ -1,0 +1,128 @@
+
+== Server Side==
+
+a)Begin
+  Fight can begin in some situations:
+
+1)movingOnLord  
+	startFight(lord, lord)
+2)movingOnCreature (CreatureFight)
+	startFight(lord, creature)
+3)handleAnswerCreatureJoin (no accept and creature is not fleeing)
+	startFight(lord, creature)
+
+
+b)StartFight
+	1)create FightEngine
+		(assign a server to a fight engine, initialise variables,
+ 		create a fake lord for combact with creatures (useful in combact with lords??))
+	2)Connect sig_endfight with slot_endfight
+	3)change state (IN_FIGHT_LORD (lord) , IN_FIGHT_CREATURE ( creature ) ))
+	4)set defendCell ( cell of defend creature )
+	5)(if fight with units initialize units)
+	6)initialisation fight
+		6.1)Initialisation variables
+		6.2)Initialisation ai (if present) (analyst and units)
+		6.3)Start fight
+			6.3.1)C_FIGHT_INIT (class,attacker lord id)
+			6.3.2)C_FIGHT_LORD (class,defender lord id)
+			6.3.3)C_FIGHT_CREATURE (if necessary)
+			6.3.4)C_FIGHT_UNIT (opponent unit data)
+		6.4)Initialisation new map
+		6.5)Setup unit (initial placement of units on map)
+		6.6)New turn
+
+
+c)New turn
+	1)Initialize values (movement)
+	2)OrderTroops (create a list with all units with number > 0)
+	3)Activate troops (C_FIGHT_ACTIVE) 
+		(activate mean also set _currentUnit)
+
+
+
+SIGNALS:
+  a)C_FIGHT_MOVE (request from client to server, one cell at time)
+		moveUnit and send  C_FIGHT_MOVE (reponse from server to client, one cell at time)
+		1)control if valid move
+		2)if NEAR_FREE
+			moveUnit
+			send C_FIGHT_MOVE
+		3)if NEAR_OCCUPIED
+			fightUnit
+			send C_FIGHT_MESSAGE
+			send C_FIGHT_DAMAGE (attackPlayer and defendPlayer)
+	
+	b)C_FIGHT_ENDMOVE;C_FIGHT_WAIT;C_FIGHT_DEFEND :
+		nextUnit
+		1)Compute results
+			if winner or loser ->endFight
+		2)Remove _currentUnit from list
+		3)
+	
+	c)C_FIGHT_FLEE: 
+		endFight
+		1)Update units 
+		2)C_FIGHT_END
+
+
+
+== Client side ==
+Begin
+
+1)Do an action that activa fight (see server side)
+
+2)C_FIGHT_INIT
+	Set up my lord (attacker or defender)
+
+2a)  C_FIGHT_LORD
+	Set up opponent lord (opponent from lord list)
+
+3)C_FIGHT_CREATURE
+	If fight against a creature
+
+4)C_FIGHT_UNIT (update opponent units)
+
+5)C_FIGHT_ACTIVE (activate unit)
+	Do something with unit it should be:
+	5.1)C_FIGHT_FLEE
+		end fight (and lose lord)
+	5.2)C_FIGHT_WAIT
+		pass turn
+  5.2)C_FIGHT_DEFEND
+  5.3)C_FIGHT_DISTATTACK
+  5.3)C_FIGHT_MOVE (request from client to server, one cell at time)
+	and, last 
+	5.4)C_FIGHT_ENDMOVE
+
+6)C_FIGHT_DAMAGE
+	update unit
+
+7)C_FIGHT_MESSAGE
+	handle message
+
+8)C_FIGHT_END
+	8.1)update units
+
+Fight protocol
+enum CLASS_FIGHT {
+  C_FIGHT_INIT,
+  C_FIGHT_CREATURE,
+  C_FIGHT_LORD,
+  C_FIGHT_CELL,
+  C_FIGHT_UNIT,
+  C_FIGHT_MODUNIT,
+  C_FIGHT_MOVE,
+  C_FIGHT_ENDMOVE,
+  C_FIGHT_ACTIVE,
+  C_FIGHT_DISTATTACK,
+  C_FIGHT_WAIT,
+  C_FIGHT_FLEE,
+  C_FIGHT_DEFEND,
+  C_FIGHT_DAMAGE,
+  C_FIGHT_END,
+};
+
+NO MORE USED
+C_FIGHT_MODUNIT
+C_FIGHT_CELL

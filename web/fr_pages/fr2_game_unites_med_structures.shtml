@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<STYLE TYPE="text/css">
+<!--
+A {text-decoration:none;}
+-->
+</STYLE>
+
+<STYLE>
+BODY
+{scrollbar-face-color: #666666; scrollbar-shadow-color: #33cc00; 
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #33cc00; 
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-arrow-color: #000D45; text-decoration: blink}
+</STYLE> 
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:405px; height:222px; z-index:3; left: 195px; top: 165px" class="cadre12"> 
+  <p><img src="../fr_interface/titre_game_fr.jpg" width="382" height="16"><br>
+    <b><br>
+    </b><a href="fr2_game_cr.shtml">- Comptes rendus des r&eacute;unions &eacute;quipe 
+    -</a><br>
+    <a href="fr2_game_general.shtml">- Explications g&eacute;n&eacute;rales -</a><br>
+    <b>[th&egrave;me cyberpunk]</b><br>
+    <a href="fr2_game_monde.shtml">- Le monde / l'univers -</a><br>
+    <a href="fr2_game_regles.shtml">- Le jeu, les r&egrave;gles -</a><br>
+    <a href="fr2_game_unites.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+    <a href="fr2_game_scenario.shtml">- Sc&eacute;nario, campagnes -</a><br>
+  <p><b> [th&egrave;me m&eacute;di&eacute;val-fantastique]</b>
+<br>
+ <a href="fr2_game_unites_med.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+
+  <p><b><br>
+    - Unit&eacute;s, structures, ressources - [th&egrave;me médiéval fantastique]</b><br>
+    <br>
+
+
+<br> <b> Bâtiments communs : </b>
+<br>
+<br>La Tente : Château vide, ne sert à rien mais rapporte 500 or - gratuit
+<br>La Taverne : Permet de pourvoir développer le château - 500 or + 2 bois
+<br>Le Fort : Permet de recruter des Lords. La paye passe de 500 à 1000 or. Les murailles sont construites - 5.000 or + 5 bois + 10 pierre + 3 fer
+<br>Tour Gauche : dégâts à déterminer - 1.500 or + 2 bois + 5 pierre + 1 fer
+<br>Tour Droite : dégâts à déterminer - 1.500 or + 2 bois + 5 pierre + 1 fer
+<br>Fossé : Retient les créature pour un tour. Une créature qui rentre dans un fossé ne peut pas attaquer une autre derrière le fossé - 750 or
+<br>Donjon : dégâts à déterminer - 3.000 or + 4 bois + 8 pierre + 2 fer
+<br>Fontaine : + 500 or - 2.500 or + 3 pierre
+<br>Marché : + 750 or - 3.500 or + 5 bois
+<br>Ecole de magie : donne accès aux sorts disponibles en vente - 10.000 + 5 pierre + 5 bois + 6 fer + 6 souffre + 6 mercure + 6 cristaux
+<br>
+<br>
+
+<br> <b> HUMAIN </b>
+<br>Tendance : guerrière
+<br>
+<br> Bâtiments spécifiques :
+<br>
+<br>Fortification : Double la résistance des Murs d'enceintes du Fort - 4.000 or + 20 pierre + 10 bois + 3 fer
+<br>Tourelles : Ajoute deux tourelles supplémentaire ; dégâts à définir ? - 2.000 or + 15 pierre + 5 bois + 5 fer
+<br>Fosse (et non fossé) : Identique au fossé mais inflige des dégâts (à définir ?) aux créatures qui sont dedans et ce à chaque début de tour - 1.500 or + 5 bois + 5 pierre
+<br>
+<br>
+
+<br> <b> MAGICIEN </b>
+<br>Tendance : magique
+<br>
+<br>Bâtiments spécifiques :
+<br>
+<br>Université de magie : Permet de connaître les sorts que l'on va acheter - 3.000 or + 5 pierre + 5 bois + 5 fer + 5 souffre + 5 mercure + 5 cristaux
+<br>La Librairie : + 1 sort à chaque niveau mis en vente - 2.000 or + 5 pierre + 5 bois + 5 fer + 2 souffre + 2 mercure + 2 cristaux
+<br>Le Temple de Magie : Donne + 1 en puissance et + 1 en connaissance à chaque Lord entrant dans le château et + 2 de puissance au Lord en cas de défense de siège - 4.000 or + 5 bois + 5 pierre + 5 fer + 2 Cristaux
+<br>
+<br>
+
+<br> <b> BARBARE </b> 
+<br>Tendance : meurtrière
+<br>
+<br>Bâtiments spécifiques :
+<br>
+<br>Plate-forme à baliste : Construit un plate-forme sur laquelle on peut ajouter une baliste spécifique (dégâts à définir ?)- 3.000 or + 10 pierre + 10 bois + 5 fer coût de la baliste spécifique : 1.000 or + 
+<br>Pièges : Pose 10 pièges invisible par l'ennemi sur le champs de bataille. Un piège active devient visible par l'ennemi mais reste valide. Dégâts à définir ? - 2.000 or + 5 pierre + 5 bois + 8 fer
+<br>Ecole de Guerre : Ajoute + 5 en attaque à tous les Lord entrant dans le château. - 8.000 or + 10 bois + 10 pierre + 20 fer + 5 cristaux
+<br>
+
+<br> 
+<br> 
+</div>
+<!--#include virtual="interface2.shtml" --> 
+</body>
+</html>

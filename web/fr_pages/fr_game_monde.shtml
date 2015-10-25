@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte_classique"> 
+  <p><img src="../fr_interface/titre_game_fr.jpg" width="382" height="16"><br>
+    <br>
+    <b>- Le monde / l'univers - [th&egrave;me cyberpunk]</b><br>
+    <br>
+    (en construction)<br>
+    <br>
+    <i><b>-- Ambiance g&eacute;n&eacute;rale --</b></i><br>
+    <br>
+    Le jeu se d&eacute;roule dans les ann&eacute;es 2070.<br>
+    Economie capitaliste d&eacute;velopp&eacute;e &agrave; outrance. <br>
+    Quelques importantes Corporations ont main mise sur le pouvoir politique des 
+    pays les plus avanc&eacute;s.<br>
+    La rentabilit&eacute; &eacute;tant le ma&icirc;tre mot, des domaines tels 
+    que l'&eacute;cologie ont compl&egrave;tement &eacute;t&eacute; abandonn&eacute;s.<br>
+    <b><br>
+    <i>-- Les technologies informatiques / telecom --</i></b><br>
+    <br>
+    Les technologies issues de l'informatique et des t&eacute;l&eacute;communications 
+    sont omnipr&eacute;sentes.<br>
+    --&gt; &agrave; d&eacute;velopper<br>
+    <br>
+    <i><b>-- Les biotechnologies --</b></i><br>
+    <br>
+    L'évolution des biotechnologies permet des implants et des &quot;mélanges&quot; 
+    humains/machine.<br>
+    --&gt; &agrave; d&eacute;velopper<br>
+    <br>
+    <i><b>-- Les drogues / stimulants --</b></i><br>
+    <br>
+    Les drogues, médicaments et autres dopants sont d'une efficacité redoutable 
+    et sont courament utilis&eacute;es (tant par les civils que par les militaires 
+    ou certaines milices). Ces drogues provoquent des effets secondaires variables, 
+    pouvant &ecirc;tre catastrophiques pour le corps humain sur le long terme.<br>
+    --&gt; &agrave; d&eacute;velopper<br>
+    <br>
+    <i><b>-- Le domaine militaire --</b></i><br>
+    <br>
+    Les armes chimiques sont très présentes et mieux contrôlées.<br>
+    <br>
+  </div>
+
+
+
+
+
+
+
+
+
+<!--#include virtual="interface.shtml" --> 
+
+</body>
+</html>

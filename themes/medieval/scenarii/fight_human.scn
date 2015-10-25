@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE scenario>
+<scenario nbPlayer="1">
+	<attalversion>0.10.2-CVS</attalversion>
+	<name>Fight humans</name>
+	<theme>medieval</theme>
+	<description>
+		Test fights against human creatures
+	</description>
+	<calendar>
+		<value type="0">1</value>
+		<value type="1">1</value>
+		<value type="2">1</value>
+		<value type="3">1</value>
+		<value type="4">1044</value>
+		<startcalendar>
+			<value type="0">1</value>
+			<value type="1">1</value>
+			<value type="2">1</value>
+			<value type="3">1</value>
+			<value type="4">1044</value>
+		</startcalendar>
+		<turn>0</turn>
+	</calendar>
+	<map>
+		<width>20</width>
+		<height>20</height>
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 1 10 1 1 1 14 0 0 0 0 0 0 0 0 0 
+		0 0 0 1 10 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 1 0 0 0 0 0 1 3 1 1 1 14 0 0 0 0 0 0 0 0 0 
+		0 0 0 1 7 1 1 1 1 1 1 1 1 1 5 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 1 3 1 1 1 14 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 1 3 1 1 1 14 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 1 3 1 1 1 14 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 1 7 1 1 1 14 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+	</map>
+	<base>
+		<type>0</type>
+		<name></name>
+		<col>3</col>
+		<row>4</row>
+		<building>0</building>
+		<building>1</building>
+		<building>2</building>
+		<building>3</building>
+		<building>4</building>
+		<building>5</building>
+		<building>6</building>
+		<building>7</building>
+		<building>8</building>
+		<building>9</building>
+		<building>10</building>
+		<building>11</building>
+	</base>
+	<lord id="0">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="1">
+		<col>4</col>
+		<row>6</row>
+		<unit pos="0">
+			<race>0</race>
+			<level>0</level>
+			<number>10</number>
+		</unit>
+		<unit pos="1">
+			<race>0</race>
+			<level>0</level>
+			<number>10</number>
+		</unit>
+		<unit pos="2">
+			<race>0</race>
+			<level>0</level>
+			<number>10</number>
+		</unit>
+		<unit pos="3">
+			<race>0</race>
+			<level>0</level>
+			<number>10</number>
+		</unit>
+		<unit pos="4">
+			<race>0</race>
+			<level>1</level>
+			<number>10</number>
+		</unit>
+		<unit pos="5">
+			<race>0</race>
+			<level>1</level>
+			<number>10</number>
+		</unit>
+		<unit pos="6">
+			<race>0</race>
+			<level>1</level>
+			<number>10</number>
+		</unit>
+		<characteristic type="attack">10</characteristic>
+		<characteristic type="defense">10</characteristic>
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="2">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="3">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="4">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="5">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="6">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="7">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="8">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="9">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="10">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="11">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="12">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="13">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="14">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="15">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="16">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="17">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="18">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="19">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="20">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="21">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="22">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="23">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="24">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="25">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="26">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="27">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="28">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="29">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="30">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="31">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="32">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="33">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="34">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="35">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="36">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="37">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="38">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="39">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<lord id="40">
+		<characteristic type="experience">0</characteristic>
+	</lord>
+	<creature>
+		<row>3</row>
+		<col>10</col>
+		<race>0</race>
+		<level>0</level>
+		<stack num="0">10</stack>
+		<behaviour>4</behaviour>
+		<flee>0</flee>
+		<lookingRight>0</lookingRight>
+		<growth type="0">
+		</growth>
+	</creature>
+	<creature>
+		<row>5</row>
+		<col>10</col>
+		<race>0</race>
+		<level>1</level>
+		<stack num="0">10</stack>
+		<behaviour>4</behaviour>
+		<flee>0</flee>
+		<lookingRight>0</lookingRight>
+		<growth type="0">
+		</growth>
+	</creature>
+	<creature>
+		<row>7</row>
+		<col>10</col>
+		<race>0</race>
+		<level>2</level>
+		<stack num="0">10</stack>
+		<behaviour>4</behaviour>
+		<flee>0</flee>
+		<lookingRight>0</lookingRight>
+		<growth type="0">
+		</growth>
+	</creature>
+	<creature>
+		<row>9</row>
+		<col>10</col>
+		<race>0</race>
+		<level>3</level>
+		<stack num="0">10</stack>
+		<behaviour>4</behaviour>
+		<flee>0</flee>
+		<lookingRight>0</lookingRight>
+		<growth type="0">
+		</growth>
+	</creature>
+	<creature>
+		<row>11</row>
+		<col>10</col>
+		<race>0</race>
+		<level>4</level>
+		<stack num="0">10</stack>
+		<behaviour>4</behaviour>
+		<flee>0</flee>
+		<lookingRight>0</lookingRight>
+		<growth type="0">
+		</growth>
+	</creature>
+	<creature>
+		<row>13</row>
+		<col>10</col>
+		<race>0</race>
+		<level>5</level>
+		<stack num="0">10</stack>
+		<behaviour>4</behaviour>
+		<flee>0</flee>
+		<lookingRight>0</lookingRight>
+		<growth type="0">
+		</growth>
+	</creature>
+	<player>
+		<ruledbyai>0</ruledbyai>
+		<name>New player</name>
+		<team>0</team>
+		<base>0</base>
+		<lord>1</lord>
+		<resource type="0">20000</resource>
+		<resource type="1">500</resource>
+		<resource type="2">500</resource>
+		<resource type="3">200</resource>
+		<resource type="4">200</resource>
+		<resource type="5">200</resource>
+		<resource type="6">200</resource>
+		<resource type="7">200</resource>
+	</player>
+	<quests>
+	</quests>
+</scenario>

@@ -1,0 +1,111 @@
+ 
+<style type="text/css">
+<!--
+-->
+</style>
+<link rel="stylesheet" href="../test2.css">
+
+<div id="Layer99" style="position:absolute; width:481px; height:145px; z-index:99; left: 0px; top: 0px"><img src="../fr_interface/interface_haut.jpg" width="600" height="153"></div> 
+<div id="Layer98" style="position:absolute; width:149px; height:280px; z-index:98; left: 0px; top: 153px">
+  <div align="center"><img src="../en_interface/en_interface_bas.jpg" width="150" height="277" usemap="#Map2" border="0"><map name="Map2"><area shape="rect" coords="45,43,123,56" href="en2_news.shtml"><area shape="rect" coords="47,57,101,69" href="en2_project.shtml"><area shape="rect" coords="47,72,123,86" href="en2_development.shtml"><area shape="rect" coords="46,102,115,116" href="en2_screenshots.shtml"><area shape="rect" coords="48,118,109,129" href="en2_downloads.shtml"><area shape="rect" coords="46,132,80,144" href="en2_team.shtml"><area shape="rect" coords="48,87,138,101" href="en2_game.shtml"><area shape="rect" coords="47,148,66,161" href="en2_faq.shtml"><area shape="rect" coords="48,164,88,175" href="en2_forums.shtml"><area shape="rect" coords="48,178,73,190" href="en2_links.shtml"><area shape="rect" coords="42,211,139,227" href="../fr_pages/fr_news.shtml"><area shape="rect" coords="47,260,112,278" href="mailto:attal@fr.st"></map><map name="Map"><area shape="rect" coords="44,38,135,57" href="../fr_pages/fr_news.shtml"><area shape="rect" coords="46,57,100,70" href="../fr_pages/fr2_project.shtml"><area shape="rect" coords="48,70,139,87" href="../fr_pages/fr2_development.shtml"><area shape="rect" coords="46,87,138,101" href="../fr_pages/fr2_game.shtml"><area shape="rect" coords="47,102,115,115" href="../fr_pages/fr2_screenshots.shtml"><area shape="rect" coords="48,116,108,130" href="../fr_pages/fr2_downloads.shtml"><area shape="rect" coords="47,132,93,147" href="../fr_pages/fr2_team.shtml"><area shape="rect" coords="46,147,68,160" href="../fr_pages/fr2_faq.shtml"><area shape="rect" coords="46,162,92,174" href="../fr_pages/fr2_forums.shtml"><area shape="rect" coords="47,174,74,189" href="../fr_pages/fr2_links.shtml"><area shape="rect" coords="47,212,131,225" href="en_news.shtml"><area shape="rect" coords="48,261,112,274" href="mailto:attal@fr.st"></map> 
+    <span class="texte_infos"><br>
+    <font size="1">best with 1024x768 / IE 5.5<br>
+    <a href="en2_nt_news.shtml">- netscape version -</a></font></span></div>
+</div>
+
+
+<div id="Layer97" style="position:absolute; width:144px; height:137px; z-index:97; left: 633px; top: 129px"><br>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" width="94%" class="texte_infos">
+    <tr> 
+      <td width="100%"><img src="../fr_interface/3_info_haut.gif" width="133" height="27"></td>
+    </tr>
+    <tr> 
+      <td width="100%" background="../fr_interface/2_info_milieu.gif"> 
+        <div align="center" class="texte_infos"> 
+          <center>
+            <table border="0" width="90%" cellpadding="0" background="../fr_interface/noir.jpg" class="cadre11">
+              <tr> 
+                <td width="100%" class="texte_infos"><font size="1"> - last release: 
+                  0.1<br>
+                  - next: janvier 2001<br>
+                  <br>
+                  :: 04-12-00 ::<br>
+                  <br>
+                  - Development; <br>
+                  more than 11 000 lines were coded...<br>
+                  <br>
+                  - Graphics:<br>
+                  2 bases<br>
+                  3 factories<br>
+                  Some screenshots...<br>
+                  <br>
+                  To be continued...</font></td>
+              </tr>
+            </table>
+          </center>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="100%"><img src="../fr_interface/2_info_bas.gif" width="133" height="18"></td>
+    </tr>
+  </table>
+
+</div>
+
+<div id="Layer96" style="position:absolute; width:141px; height:391px; z-index:96; left: 18px; top: 501px"> 
+  <table border="0" cellspacing="0" cellpadding="0" width="94%" class="texte_infos">
+    <tr> 
+      <td width="100%"><img src="../fr_interface/3_info_haut.gif" width="133" height="27"></td>
+    </tr>
+    <tr> 
+      <td width="100%" background="../fr_interface/2_info_milieu.gif"> 
+        <div align="center" class="texte_infos"> 
+          <center>
+            <table border="0" width="86%" cellpadding="0" background="../fr_interface/noir.jpg" class="cadre11">
+              <tr> 
+                <td width="100%" class="texte_infos"> 
+                  <p><font size="1"> :: 05-12-00 ::<br>
+                    <br>
+                    - The team is now composed by 10 members.<br>
+                    <br>
+                    --&gt; You can write messages in forums.<br>
+                    <br>
+                    --&gt; You can propose your ideas of scenario, missions etc. 
+                    in cyber / medieval forums.<br>
+                    </font></p>
+                </td>
+              </tr>
+            </table>
+          </center>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="100%"><img src="../fr_interface/2_info_bas.gif" width="133" height="18"></td>
+    </tr>
+  </table>
+</div>
+
+
+<div id="Layer95" style="position:absolute; width:84px; height:44px; z-index:95; left: 631px; top: 21px"> 
+  <!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" --> 
+  <script type="text/javascript" language="JavaScript">var site="sm2pagomega"</script>
+
+<script type="text/javascript" language="JavaScript1.2" src="http://sm2.sitemeter.com/js/counter.js?site=sm2pagomega">
+
+</script>
+  <noscript> <a href="http://sm2.sitemeter.com/stats.asp?site=sm2pagomega" target="_top"> 
+  <img src="http://sm2.sitemeter.com/meter.asp?site=sm2pagomega" alt="Site Meter" border=0 width="32" height="32"></a> 
+  </noscript> <!-- Copyright (c)2000 Site Meter --> <!--WEBBOT bot="HTMLMarkup" Endspan --> 
+  <br>
+  <a href="http://www.sourceforge.net" target="_blank"><img src="../tmp/logo_sourceforge.jpg" width="88" height="31" border="0"></a> 
+</div>
+
+
+
+
+
+
+

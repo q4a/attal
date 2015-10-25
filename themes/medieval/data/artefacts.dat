@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE artefacts>
+<artefacts>
+	<artefact>
+		<name>Snake's venom</name>
+		<position>0</position>
+		<action>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Silver Armor</name>
+		<position>0</position>
+		<action>
+			<elementary type="CHARAC" modif="VALUE" param="2">2</elementary>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Vitality Ring</name>
+		<position>0</position>
+		<action>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Barbarian ring</name>
+		<position>0</position>
+		<action>
+			<elementary type="CHARAC" modif="VALUE" param="1">3</elementary>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Durability ring</name>
+		<position>0</position>
+		<action>
+			<elementary type="CHARAC" modif="VALUE" param="6">5</elementary>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Evil bracelet</name>
+		<position>0</position>
+		<action>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Merlin's hat</name>
+		<position>0</position>
+		<action>
+			<elementary type="CHARAC" modif="VALUE" param="4">1</elementary>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Golden bugle</name>
+		<position>0</position>
+		<action>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Crown</name>
+		<position>0</position>
+		<action>
+			<elementary type="CHARAC" modif="VALUE" param="13">1</elementary>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Magic sphere</name>
+		<position>0</position>
+		<action>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Rudder</name>
+		<position>0</position>
+		<action>
+			<elementary type="CHARAC" modif="VALUE" param="6">5</elementary>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Igor's Axe</name>
+		<position>0</position>
+		<action>
+			<elementary type="CHARAC" modif="VALUE" param="1">1</elementary>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Mana amphora</name>
+		<position>0</position>
+		<action>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Magic lamp</name>
+		<position>0</position>
+		<action>
+		</action>
+	</artefact>
+	<artefact>
+		<name>Pick</name>
+		<position>0</position>
+		<action>
+		</action>
+	</artefact>
+</artefacts>

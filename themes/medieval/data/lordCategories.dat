@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE lordCategories>
+<lordCategories>
+	<category race="0">
+		<name>Knight</name>
+		<description>Knight</description>
+		<evolution>
+			<characteristic type="attack">3</characteristic>
+			<characteristic type="defense">3</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="0">
+		<name>Cleric</name>
+		<description>Cleric</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">3</characteristic>
+			<characteristic type="knowledge">4</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="1">
+		<name>Druid</name>
+		<description>Druid</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="1">
+		<name>Witch</name>
+		<description>Witch</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">4</characteristic>
+			<characteristic type="knowledge">4</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="2">
+		<name>Veteran</name>
+		<description>Veteran</description>
+		<evolution>
+			<characteristic type="attack">3</characteristic>
+			<characteristic type="defense">3</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="2">
+		<name>Thief</name>
+		<description>Thief</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">2</characteristic>
+			<characteristic type="knowledge">2</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="3">
+		<name>Necromancer</name>
+		<description>Necromancer</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">3</characteristic>
+			<characteristic type="knowledge">3</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="3">
+		<name>Ripper</name>
+		<description>Ripper</description>
+		<evolution>
+			<characteristic type="attack">3</characteristic>
+			<characteristic type="defense">3</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="4">
+		<name>Sorcerer</name>
+		<description>Sorcerer</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="4">
+		<name>Spellcaster</name>
+		<description>Spellcaster</description>
+		<evolution>
+			<characteristic type="attack">2</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">3</characteristic>
+			<characteristic type="knowledge">3</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="5">
+		<name>Mage</name>
+		<description>Mage</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">4</characteristic>
+			<characteristic type="knowledge">4</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="5">
+		<name>War mage</name>
+		<description>War mage</description>
+		<evolution>
+			<characteristic type="attack">2</characteristic>
+			<characteristic type="defense">2</characteristic>
+			<characteristic type="power">3</characteristic>
+			<characteristic type="knowledge">3</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="6">
+		<name>Barbarian</name>
+		<description>Barbarian</description>
+		<evolution>
+			<characteristic type="attack">2</characteristic>
+			<characteristic type="defense">2</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="6">
+		<name>Warlord</name>
+		<description>Warlord</description>
+		<evolution>
+			<characteristic type="attack">4</characteristic>
+			<characteristic type="defense">2</characteristic>
+			<characteristic type="power">2</characteristic>
+			<characteristic type="knowledge">2</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="7">
+		<name>Heretic</name>
+		<description>Heretic</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">2</characteristic>
+			<characteristic type="knowledge">2</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="7">
+		<name>Renegade</name>
+		<description>Renegade</description>
+		<evolution>
+			<characteristic type="attack">2</characteristic>
+			<characteristic type="defense">2</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="8">
+		<name>Atlante</name>
+		<description>Atlante</description>
+		<evolution>
+			<characteristic type="attack">3</characteristic>
+			<characteristic type="defense">2</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="8">
+		<name>Atlante mage</name>
+		<description>Atlante mage</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">1</characteristic>
+			<characteristic type="power">3</characteristic>
+			<characteristic type="knowledge">3</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="9">
+		<name>Golem</name>
+		<description>Golem</description>
+		<evolution>
+			<characteristic type="attack">3</characteristic>
+			<characteristic type="defense">5</characteristic>
+			<characteristic type="power">1</characteristic>
+			<characteristic type="knowledge">1</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+	<category race="9">
+		<name>Alchimist</name>
+		<description>Alchimist</description>
+		<evolution>
+			<characteristic type="attack">1</characteristic>
+			<characteristic type="defense">2</characteristic>
+			<characteristic type="power">3</characteristic>
+			<characteristic type="knowledge">3</characteristic>
+			<characteristic type="charisma">1</characteristic>
+		</evolution>
+	</category>
+</lordCategories>

@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE creatures>
+<creatures>
+	<race name="Human">
+		<creature name="Fantassin">
+			<attack>5</attack>
+			<defense>4</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>10</health>
+			<move>4</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-20</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">50</cost>
+			<cost resource="3">50</cost>
+		</creature>
+		<creature name="Archer">
+			<attack>8</attack>
+			<defense>5</defense>
+			<range>16</range>
+			<mindamages>5</mindamages>
+			<maxdamages>10</maxdamages>
+			<health>20</health>
+			<move>6</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-20</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">250</cost>
+			<cost resource="3">50</cost>
+			<mcost resource="0">10</mcost>
+			<mcost resource="3">5</mcost>
+		</creature>
+		<creature name="Spadassin">
+			<attack>12</attack>
+			<defense>12</defense>
+			<range>0</range>
+			<mindamages>10</mindamages>
+			<maxdamages>16</maxdamages>
+			<health>50</health>
+			<move>7</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-20</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">500</cost>
+			<cost resource="3">50</cost>
+		</creature>
+		<creature name="Paladin">
+			<attack>20</attack>
+			<defense>20</defense>
+			<range>0</range>
+			<mindamages>18</mindamages>
+			<maxdamages>22</maxdamages>
+			<health>180</health>
+			<move>8</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-20</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">2400</cost>
+			<cost resource="2">10</cost>
+			<cost resource="3">50</cost>
+		</creature>
+		<creature name="Knight">
+			<attack>35</attack>
+			<defense>25</defense>
+			<range>0</range>
+			<mindamages>30</mindamages>
+			<maxdamages>60</maxdamages>
+			<health>200</health>
+			<move>14</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">3000</cost>
+			<cost resource="1">10</cost>
+			<cost resource="2">50</cost>
+			<cost resource="3">100</cost>
+		</creature>
+		<creature name="Hyppogriffe">
+			<attack>45</attack>
+			<defense>30</defense>
+			<range>0</range>
+			<mindamages>38</mindamages>
+			<maxdamages>68</maxdamages>
+			<health>255</health>
+			<move>16</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">5450</cost>
+			<cost resource="2">100</cost>
+			<cost resource="3">200</cost>
+		</creature>
+	</race>
+	<race name="Druidic">
+		<creature name="Fairy">
+			<attack>2</attack>
+			<defense>1</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>2</maxdamages>
+			<health>2</health>
+			<move>8</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="56">
+				<moving first="40" last="49"></moving>
+				<fighting first="1" last="6"></fighting>
+				<defending first="31" last="39"></defending>
+				<selecting first="40" last="42"></selecting>
+				<dead first="30" last="30"></dead>
+				<dying first="25" last="30"></dying>
+				<attackhigh first="7" last="12"></attackhigh>
+				<attacklow first="13" last="18"></attacklow>
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">20</cost>
+		</creature>
+		<creature name="Dryade">
+			<attack>2</attack>
+			<defense>2</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>4</health>
+			<move>9</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="56">
+				<moving first="40" last="49"></moving>
+				<fighting first="1" last="6"></fighting>
+				<defending first="31" last="39"></defending>
+				<selecting first="40" last="42"></selecting>
+				<dead first="30" last="30"></dead>
+				<dying first="25" last="30"></dying>
+				<attackhigh first="7" last="12"></attackhigh>
+				<attacklow first="13" last="18"></attacklow>
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">30</cost>
+		</creature>
+		<creature name="Centaur">
+			<attack>3</attack>
+			<defense>3</defense>
+			<range>12</range>
+			<mindamages>1</mindamages>
+			<maxdamages>10</maxdamages>
+			<health>12</health>
+			<move>7</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="71">
+				<moving first="51" last="62"></moving>
+				<fighting first="1" last="7"></fighting>
+				<shooting first="16" last="23"></shooting>
+				<defending first="63" last="69"></defending>
+				<selecting first="51" last="53"></selecting>
+				<dead first="38" last="38"></dead>
+				<dying first="33" last="38"></dying>
+				<attackhigh first="9" last="12"></attackhigh>
+				<attacklow first="13" last="15"></attacklow>
+				<shoothigh first="24" last="28"></shoothigh>
+				<shootlow first="29" last="32"></shootlow>
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">85</cost>
+		</creature>
+		<creature name="Elf">
+			<attack>4</attack>
+			<defense>3</defense>
+			<range>15</range>
+			<mindamages>6</mindamages>
+			<maxdamages>8</maxdamages>
+			<health>18</health>
+			<move>7</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="72">
+				<moving first="51" last="63"></moving>
+				<fighting first="19" last="26"></fighting>
+				<shooting first="1" last="8"></shooting>
+				<defending first="64" last="68"></defending>
+				<selecting first="51" last="53"></selecting>
+				<dead first="39" last="39"></dead>
+				<dying first="37" last="39"></dying>
+				<attackhigh first="26" last="31"></attackhigh>
+				<attacklow first="33" last="36"></attacklow>
+				<shoothigh first="9" last="13"></shoothigh>
+				<shootlow first="14" last="18"></shootlow>
+			</animations>
+			<xoffset>8</xoffset>
+			<xoffsetmirr>8</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">100</cost>
+		</creature>
+		<creature name="Druid">
+			<attack>8</attack>
+			<defense>4</defense>
+			<range>15</range>
+			<mindamages>10</mindamages>
+			<maxdamages>12</maxdamages>
+			<health>40</health>
+			<move>8</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="69">
+				<moving first="11" last="13"></moving>
+				<fighting first="62" last="69"></fighting>
+				<shooting first="28" last="33"></shooting>
+				<defending first="41" last="46"></defending>
+				<selecting first="1" last="7"></selecting>
+				<dead first="52" last="52"></dead>
+				<dying first="47" last="52"></dying>
+				<shootlow first="34" last="37"></shootlow>
+				<shoothigh first="21" last="27"></shoothigh>
+			</animations>
+			<xoffset>80</xoffset>
+			<xoffsetmirr>80</xoffsetmirr>
+			<yoffset>10</yoffset>
+			<cost resource="0">300</cost>
+		</creature>
+		<creature name="Unicorn">
+			<attack>12</attack>
+			<defense>12</defense>
+			<range>0</range>
+			<mindamages>14</mindamages>
+			<maxdamages>16</maxdamages>
+			<health>70</health>
+			<move>9</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="57">
+				<moving first="8" last="16"></moving>
+				<fighting first="30" last="37"></fighting>
+				<defending first="19" last="24"></defending>
+				<selecting first="8" last="11"></selecting>
+				<dead first="57" last="57"></dead>
+				<dying first="51" last="57"></dying>
+				<attacklow first="38" last="44"></attacklow>
+				<attackhigh first="24" last="29"></attackhigh>
+			</animations>
+			<xoffset>25</xoffset>
+			<xoffsetmirr>10</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">450</cost>
+		</creature>
+		<creature name="Phoenix">
+			<attack>25</attack>
+			<defense>17</defense>
+			<range>0</range>
+			<mindamages>40</mindamages>
+			<maxdamages>60</maxdamages>
+			<health>175</health>
+			<move>21</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="61">
+				<moving first="11" last="15"></moving>
+				<fighting first="26" last="32"></fighting>
+				<defending first="22" last="25"></defending>
+				<selecting first="10" last="12"></selecting>
+				<dead first="61" last="61"></dead>
+				<dying first="56" last="61"></dying>
+				<attackhigh first="27" last="32"></attackhigh>
+				<attacklow first="34" last="38"></attacklow>
+			</animations>
+			<xoffset>105</xoffset>
+			<xoffsetmirr>85</xoffsetmirr>
+			<yoffset>40</yoffset>
+			<cost resource="0">1800</cost>
+			<cost resource="4">1</cost>
+		</creature>
+	</race>
+	<race name="Mercenary">
+		<creature name="Dwarf">
+			<attack>4</attack>
+			<defense>6</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>12</health>
+			<move>4</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-10</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">80</cost>
+		</creature>
+		<creature name="Thief">
+			<attack>7</attack>
+			<defense>7</defense>
+			<range>0</range>
+			<mindamages>4</mindamages>
+			<maxdamages>8</maxdamages>
+			<health>30</health>
+			<move>8</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-10</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">250</cost>
+		</creature>
+		<creature name="Bull">
+			<attack>12</attack>
+			<defense>10</defense>
+			<range>0</range>
+			<mindamages>8</mindamages>
+			<maxdamages>12</maxdamages>
+			<health>50</health>
+			<move>7</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-10</xoffset>
+			<xoffsetmirr>-45</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">550</cost>
+		</creature>
+		<creature name="Iron Bull">
+			<attack>15</attack>
+			<defense>15</defense>
+			<range>0</range>
+			<mindamages>10</mindamages>
+			<maxdamages>0</maxdamages>
+			<health>70</health>
+			<move>8</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-10</xoffset>
+			<xoffsetmirr>-30</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">1000</cost>
+		</creature>
+		<creature name="Black Mistress">
+			<attack>22</attack>
+			<defense>22</defense>
+			<range>0</range>
+			<mindamages>20</mindamages>
+			<maxdamages>20</maxdamages>
+			<health>150</health>
+			<move>10</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-29</xoffset>
+			<xoffsetmirr>-30</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">2800</cost>
+			<cost resource="4">1</cost>
+		</creature>
+		<creature name="Minotaur">
+			<attack>37</attack>
+			<defense>35</defense>
+			<range>0</range>
+			<mindamages>50</mindamages>
+			<maxdamages>70</maxdamages>
+			<health>255</health>
+			<move>15</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">7800</cost>
+			<cost resource="3">300</cost>
+		</creature>
+	</race>
+	<race name="Necroman">
+		<creature name="Zombi">
+			<attack>3</attack>
+			<defense>1</defense>
+			<range>0</range>
+			<mindamages>2</mindamages>
+			<maxdamages>5</maxdamages>
+			<health>15</health>
+			<move>3</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="28">
+				<moving first="1" last="10"></moving>
+				<fighting first="11" last="15"></fighting>
+				<defending first="16" last="20"></defending>
+				<dying first="21" last="27"></dying>
+				<dead first="28" last="28"></dead>
+				<selecting first="1" last="2"></selecting>
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>-5</yoffset>
+			<cost resource="0">60</cost>
+		</creature>
+		<creature name="Ghost">
+			<attack>8</attack>
+			<defense>10</defense>
+			<range>5</range>
+			<mindamages>4</mindamages>
+			<maxdamages>7</maxdamages>
+			<health>50</health>
+			<move>12</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="34">
+				<moving first="3" last="9"></moving>
+				<fighting first="13" last="18"></fighting>
+				<shooting first="13" last="18"></shooting>
+				<defending first="19" last="22"></defending>
+				<dying first="23" last="33"></dying>
+				<dead first="34" last="34"></dead>
+				<selecting first="1" last="2"></selecting>
+			</animations>
+			<xoffset>-45</xoffset>
+			<xoffsetmirr>10</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">200</cost>
+			<cost resource="4">1</cost>
+			<mcost resource="0">10</mcost>
+		</creature>
+		<creature name="Mummy">
+			<attack>15</attack>
+			<defense>10</defense>
+			<range>0</range>
+			<mindamages>12</mindamages>
+			<maxdamages>16</maxdamages>
+			<health>30</health>
+			<move>6</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="41">
+				<moving first="1" last="10"></moving>
+				<fighting first="11" last="20"></fighting>
+				<defending first="21" last="30"></defending>
+				<selecting first="1" last="2"></selecting>
+				<dying first="31" last="40"></dying>
+				<dead first="41" last="41"></dead>
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">450</cost>
+			<cost resource="4">2</cost>
+		</creature>
+		<creature name="Vampire">
+			<attack>20</attack>
+			<defense>8</defense>
+			<range>0</range>
+			<mindamages>15</mindamages>
+			<maxdamages>20</maxdamages>
+			<health>120</health>
+			<move>12</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="47">
+				<moving first="2" last="7"></moving>
+				<fighting first="11" last="19"></fighting>
+				<defending first="21" last="29"></defending>
+				<dying first="34" last="46"></dying>
+				<dead first="47" last="47"></dead>
+				<selecting first="30" last="33"></selecting>
+			</animations>
+			<xoffset>-10</xoffset>
+			<xoffsetmirr>-10</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">1500</cost>
+			<cost resource="2">2</cost>
+		</creature>
+		<creature name="Apocalyptic Rider">
+			<attack>40</attack>
+			<defense>30</defense>
+			<range>0</range>
+			<mindamages>25</mindamages>
+			<maxdamages>40</maxdamages>
+			<health>200</health>
+			<move>10</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="41">
+				<moving first="1" last="9"></moving>
+				<fighting first="11" last="19"></fighting>
+				<defending first="21" last="29"></defending>
+				<dying first="34" last="40"></dying>
+				<dead first="41" last="41"></dead>
+				<selecting first="30" last="33"></selecting>
+			</animations>
+			<xoffset>10</xoffset>
+			<xoffsetmirr>-10</xoffsetmirr>
+			<yoffset>15</yoffset>
+			<cost resource="0">3200</cost>
+			<cost resource="4">2</cost>
+		</creature>
+		<creature name="Undead Wolves">
+			<attack>37</attack>
+			<defense>30</defense>
+			<range>0</range>
+			<mindamages>45</mindamages>
+			<maxdamages>65</maxdamages>
+			<health>215</health>
+			<move>15</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="37">
+				<moving first="2" last="9"></moving>
+				<fighting first="11" last="19"></fighting>
+				<defending first="21" last="29"></defending>
+				<dying first="35" last="36"></dying>
+				<dead first="37" last="37"></dead>
+				<selecting first="30" last="34"></selecting>
+			</animations>
+			<xoffset>10</xoffset>
+			<xoffsetmirr>-10</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">7000</cost>
+			<cost resource="1">5</cost>
+		</creature>
+	</race>
+	<race name="Sorcerer">
+		<creature name="Amazon">
+			<attack>0</attack>
+			<defense>0</defense>
+			<range>0</range>
+			<mindamages>0</mindamages>
+			<maxdamages>0</maxdamages>
+			<health>0</health>
+			<move>0</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+		</creature>
+	</race>
+	<race name="Magician">
+		<creature name="Watermage">
+			<attack>3</attack>
+			<defense>1</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>4</maxdamages>
+			<health>4</health>
+			<move>4</move>
+			<morale>1</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="20">
+				<moving first="18" last="20"></moving>
+				<fighting first="1" last="4"></fighting>
+				<defending first="14" last="17"></defending>
+				<selecting first="18" last="20"></selecting>
+				<attacklow first="5" last="9"></attacklow>
+				<attackhigh first="10" last="13"></attackhigh>
+			</animations>
+			<xoffset>-80</xoffset>
+			<xoffsetmirr>-40</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">10</cost>
+		</creature>
+		<creature name="Firemage">
+			<attack>6</attack>
+			<defense>2</defense>
+			<range>3</range>
+			<mindamages>4</mindamages>
+			<maxdamages>7</maxdamages>
+			<health>5</health>
+			<move>5</move>
+			<morale>2</morale>
+			<luck>0</luck>
+			<size>2</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>-110</xoffset>
+			<xoffsetmirr>-50</xoffsetmirr>
+			<yoffset>0</yoffset>
+			<cost resource="0">20</cost>
+		</creature>
+	</race>
+	<race name="Barbarian">
+		<creature name="Gobelin">
+			<attack>0</attack>
+			<defense>0</defense>
+			<range>0</range>
+			<mindamages>0</mindamages>
+			<maxdamages>0</maxdamages>
+			<health>0</health>
+			<move>0</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+		</creature>
+	</race>
+	<race name="Hades">
+		<creature name="Spirit of fire">
+			<attack>0</attack>
+			<defense>0</defense>
+			<range>0</range>
+			<mindamages>0</mindamages>
+			<maxdamages>0</maxdamages>
+			<health>0</health>
+			<move>0</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+		</creature>
+	</race>
+	<race name="Atlantis">
+		<creature name="Nymph">
+			<attack>0</attack>
+			<defense>0</defense>
+			<range>0</range>
+			<mindamages>0</mindamages>
+			<maxdamages>0</maxdamages>
+			<health>0</health>
+			<move>0</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+		</creature>
+	</race>
+	<race name="Golem">
+		<creature name="Gargoyle">
+			<attack>0</attack>
+			<defense>0</defense>
+			<range>0</range>
+			<mindamages>0</mindamages>
+			<maxdamages>0</maxdamages>
+			<health>0</health>
+			<move>0</move>
+			<morale>0</morale>
+			<luck>0</luck>
+			<size>1</size>
+			<animations nbFrames="0">
+			</animations>
+			<xoffset>0</xoffset>
+			<xoffsetmirr>0</xoffsetmirr>
+			<yoffset>0</yoffset>
+		</creature>
+	</race>
+</creatures>

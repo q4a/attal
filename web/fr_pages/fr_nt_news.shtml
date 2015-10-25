@@ -1,0 +1,205 @@
+
+
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+<!--#include virtual="interface3.shtml" -->
+
+
+
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"> <img src="../fr_interface/titre_presentation_fr.jpg" width="382" height="16"><br>
+  <br>
+  Bienvenue.<br>
+  Attal: Lords of Doom est un jeu vidéo en développement, gratuit et libre.<br>
+  Jeu de stratégie au tour par tour, Attal sera jouable sous Linux (dans un premier 
+  temps), en solo et en multi-joueurs (réseau local ou internet).<br>
+  <br>
+  Si vous souhaitez contribuer à ce projet, n'hésitez pas à nous contacter.<br>
+  Vous pouvez consulter la page du projet sur <a href="http://sourceforge.net/projects/attal/" target="_blank">Sourceforge.net</a>.<br>
+  <br>
+  <img src="../fr_interface/titre_news2_fr.jpg" width="382" height="12"><br>
+ <br>
+
+<B>18-03-01</B>
+<br> - Voici la première version des
+ <a href="../download/specifications01.txt">'spécifications des thèmes'</a>.
+<br> [fichier texte]
+<br>  Ce document a pour objectif de détailler les informations et paramétres 
+nécessaires à la réalisation d'un thème (hors aspects graphiques).
+<br> Toutes vos remarques et idées sont les bienvenues.
+<br> Le développement du 'Theme-maker' commence, il sera créé en fonction de deux critères :
+<br> -- la faisabilité technique
+<br> -- les spécifications du thème
+<br> --> Merci donc de les lire et de nous transmettre votre avis. 
+<br>
+<br>
+
+
+<B>13-03-01</B>
+<br> - Aragorn nous rejoint. Il s'occupera de la définition du thème 'cyberpunk' (Lords, unités et caractéristiques,
+structures etc.)
+<br> Vous pourrez débattre de ce sujet sur le
+ <a href="http://sourceforge.net/forum/forum.php?forum_id=50448" target="_blank"> forum </a> correspondant.
+<br> 
+<br> - Rubrique 'développement': Ajout d'un fichier de configuration pour emacs (programmation facilitée).
+<br>
+<br>
+
+
+<B>11-03-01</B>
+<br>- Mise à jour de la 'Faq'
+<br>
+<br>
+
+<B>09-03-01</B><BR>
+- Mise à jour de la rubrique 'Attal: le jeu'.
+<br>-- Ajout de la rubrique 'structures' avec un descriptif des batiments qui pourront être intégrés au jeu.
+<br>- Mise à jour de la rubrique 'Développement' avec les règles 
+<br> d'écriture / programmation
+<br> - Attal est 'projet du mois' dans le magazine 'Planète Linux'.
+<br> La version 0.1 est également présente sur leur Cd.
+<br>
+<br>
+
+<B>08-03-01</B><BR>
+	<b> Les chateaux et créatures </b> <br>
+	- En attendant l'ajout d'une 'vraie' rubrique pour le thème 'médiéval-fantastique', 
+Marc et Morgan mettent à disposition une <a href="../fr_pages/fr2_nt_game_unites_med.shtml"> première version </A> 
+de ce que seront les chateaux et créatures d'Attal.
+<br> Vous pouvez nous faire part de vos idées sur le forum consacré à ce thème.
+<br> A venir (demain si tout va bien): les batiments des créatures, les sorts, l'organisation des chateaux.
+<br>
+<br>
+<B>01-03-01</B><BR>
+	<b>Attal 0.2 </b> <br>
+	- Une grande nouvelle: Attal 0.2 est sorti ! ;)<BR>Et oui, m&ecirc;me si cela ne se voit pas trop :( on
+	avance...<BR><BR>
+	Par rapport a la 0.1 qui ne faisait vraiment grand
+	chose, la 0.2 ne fera toujours pas grand chose mais pourtant
+	enormement plus :-))
+ 	<BR>En particulier, on peut citer l'apparition
+	:<BR>
+	- de la gestion des couches r&eacute;seau. Il y a maintenant un
+	serveur et des clients qui se connectent par IP au dit serveur. <BR>
+	Le serveur contr&ocirc;le tout (deplacement, etc...) et gere les
+	tours.
+	<BR>- Une &quot;ia&quot;. Son role est pour l'instant tres
+	basique (se contente de se connecter et de rendre la main quand on
+	lui la donne).<BR>
+	- La gestion des th&egrave;mes devient plus riches:
+	unit&eacute;s, lords, ressources...<BR>
+	- L'editeur permet d'editer
+	des scenarii et non plus seulement des cartes<BR>- Les graphismes
+	ont &eacute;t&eacute; amelior&eacute;s (et certains ajout&eacute;s)<BR>-
+	Debut de gestion des Lords et des bases
+	<BR>- Affichage du chemin
+	pr&eacute;calcul&eacute; sur la carte<BR>D'un point de vue purement
+	technique, on notera l'apparition du xml pour g&eacute;rer les
+	th&egrave;mes et les scenarii.<BR><BR>Pour ce qui est attendu pour
+	la 0.3 :<BR>gestion des combats, ia pour les combats, gestion de la
+	musique, gestion des r&egrave;gles basiques, des nouveaux
+	graphismes...<BR><BR>- Cette sortie de la 0.2 annonce certains
+	changements :<BR>-- le site internet retrouvera ses mises &agrave;
+	jour r&eacute;guli&egrave;res (une fois par semaine sera un
+	minimum).<BR>Il est maintenant g&eacute;r&eacute; sous CVS pour
+	faciliter les mises &agrave; jour par les membres de l'&eacute;quipe.<BR>--
+	une partie pour le th&egrave;me m&eacute;di&eacute;val - fantastique
+	sera ajout&eacute;e au site (g&eacute;r&eacute;e par Marc, qui prend
+	en charge la majeure partie de ce sujet)<BR>-- nous cherchons
+	quelques bonnes &acirc;mes pour nous aider sur ce projet (une
+	'liste' sera disponible d'ici peu)<BR><BR>- Toujours aucune de
+	Glover, qui n'a pas r&eacute;pondu &agrave; nos emails. Cela devient
+	inqui&eacute;tant :(<BR><BR><BR>
+
+<FONT SIZE=2 STYLE="font-size: 9pt"><FONT FACE="Arial, Helvetica, sans-serif"><FONT COLOR="#ffffff"><SPAN STYLE="text-decoration: none">Suivez
+	</SPAN><A HREF="fr2_nt_old_news.shtml"><SPAN STYLE="text-decoration: none">ce
+	lien</SPAN></A><SPAN STYLE="text-decoration: none"> pour retrouver
+	les anciennes news du projet.</SPAN></FONT></FONT></FONT><BR></SPAN><BR><BR>
+	</P>
+
+
+
+</layer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		

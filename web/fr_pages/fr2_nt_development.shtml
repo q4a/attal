@@ -1,0 +1,133 @@
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css">
+
+<!--
+
+-->
+
+</style>
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13">
+<img src="../fr_interface/titre_development_fr.jpg" width="382" height="16"><br>
+  <br>
+
+ 
+<br> <a href="../fr_pages/fr2_nt_development_coding.shtml"> - Coding style - </a>
+<br> Vous trouverez ici les règles d'écriture adoptées par les programmeurs.<br>
+Les sujets / questions relatifs à la programmation du jeu peuvent être débatus dans le forum 
+<a href="http://sourceforge.net/forum/forum.php?forum_id=48210" target="_blank">- 
+    Development -</a>
+<br>
+
+<br>
+<br> Pour les fans d'emacs, n'hesitez pas a utiliser notre
+.emacs qui permet : 
+<br>        - de respecter le coding style d'Attal
+<br>        - de faciliter la programmation (generation automatique de code,
+navigation aisee, completion automatique de noms)
+<br> Le fichier est téléchargeable <a href="ftp://attal.sourceforge.net/pub/attal/config-emacs">ici</a>.
+<br>
+
+
+ <br> Attal est développé sous Linux. <br>
+  La programmation est effectuée en C++ en utilisant la bibliothèque QT à partir 
+  de la version 2.2<br>
+  <br>
+  Cette bibliothèque est distribuée sous GPL et peut être téléchargée à l'adresse 
+  suivante :<br>
+  ftp://ftp.trolltech.com/qt/source/<br>
+  <br>
+  Pour suivre les différentes étapes du développement du jeu, n'hésitez pas à 
+  consulter notre <a href="fr2_roadmap.shtml">planning de développement.</a><br>
+  <br>
+  Vous pouvez de même consulter notre cvs sur le <a href="http://sourceforge.net/projects/attal/">site 
+  du projet</a> sur Sourceforge pour suivre directement les évolutions du code. 
+  <br>
+  <br>
+  <br>
+  Présentation de l'architecture.<br>
+  <br>
+  Cette partie à pour but de donner un aperçu de la structure du source afin que 
+  de nouveaux programmeurs puissent plus facilement nous rejoindre (et aussi pour 
+  rafraîchir les idées des autres).<br>
+  Le code source est décomposé en répertoires : 
+<ul>
+  <li><b>client</b> : fichiers propres au client, en particulier l'interface graphique. 
+  <li><b>server</b> : fichiers propres au serveur, en particulier l'interface 
+    et le moteur de jeu. 
+  <li><b>common</b> : fichiers communs au serveur et au client, ce qui comprend 
+    une partie de la gestion réseau, mais surtout les structures du jeu (gestion 
+    de carte, de lords, etc.) 
+  <li><b>ia</b> : fichiers gérant l'intelligence artificielle du jeu, soit à la fois la gestion des combats
+        (utilisée aussi par le serveur pour gérer les combats contre les créatures rencontrées sur la carte et
+        qui n'appartiennent à aucun joueur) et celle de la partie 'aventure'.
+  <li><b>editor</b> : fichiers propres à l'éditeur de carte. 
+  <li><b>themes</b> : uniquement des fichiers de données utilisés dans la gestion 
+    des thèmes. 
+</ul>
+<br>
+<br>
+La gestion des thèmes.<br>
+<br>
+L'utilisation de thèmes permettant de transformer du tout au tout le jeu, tant 
+son apparence que les règles le régissant est un élément primordial du développement 
+d'Attal. A cette fin, les données définissant les thèmes doivent être placées 
+dans le répertoire 'themes' qui est organisé en sous-répertoire décrivant chacun 
+un thème. Le nom du sous-répertoire désigne le nom du thème (par exemple 'cyberpunk'). 
+Chacun de ces répertoires est composé d'autres sous-répertoires :<br>
+'data', qui contiendra les règles à utiliser et 'images' qui contient les graphiques. 
+Ces répertoires peuvent eux-même être décomposés en sous-répertoires. <br>
+<br>
+</layer>
+
+</body>
+
+</html>
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		

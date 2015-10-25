@@ -1,0 +1,12 @@
+moc_*
+*.moc.cpp
+*.o
+.deps
+Makefile
+Makefile.in
+attal-server
+duel-server
+server.plg
+libserver.plg
+Debug
+Release

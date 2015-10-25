@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE creatures>
+<creatures>
+	<race name="Human">
+		<creature name="Pikemen">
+			<attack>3</attack>
+			<defense>5</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>10</health>
+			<move>4</move>
+			<morale>0</morale>
+			<luck>0</luck>
+		</creature>
+		<creature name="Archers">
+			<attack>6</attack>
+			<defense>3</defense>
+			<range>12</range>
+			<mindamages>2</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>10</health>
+			<move>4</move>
+			<morale>1</morale>
+			<luck>3</luck>
+		</creature>
+		<creature name="Griffons">
+			<attack>2</attack>
+			<defense>1</defense>
+			<range>0</range>
+			<mindamages>4</mindamages>
+			<maxdamages>2</maxdamages>
+			<health>3</health>
+			<move>2</move>
+			<morale>1</morale>
+			<luck>3</luck>
+		</creature>
+		<creature name="Zealots">
+			<attack>5</attack>
+			<defense>4</defense>
+			<range>0</range>
+			<mindamages>8</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>10</health>
+			<move>4</move>
+			<morale>0</morale>
+			<luck>0</luck>
+		</creature>
+		<creature name="Champions">
+			<attack>4</attack>
+			<defense>5</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>10</health>
+			<move>4</move>
+			<morale>0</morale>
+			<luck>0</luck>
+		</creature>
+		<creature name="Angels">
+			<attack>4</attack>
+			<defense>5</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>10</health>
+			<move>4</move>
+			<morale>0</morale>
+			<luck>0</luck>
+		</creature>
+		<creature name="Archangels">
+			<attack>4</attack>
+			<defense>5</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>3</maxdamages>
+			<health>10</health>
+			<move>4</move>
+			<morale>0</morale>
+			<luck>0</luck>
+		</creature>
+	</race>
+	<race name="Aliens">
+		<creature name="Zorglub">
+			<attack>1</attack>
+			<defense>1</defense>
+			<range>0</range>
+			<mindamages>1</mindamages>
+			<maxdamages>2</maxdamages>
+			<health>1</health>
+			<move>1</move>
+			<morale>0</morale>
+			<luck>0</luck>
+		</creature>
+	</race>
+</creatures>

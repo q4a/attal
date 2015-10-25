@@ -1,0 +1,205 @@
+Spécifications des Thèmes
+[Theme-maker]
+
+Etat : travail
+Création du document 17-03-01
+Auteurs: Gilles Oppeneau / Pascal Audoux
+Modifications / Objets / Date / Auteurs
+
+
+
+-- Introduction --
+Ce document a pour objectif de détailler les informations et paramétres 
+nécessaires à la réalisation d'un thème (hors aspects graphiques).
+Pour des raisons techniques, certaines parties de ce document ne sont pas 
+encore précisément détaillées (structures, artefacts..) Il est tout de même 
+possible de proposer 'textuellement' des descriptions les plus précises 
+possibles.
+
+Rappels:
+
+[Theme-maker]
+Le but de cet outil est de permettre l'édition facile et organisée de 
+l'ensemble des données paramétrables du Thème.
+Il est à distinguer de l'éditeur de cartes / scenarii (Map-maker)
+L'utilisateur du Theme-maker devra concevoir un univers cohérent et structuré 
+(définition des technologies, unités, Lords etc.) qui servira de base à 
+l'élaboration des cartes et scenarii.
+
+[Map-maker]
+--> fait l'objet d'un document à part.
+Cet outil permet la création des campagnes et des cartes liées à un thème 
+particulier, leur enchainement logique etc.
+Il permet par exemple la définiton des quêtes possibles, le positionnement des 
+différentes structures sur la carte (bases, mines etc.) en utilisant les 
+éléments précisés dans le thème.
+
+
+-- Ambiance générale --
+Préciser l'univers général du thème.
+Fixer les grandes lignes, la cohérence du monde dans lequel le joueur évoluera.
+Permettra aux différentes personnes travaillant sur le thème de suivre la même 
+'ligne'.
+
+
+-- Les ressources --
+Définir l'ensemble des ressources qui seront disponilbes dans le thème 
+(hors Argent).
+Préciser leur fréquence / valeur en fonction de l'univers du thème (rareté de 
+certaines ressources, abondance pour d'autres)
+--> 6 à 7 ressources au maximum (possibilité d'augmenter ce nombre en fonction 
+des besoins)
+
+-- Les Lords --
+1. Type de Lords
+Exemple:
+Type = hacker / GI / Généticien / Tacticien etc.
+--> Il est possible d'en créer librement. 
+- Le type définit différentes caractéristiques 
+(voir précisions dans 2. Caractéristiques des Lords) communes (par défaut) aux 
+Lords de ce type :
+- Compétences Primaires
+- Unités / Techniques / Machines de Guerre / possédées par défaut
+- Compétences Secondaires (nombre maximal inférieur ou égal à 8)
+
+2. Caractéristiques des Lords
+--> Pour chaque type, les Lords seront créés avec les caractéristiques par 
+défaut proposées par le type.
+Il est possible de les modifier par la suite, pour chaque caractéristique, et 
+ce pour chaque Lord.
+
+Nom: 
+Le nom du Lord (totalement libre, espaces et caractères spéciaux permis)
+
+Spécialité: 
+spécialité propre au Lord pour une unité, une technique, un artefact ou une 
+compétence.
+
+Compétences Primaires:
+attaque / défense / power / knowledge / luck / morale
+vie / mouvement / vision / points de technique / experience
+
+Unités:
+Unités possédées ou non au recrutement du Lord
+
+Artefacts:
+possédés au recrutement du Lord
+
+Livre des 'techniques' (ou 'magie' selon thème): 
+Livre possédé ou pas au recrutement du Lord.
+Si oui: présence de certaines techniques / sorts ?
+
+Compétences secondaires:
+Possédées au recrutement du Lord.
+Nombre maximal inférieur ou égal à 8.
+        
+Machines de guerre:
+Pour chacun des quatre types de machine:
+Possédée au recrutement (si oui, laquelle)
+--> voir paragraphe 'Machines de Guerre' 
+ 
+
+-- Les Unités --
+1. Type d'Unités / Races
+Il existe plusieurs races cohabitant ensemble.
+Les Unités appartiennent forcément à une Race.
+Il faut définir le degré "d'amitié / tolérance" entre les différentes Races 
+(agissant sur le Moral des Unités d'un Lord)
+
+2. Caractéristiques des Unités
+Chaque Unité doit etre définie suivant les critères:
+- attack: points d'attaque maximum
+- defense: points de défense maximum
+- range: attaque à distance (0 = corps à corps)
+- mindamages: dommages minimum infligés
+- maxdamages: dommages maximum infligés
+- health: points de vie maximum
+- move: points de mouvements maximum
+- type of move: terrestre, volant, maritime
+- morale: points de moral maximum
+- luck: points de chance maximum
+- status: vivant / non vivant (humain / zombie ou humain / robot)
+- upgrade: nom de l'unité upgradée correspondant à l'unité en cours (niveaux 
+d'upgrade illimités)
+- technic for attack: techniques (sorts) utilisées par l'unité contre un ennemi
+- technic for defense: techniques (sorts) utilisées par l'unité sur une unité 
+alliée
+- action: décrit le déroulement d'une attaque tentée par l'unité (portée de 
+l'attaque, technique utilisée automatiquement [ex: blind dans Heroes3])
+
+
+
+-- les Machines de Guerre --
+Il existe quatre type de machines:
+- 'catapulte'
+- 'structure de soins'
+- 'balliste'
+- 'munitions'
+Pour chaque type, définir les machines existantes (avec leurs 
+caractéristiques: points d'attaque / action / défense / vie / cout)
+
+Il est possible de créer un nombre illimité de machines sur le modèle des 4 
+types de machines génériques.
+
+
+-- Les Compétences Secondaires --
+Détailler chaque Compétence Secondaire:
+Définir le type de Compétence: Combat ou Aventure.
+Pour les 3 niveaux de maîtrise (novice/advanced/expert), préciser son action.
+Exemple:
+Nom de la Compétence: Archery 
+Type: Compétence de Combat
+Action: Augmente les dégâts causés par les tireurs
+Niveau: Novice
+Description: Les dégâts infligés par les troupes du héros attaquant à distance 
+augmentent de 10%.
+Niveau: Advanced
+Descripion: Les dégâts infligés par les troupes du héros attaquant à distance 
+augmentent de 20%.
+Niveau: Expert
+Description: Les dégâts infligés par les troupes du héros attaquant à distance 
+augmentent de 30%.
+
+Il peut être intéressant de définir une table de probabilité d'obtention des 
+Compétences Secondaires pour chaque Type de Lords.
+
+
+-- Les Techniques / Sorts --
+Détailler toutes les Techniques disponibles.
+Celles-ci dépendent d'un 'Domaine' (équivalent aux Ecoles de Magie dans le 
+monde médiéval fantastique)
+Chaque Technique se caractérise par:
+- Type: Combat ou Aventure
+- cout (en point de technique [= point de magie])
+- action: une par niveau de maîtrise (novice, advanced, expert)
+--> points de dégats en fonction des niveaux, portée etc.
+- niveau requis
+- durée: instantanée ou nombre de tours par niveau de puissance
+
+
+
+-- Les Structures --
+--> détailler les différentes structures disponibles sur la carte (qui donnent 
+des compétences spéciales, des unités suplémentaires, différentes ressources, 
+des indices pour les quêtes etc.)
+
+-- Les Bases / Chateaux --
+- Les structures 'intérieures'
+--> Détail des batiments disponibles et leur 'ordre' de construction 
+(diagramme de dépendances, fonction et cout des batiments etc.)
+
+-- Les Objets / Artefacts --
+--> Définir différents objets pouvant etre portés par les Lords (armures / 
+armes spéciales, gain/perte de compétences / points d'attaque - défense)
+Pour chaque Objet: nom, fonction, cout, retrait possible (condiftions)
+
+--> Définir les combinaisons possibles entre artefacts:
+Objet 1 + Objet 2 = Objet 3 
+--> Objet 3 peut-il être à nouveau scindé entre Objet 1 et Objet 2 ?
+--> Caractéristiques d'Objet 3 ne dépendent pas forcément d'Objet 1 et Objet 2.
+
+
+
+
+
+

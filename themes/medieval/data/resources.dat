@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE resources>
+<resources>
+	<resource>
+		<id>0</id>
+		<type>3</type>
+		<name>Money</name>
+		<filename>ressources/ress_01.png</filename>
+		<smallfilename>ressources/smallResource_01.png</smallfilename>
+	</resource>
+	<resource>
+		<id>1</id>
+		<type>3</type>
+		<name>Wood</name>
+		<filename>ressources/ress_02.png</filename>
+		<smallfilename>ressources/smallResource_02.png</smallfilename>
+	</resource>
+	<resource>
+		<id>2</id>
+		<type>3</type>
+		<name>Steel</name>
+		<filename>ressources/ress_04.png</filename>
+		<smallfilename>ressources/smallResource_04.png</smallfilename>
+	</resource>
+	<resource>
+		<id>3</id>
+		<type>3</type>
+		<name>Food</name>
+		<filename>ressources/ress_09.png</filename>
+		<smallfilename>ressources/smallResource_09.png</smallfilename>
+	</resource>
+	<resource>
+		<id>4</id>
+		<type>3</type>
+		<name>Diamond</name>
+		<filename>ressources/ress_07.png</filename>
+		<smallfilename>ressources/smallResource_07.png</smallfilename>
+	</resource>
+	<resource>
+		<id>5</id>
+		<type>2</type>
+		<name>Population</name>
+		<filename>ressources/bigpopulation.png</filename>
+		<smallfilename>misc/population.png</smallfilename>
+	</resource>
+</resources>

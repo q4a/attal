@@ -1,0 +1,11 @@
+--- attal-src/config.pro.ark	2006-07-26 22:55:50.000000000 +0200
++++ attal-src/config.pro	2006-07-26 22:55:56.000000000 +0200
+@@ -32,7 +32,7 @@
+ 	isEmpty( ATT_DATA_PREFIX ) {
+ 		ATT_DATA_PREFIX = ATT_PREFIX  #Change it if data final directory is different from installation dir
+ 	}
+-	DEFINES += ATT_PREFIX=\"$$ATT_DATA_PREFIX\"
++	DEFINES += ATT_PREFIX=\\\"$$ATT_DATA_PREFIX\\\"
+ }
+ 	
+ 	# For sound under windows, enter here the path to SDL root dir and uncomment line

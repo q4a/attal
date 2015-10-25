@@ -1,0 +1,10 @@
+moc_*
+*.moc.cpp
+*.o
+.deps
+Makefile.in
+Makefile
+attal-ia
+AI.plg
+Debug
+Release

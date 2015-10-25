@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+<div id="Layer1" style="position:absolute; width:405; height:222px; z-index:1; left: 195; top: 165" class="texte_classique"> 
+  <p><img src="../en_interface/en_titre_screenshots.jpg" width="382" height="16"><br>
+    <br>
+    <a href="en2_screenshots_gallerie.shtml">- Images gallery -</a><br>
+    Here are some graphics that will be included (soon) in Attal.<br>
+    Most of them are under development.<br>
+    <br>
+    <a href="en2_screenshots_screen.shtml">- Screenshots -</a><br>
+    From the beginning to the end...<br>
+    <br>
+    <br>
+    <b>Gallery :</b><br>
+    Click on it to enlarge.<br>
+    <br>
+    <br>
+    Two &quot;factories&quot; :<br>
+    <br>
+    <a href="../screenshots/forage_1.jpg" target="_blank"><img src="../screenshots/forage_1_petite.jpg" width="120" height="90" border="0"></a> 
+    <a href="../screenshots/usine_plast01.jpg" target="_blank"><img src="../screenshots/usine_plast01_petite.jpg" width="120" height="90" border="0"></a><br>
+    <br>
+    <br>
+    Two bases :<br>
+    <img src="../screenshots/base_fond_noir.jpg" width="150" height="150"> <a href="../screenshots/base_cyber.jpg" target="_blank"><img src="../screenshots/base_cyber_petite.jpg" width="120" height="90" border="0"></a><br>
+    <br>
+    Electrical plant (using wind) :<br>
+    <a href="../screenshots/eolienne_01.jpg" target="_blank"><img src="../screenshots/eolienne_01_petite.jpg" width="120" height="90" border="0"></a> 
+    <a href="../screenshots/eolienne_02.jpg" target="_blank"><img src="../screenshots/eolienne_02_petite.jpg" width="120" height="90" border="0"></a><br>
+    <br>
+    Sun panels :<br>
+    <br>
+    <a href="../screenshots/panneaux_1.jpg" target="_blank"><img src="../screenshots/panneaux_1_petit.jpg" width="120" height="90" border="0"></a> 
+    <a href="../screenshots/panneaux_2.jpg" target="_blank"><img src="../screenshots/panneaux_2_petit.jpg" width="120" height="90" border="0"></a><br>
+    <br>
+    <br>
+    <br>
+</div>
+<!--#include virtual="../en_pages/en_interface2.shtml" --> 
+</body>
+</html>

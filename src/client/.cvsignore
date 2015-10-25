@@ -1,0 +1,13 @@
+moc_*
+*.moc.cpp
+*.o
+.deps
+Makefile.in
+Makefile
+attal-client
+duel-client
+attal.plg
+libattal.plg
+libfight.plg
+Debug
+Release

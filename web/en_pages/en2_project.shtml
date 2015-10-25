@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF">
+
+
+<div id="Layer1" style="position:absolute; width:405px; height:222px; z-index:1; left: 195px; top: 165px" class="texte_classique"> 
+  <p><img src="../en_interface/en_titre_project.jpg" width="382" height="16"><br>
+    <br>
+    - Attal is a project of turn-based strategy game. <br>
+    Rules will be inspired of a famous game created by 3DO : "Heroes of Might 
+    and Magic III". You can play in stand-alone mode (against AI) or against other 
+    human player through a network. <br>
+    This game will be open and themeable, in order to allow new graphics, new 
+    rules, new campaigns and new scenarii. We will even provide a map editor and 
+    a scenario's editor. <br>
+    <br>
+    Current graphics (created by our team) are included in the "Cyberpunk" theme. 
+    We plan to develop (later) another theme "medieval" (with adapted rules).<br>
+    <br>
+    - We want to achieve a complete, open and high quality game : <br>
+    <br>
+    <i>Complete</i> -> We don't want to just develop a game engine but a real 
+    game, fully playable, with tested rules. It will be possible to play in solo 
+    or multiplayer mode, with campaigns, editor... <br>
+    <i>Open</i> -> Developped in "Open Source", le goal of Attal is not to earn 
+    money (sniff...) but to show that it is possible to make good game, free and 
+    open. <br>
+    <i>High Quality</i> -> We want to realize a game that could be compared with 
+    commercial one. (but, of course, we will try to do it better) <br>
+    <br>
+    This (great) projetct is quite new (august 2000) but we have clear ideas on 
+    what to do and how. (look at our Roadmap). <br>
+    <br>
+    The team is currently composed of 5 (motivated) people... but we will welcome 
+    other members.<br>
+    We invite you to look at these pages and if you are interested in one part 
+    of it (development, graphics, sound, music, scenario...), please <a href="mailto:attal-devel@lists.sourceforge.net">contact 
+    us</a>. <br>
+    <br>
+    Look at our <a href="roadmap_en.htm">roadmap</a> for coming developments. 
+    <br>
+    <br>
+</div>
+<!--#include virtual="../en_pages/en_interface2.shtml" --> 
+</body>
+</html>

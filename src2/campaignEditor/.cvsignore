@@ -1,0 +1,12 @@
+moc
+obj
+Makefile
+Makefile.Release
+Makefile.Debug
+moc_*
+*.moc.cpp
+*.o
+*.opt
+*.plg
+*.dsp
+

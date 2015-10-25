@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+<div id="Layer1" style="position:absolute; width:405; height:222px; z-index:1; left: 195; top: 165" class="texte_classique"> 
+  <p><img src="../en_interface/en_titre_downloads.jpg" width="382" height="16"><br>
+    <br>
+    Attal 0.1 is now out ! Just download it on our ftp server. 
+  <ul>
+    <li><a href="ftp://attal.sourceforge.net/pub/attal%20">ftp://attal.sourceforge.net/pub/attal</a><br>
+    <li>Attal 0.1 : <a href="ftp://attal.sourceforge.net/pub/attal/attal-0.1.tgz">Click 
+      to downloadr</a> <br>
+  </ul>
+Some musics which can be used for the game :<br>
+  <br>
+  --&gt; mp3 format &lt;--<br>
+  <br>
+  - <a href="../downloads/Combat01.mp3">Music 1</a> (892 ko)<br>
+  - <a href="../downloads/Combat02.mp3">Music 2</a> (858 ko)<br>
+  - <a href="../downloads/Combat03.mp3">Music 3</a> (1072 ko)<br>
+  - <a href="../downloads/Combat04.mp3">Music 4</a> (1545 ko)<br>
+  - <a href="../downloads/Combat06.mp3">Music 5</a> (1286 ko) <br>
+</div>
+<!--#include virtual="../en_pages/en_interface2.shtml" --> 
+</body>
+</html>

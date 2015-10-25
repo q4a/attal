@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<STYLE TYPE="text/css">
+<!--
+A {text-decoration:none;}
+-->
+</STYLE>
+
+<STYLE>
+BODY
+{scrollbar-face-color: #666666; scrollbar-shadow-color: #33cc00; 
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #33cc00; 
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-arrow-color: #000D45; text-decoration: blink}
+</STYLE> 
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:405px; height:222px; z-index:3; left: 195px; top: 165px" class="texte_classique"> 
+  <p class="cadre12"><font color="#00D900">::.. Chat Room ..::</font><br>
+    <br>
+    Un espace de discussion<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <APPLET CODEBASE="http://www.multichat.com/ChatBox" ARCHIVE="multichat.zip" CODE="GUIClient.class" WIDTH="562" HEIGHT="385" ALIGN="BOTTOM">
+
+      <PARAM NAME="AppletBackground" VALUE="white">
+      <PARAM NAME="Category" VALUE="4">
+      <PARAM NAME="ChatAreaBackground" VALUE="#FFFFFF">
+      <PARAM NAME="ChatAreaForeground" VALUE="#330000">
+      <PARAM NAME="Description" VALUE="">
+      <PARAM NAME="FontName" VALUE="Helvetica">
+      <PARAM NAME="FontSize" VALUE="12">
+      <PARAM NAME="HomepageURL" VALUE="http://www.attal.fr.st">
+      <PARAM NAME="Language" VALUE="FR">
+      <PARAM NAME="LocatorEnabled" VALUE="TRUE">
+      <PARAM NAME="ShowLiveChat" VALUE="F">
+      <PARAM NAME="Subject" VALUE="*Attal: Lords of Doom">
+      <PARAM NAME="UseGraphicText" VALUE="F">
+      Your browser does not support Java applets. Upgrade to a newer browser or 
+      use the Options menu to enable Java. You may also use the link bellow to 
+      access the HTML version of your chat room. 
+    </APPLET> Note: If you are unable to run Java applications, <A HREF="http://www.multicity.com/servlet/MultiChat?action=3&chatid=339321"><br>
+    Click here to get the HTML version of your chat room. </a> 
+</div>
+<!--#include virtual="interface2.shtml" --> 
+</body>
+</html>

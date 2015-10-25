@@ -1,0 +1,136 @@
+
+
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="stylesheet" href="../style.css">
+
+</head>
+
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+
+
+
+
+
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte_classique"> 
+  <p><img src="../fr_interface/titre_presentation_fr.jpg" width="382" height="16"><br>
+    <br>
+    Bienvenue.<br>
+    Attal: Lords of Doom est un jeu vidéo en développement.<br>
+    Jeu de stratégie au tour par tour, Attal sera jouable sous Linux (dans un 
+    premier temps), en solo et en multi-joueurs (réseau local ou internet).<br>
+    <br>
+    Nous vous invitons à parcourir ce site pour avoir des informations précises 
+    sur le jeu et sur son état d'avancement.<br>
+    <br>
+    Si vous souhaitez contribuer à ce projet, n'hésitez pas à nous contacter.<br>
+    <br>
+    Vous pouvez également consulter la page du projet sur Sourceforge.net pour 
+    vous inscrire à notre mailing list, soumettre des bugs ou parcourir notre 
+    CVS <br>
+    <br>
+    <br>
+    <br>
+    <img src="../fr_interface/titre_news2_fr.jpg" width="382" height="12"><br>
+    <br>
+    23-11-00<br>
+    - Ouverture des Forums de discussion (sur sourceforge):<br>
+    --- Open Discussion (pour tout ce que vous voulez dire)<br>
+    --- Help (...)<br>
+    --- Development (r&eacute;serv&eacute; aux programmeurs)<br>
+    <br>
+    21-11-00<br>
+    - la partie anglaise du site est en ligne<br>
+    - maj de la rubrique &quot;Attal: le jeu&quot;. Ajout de d&eacute;tails sur 
+    le monde, les unit&eacute;s, les classes de personnages etc.<br>
+    - nous cherchons des programmeurs / graphistes / sc&eacute;naristes pour <br>
+    participer au projet.<br>
+    <br>
+    15-11-00<br>
+    - La version 0.1 est disponible (rubrique "downloads")<br>
+    - Le site internet est pratiquement terminé<br>
+    <br>
+    13-11-00<br>
+    - Update de la rubrique "screenshots" avec de nouvelles images<br>
+    - Update de la rubrique "développement" avec des explications détaillées sur 
+    la programmation du jeu (partie réseau). <br>
+    <br>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--#include virtual="interface.shtml" --> 
+
+</body>
+
+</html>
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		

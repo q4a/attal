@@ -1,0 +1,39 @@
+We are now  using automake/autoconf, so do the following steps :
+
+$ make -f Makefile.dist	--> generate 'configure' script
+$ ./configure		--> generate makefiles
+$ make			--> compile/link the sources
+
+Well, evrything should be ok now.
+You can launch :
+	- the client:
+		$ ./client/attal-client &
+	- the server:
+		$ ./server/attal-server &
+	- the ia-client:
+		$ ./ia/attal-ia &
+	- the scenario editor:
+		$ ./scenarioEditor/scenario-editor &
+	- the theme editor:
+		$ ./themeEditor/theme-editor &
+
+If you want to change theme, use the option '-theme themename' with server & clients
+
+* More details
+If you don't manage to run Attal with this explanations, here are more :
+
+Be sure that you have Qt 2.2 (at least) (we currently developp with qt 2.3.2).
+If not, download it on the www.trolltech.com website (see direct url on out
+website), then compile it (read their INSTALL file !).
+You don't need to install it.
+Let's suppose that you have downloaded and compiled in /opt/be/qt2
+
+Now go in the directory where are Attal's sources.
+Then type (using bash):
+$ export LD_LIBRARY_PATH=/opt/be/qt2/lib 
+(you should add this line in your .profile, because you will need that the LD_LIBRARY_PATH variable be set to this value each time you will run Attal).
+$ make -f Makefile.dist
+$ ./configure --with-qt-dir=/opt/be/qt2
+$ make
+
+It should work !

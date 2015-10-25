@@ -1,0 +1,279 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"> <img src="../fr_interface/titre_game_fr.jpg" width="382" height="16"><br>
+  <b><br>
+  </b><a href="fr2_nt_game_cr.shtml">- Comptes rendus des r&eacute;unions &eacute;quipe 
+  -</a><br>
+  <a href="fr2_nt_game_general.shtml">- Explications g&eacute;n&eacute;rales -</a><br>
+  <b>[th&egrave;me cyberpunk]</b><br>
+  <a href="fr2_nt_game_monde.shtml">- Le monde / l'univers -</a><br>
+  <a href="fr2_nt_game_regles.shtml">- Le jeu, les r&egrave;gles -</a><br>
+  <a href="fr2_nt_game_unites.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+  <a href="fr2_nt_game_scenario.shtml">- Sc&eacute;nario, campagnes -</a><br>
+  <b> [th&egrave;me m&eacute;di&eacute;val-fantastique]</b><br>
+ <a href="fr2_nt_game_unites_med.shtml">- Unit&eacute;s, structures, ressources -</a><br>
+  
+
+  <p><b><br>
+    - Unit&eacute;s, structures, ressources - [th&egrave;me médiéval fantastique]</b><br>
+    <br>
+
+    <br>
+Voici la toute première version de la description des différents chateaux / créatures du
+thème médiéval / fantastique, réalisée par <a href="mailto:fafner@heroescommunity.com">Marc</a> et Morgan.
+<br>La partie ci-dessous sera évidemment amenée à évoluer.
+<br> En attendant, n'hésitez pas à contacter directement <a href="mailto:fafner@heroescommunity.com">Marc</a> 
+ pour échanger vos idées.
+<br> Vous pouvez également poster un message sur le 
+<a href="http://sourceforge.net/forum/forum.php?forum_id=50449">forum</a> dédié au thème médiéval fantastique.
+<br>
+<br>
+    <i><b>-- Les chateaux et leurs creatures --</b></i>
+<br>
+<br>
+<b> Necromancien </b>
+<br> 1:Zombie / 1A:
+<br>2:Fantôme / 2A:
+<br> 3:Momie / 3A:Pharaon Momie
+<br> 4:Chevalier sans tete / 4A:
+<br> 5:Vampire 5A:
+<br>
+<br> <i> Zombie </i>:
+<br>Homme mort dont le corps seul est ramené à la vie par le Nécromancien. 
+<br>Le Zombie fait baisser le Moral de toutes les créatures qui l'entourent.
+<br>
+<br> <i> Fantôme </i>: 
+<br>Ame errante d'un mort qui n'a pas eu le droit au repos éternel suite à des obsèques mal faites ou à pas d'obsèques du tout. 
+<br>Capacité: immunisé contre les sorts corporels (cécité par exemple), les Fantômes ne peuvent être blessées 
+<br>(par exemple, un groupe de fantômes, admettons qu'ils aient 15 points de vie chacun, subit 25 dégâts, alors 1 fantôme meurt mais le second a toujours ses 15 points de vie)
+<br>
+<br> <i> Momie </i>: 
+<br>Homme dont le corps a été embaumé, mythologie égyptienne. Les Momies du Nécromancien ont subit la faveur divine qui les a ramené à la vie. Capacité: Momie => 20% de lancer «Malédiction», Momie Royale => 15% de chances de lancer «Grande Malédiction».
+<br>
+<br> <i> Chevalier sans tête </i>: 
+<br> Légende européenne (anglaise, il me semble), qui dit qu'un Chevalier qui ne possédait pas de tête semait le désarroi dans un village.
+<br> Capacités : immunisé contre les sorts comme « aveuglement », bien sûr 20% de chance de doubler ses dégâts en décapitant l'ennemi. 
+<br>
+<br> <i> Vampire </i>: 
+<br> Vit dans les manoirs. Se déplace ultra-rapidemment en se transformant en chauve-souris. Tue ses proies en leur suçant le sang. 30% des dégâts infligés serviront à ressusciter les siens. Les créatures hors nécropole du Lords peuvent être tuées et déposées dans le cimetière pour y pourrir. Lorsqu'un nombre suffisant de créatures ont pourri, un vampire sera recrutable à la prochaine semaine. 
+<br> Le Vampire à 40% d'efficacité supplémentaire contre les créatures de sexe féminin.
+<br>
+<br> <b> Sorcier </b>
+<br> 1 :Amazone / 1A :
+<br> 2 :Femme Araignée / 2A :
+<br> 3 :Hydre / 3A :Hydre de Lerne
+<br> 4 :Méduse  / 4A :
+<br> 5 :Dragon Noir  /5A :
+<br>
+<br> <i> Amazones </i>: 
+<br> Peuple de femmes cavalières de la mythologie grecque. L'Amazone, sur son cheval, était une excellente archer mais elle devait se couper un sein affin de pouvoir tirer à l'arc. Elle est généralement représenté le buste nu. 
+<br> Les Amazones n'ont pas de pénalité de tir.
+<br>
+<br> <i> Femme Araignée </i>: 
+<br> Etre divin de la mythologie Indou, elle possède 6 bras et est vêtue de toiles d'araignée. 
+<br> Elle est capable d'escalader les murs des châteaux ce qui lui prendra un tour complet.
+<br>
+<br> <i> Hydre </i>: 
+<br> Bête de la mythologie grecque, vaincue par Hercule. Elle possède plusieurs têtes qui repoussent chaque fois qu'elles sont coupées. Hercule coupa donc leur et coagula le sang à l'aide d'un flambeau affin qu'elles ne repoussent pas. 
+<br> Elle attaque toutes les cases adjacente, ne souffre d'aucune riposte et soigne ses blessures au début de chaque tour.
+<br>
+<br> <i> Méduse </i>: 
+<br> Une des trois Gorgones de la mythologie grecque, c'est une femme-serpent avec des bras humains. Sa chevelure n'est en fait qu'une multitude de serpents amassés à la base du crâne. Son regard est pétrifiant. Un général grec lui fit voir son reflet dans son bouclier et la méduse s'autopétrifia. Alors il lui coupa la tête et la fixa sur son armure en guise d'arme redoutable. Il me semble que ce général est Percée mais je n'en suis pas sur.
+<br>Capacité : pétrifie (20%)
+<br>
+<br> <i> Dragon Noir </i>: 
+<br> Monstre immonde de la mythologie Chinoise qui en fit son emblème. Il s'agit la d'un énorme serpent ailé à l'allure de dinosaure pourvu d'aile de chauve-souris. Il se nourrit de souffre qu'il serait capable de recracher à l'etat de feu. 
+<br> Il est immune de toute magie, et attaque un triangle composé d'un hexagones et des deux derrières
+<br>
+<br> <b> Magicien </b>
+<br> 1: Lutin / 1A: Gnome
+<br> 2: Esprit de Magie / 2A: 
+<br> 3: Djinn / 3A: Génie
+<br> 4: Mage / 4A: Enchanteur
+<br> 5: Chimère / 5A:
+<br>
+<br> <i> Lutin et Gnome </i>: 
+<br> Peuple des bois s'adaptant à tous les milieux. Particulière rapide, les Gnomes ont une connaissance de la magie qui dépasse parfois celle des humains. 
+<br>Les gnomes jette le sorts « flèche magique » sur une créature ennemie choisie aléatoirement et lui infligera 40pts de dégâts et ce tout les 3 tours.
+<br>
+<br> <i> Djinn et Génie </i>: 
+<br> Etres entièrement créés de magie, ce sont des esprits bénéfiques, capable d'une redoutable magie. Les génies vivent dans des lampes à huile et attendent d'être libérés depuis parfois plusieurs millénaire. Ils exaucent trois v?ux à celui qui les libèrent.
+Représentation graphique : être à la forme humanoïde entièrement bleu à l'exception de ses cheveux, en queue de cheval, qui sont noirs. A la place des jambes, ils ont un sorte de « tornade » scintillante et bleu (magique). 
+<br> A la capacité de jeter trois sorts bénéfiques, au choix du joueur et à n'importe quel moment dans le combat (les trois à la suite sont autorisés)
+<br>
+<br> <i> Mage </i>: 
+<br> Etre humain excellent en l'art de la magie. 
+<br>Représentation graphique : humain en robe de couleur rouge, blanche ou grise (la bleue étant réservée aux druides), utilisant la canne pour jeter ses sort. 
+<br> A la capacité de jeter des sorts d'attaque tirés aléatoirement, mais avec un pourcentage de chance défini (par exemple 40% niv 1, 30% niv 2, 15% niv 3, 10% niv 4 et 5% niv 5) avec la Puissance du Lord + 2
+<br>
+<br> <i> Chimère </i>: Monstre extrêmement puissant, ayant un buste de lion, un arrière-train de chèvre et une queue de dragon, j'en ai réalisé un croquis papier que j'enverrai sans tarder. 
+<br> Capacité : devient plus puissant à chaque fois qu'il tue. 
+<br> A mieux définir?
+<br>
+<br> <b> Barbare </b>
+<br> 1: Gobelin / 1A: Orque
+<br> 2: Loup / 2A: Loup-garou
+<br> 3: Ogre / 3A: 
+<br> 4: Troll / 4A:
+<br> 5: Géant / 5A: Cyclope
+<br>
+<br> <i> Gobelin </i>: 
+<br>Etre humanoïde vert particulièrement bête et méchant, attaquant en meute et en force.
+<br>
+<br> <i> Orc </i>: 
+<br> Humain à tête de sanglier, particulièrement féroce. Sait se servir de l'arbalète.
+<br>
+<br> <i> Loup-garou </i>: 
+<br>Humain se transformant en loup meurtrier les soirs de pleine lune. On peut imagine qu'il se transformerait en se déplaçant dans le jeu. Un être mordu par un loup-garou devient loup-garou lui-même.
+<br>Capacité : les niv 1 à 3 étant blésés par un loup-garou se transforment eux-même en loup-garou et rejoignent l'armée ennemie. 
+<br>Exception : niv 4 et 5 et les loups-garous eux-même.
+<br>
+<br> <i> Ogre </i>: 
+<br>Etre humanoïde vert bien plus grand, fort, offensif et solide qu'un gobelin. Doué d'un appétit féroce.
+<br>Capacité : chaque tour qu'il passe sans manger (= attaquer) augmente sa faim et, en conséquent, son attaque d'un point.
+<br>
+<br> <i> Troll </i>: 
+<br>Etre Silvestre humanoïde et vert particulièrement fort et résistant (bien plus qu'un ogre) : c'est la troupe du corps à corps par excellence.
+<br>Capacité : la moitié des dégâts qu'il inflige lui reviennent affin de soigner ses blessures.
+<br>
+<br> <i> Cyclope </i>: 
+<br>Peuple composé d'immenses êtres humanoïdes de la mythologie grecque. 
+Ils n'ont qu'un seul oeil au milieu du visage. Ils sont si fort qu'il ont la capacité de lancer d'immense blocs de pierre.
+<br>Capacité : peut, à la place d'attaquer, détruire les murs d'un château avec une force égale à deux fois celle de la catapulte.
+<br>
+<br> <b> Mercenaire </b>
+<br> 1 :Nain
+<br> 2 :Voleur
+<br> 3 :Buffle / 3A: Buffle Magique
+<br> 4 :Maîtresse Noire
+<br> 5 :Minotaure
+<br>
+<br> <i> Le Mercenaire </i>:
+<br> a une armée d'êtres et d'humains qui font la guerre à des fins financières. 
+<br> Tant que les coffres du royaume contiennent plus de 10.000 or, ils ont un bon moral (+1 et +2 au dessus de 20.000or), en dessous, leur moral tombe (entre 5.000 et 10.000 or, -1 ; -de 5.000 or, -2 ; 0 or, -3)
+<br>
+<br> <i> Nain </i>: 
+<br>Petit peuple au caractère insipide. 
+<br>
+<br> <i> Voleur </i>: 
+<br>Humain fourbe qui à une bonne attaque grâce à ses tactiques offensives.
+<br>Capacité : rapporte 2 or/jour (et par voleur) à son maître, ce qui constituent 50% de son butin.
+<br>
+<br> <i> Buffle </i>: 
+<br>Je laisserai à Morgan la chance de définir cette créature puisque c'est lui qui tenait à l'avoir (et pourquoi pas l'Aurochs, aussi)
+<br>
+<br> <i> Maîtresse Noire </i>: 
+<br>De même. Pour ceux qui connaissent, se référer à Dungeon Keeper 1 et 2.
+<br>
+<br> <i> Minotaure </i>: 
+<br>Homme à tête de taureau dans la mythologie grecque, il résulte de l'accouplement de Pasiphaé, femme de Minos et d'un taureau blanc, envoyé par Poséidon. Il fut en fermé dans un labyrinthe. 
+<br>Capacité : à force de se repérer dans le labyrinthe, il a acquit un bon sens de l'orientation qui permet au Lord qui en possède dans son armée d'aller 30% plus vite sur la carte d'aventure.
+<br>
+<br> <b> Hadès </b>
+<br>1 :Esprit du Feu  / 1A: Effrite
+<br> 2 :Gog
+<br> 3 :Cerbère
+<br> 4 :Démon
+<br> 5 :Diable
+<br>
+<br> <i> Effrite </i>: 
+<br> Génie maléfique natif du plan élémentaire du feu. Dégage une chaleur corporelle insoutenable. Capacité : tout ceux qui se trouve dans les hexagones adjacent souffre d'une chaleur qui leur enlève un nbre de pts de vie égal à :
+<br> (Nombre d'effrites x nombre de créature x Spell Power du Lord) / (3x Défense de la créature touchée)
+<br> Et ceci au début de chaque tour.
+<br>
+<br> <i> Gog </i>: 
+<br> Rien de plus que dans Heroes III
+<br>
+<br> <i> Cerbère </i>: 
+<br> capacité : peut invoquer, une fois par combat, des Diables en tuant entièrement un troupe allié. Le nombre de diable sera égale à :
+<br> [(Nbre de Cerbères x Nbre de points de vie des créatures dans la troupe) / 20] / nbre de points de vie d'un diable
+<br> On arrondira à l'unité entière INFERIEURE. Le sort est permanent.
+<br>
+<br> <i> Diable </i>: 
+<br>Créature Maléfique par excellence, dans la religion chrétienne, il est le représentant des enfers.
+<br>Capacité : peut, une fois par combat, invoquer ses représentant sur Terre, les Béhémoth. Le nombre invoqué sera égal à :
+<br> (Nbre de diable /10)
+<br> On arondiara à la virgule INFERIEURE, l'invocation doit être lancé avec un nombre de diables au minimum égal à 10. 
+<br>Le sort est permanent.
+<br>
+<br> <b> Poséidon </b>
+<br> 1 :Esprit de l'Eau / 1A: Nymphe
+<br> 2 :Sirène
+<br> 3 :Calamar géant / 3A: Krakan
+<br> 4 :Triton
+<br> 5 :Serpent des Mers / 5A: Léviathan
+<br>
+<br> <b> Citée des Golems </b>
+<br> 1 :Gargouille
+<br> 2 :Golem de Pierre
+<br> 3 :Golem de Fer / 3A: Golem d'acier
+<br> 4 :Rock
+<br> 5 :Golem Géant
+<br>
+<br> Les Golem de Pierre, Golem de Fer, Golem d'Acier et Golem Géant ont la capacité de détruire les muraille du château affin de compenser l'inexistence de tireurs avec des capacité comme il suit :
+<br> _ Pierre : catapulte/2
+<br> _ Fer : = catapulte
+<br> _ Acier = 1.5 x catapulte
+<br> _ Géant 3 x la Catapulte (mur, tour ou donjon obligatoirement détruit(e)) 
+<br>
+<br> <b> Humain </b>
+<br> 1 :Fantassin
+<br> 2 :Archer
+<br> 3 Spadassin
+<br> 4 :Paladin
+<br> 5 :Cavalier / 5A: Champion
+<br>
+<br> <i> Fantassin </i>: 
+<br> Homme de l'armée grecque représentant la caste des citoyen modeste. Il est en armure légère et il est armée de pic.
+<br>
+<br> <i> Archer </i>: 
+<br> devinez
+<br>
+<br> <i> Spadassin </i>: 
+<br> Homme d'armée qui surpasse dans sa catégorie d'arme : l'épée.
+<br>
+<br> <i> Paladin </i>: 
+<br> Ou Croisé, c'est un homme qui participait à l'origine aux croisades. D'origine européenne, souvent française, il était généralement sous les ordes de De Valois qui préparait les croisades. Idéalisé comme un grand Maître d'Arme, le Paladin serait un guerrier haïssant les Mort-Vivants et qui développerait une force surhumaine en face d'eux.
+<br>
+<br> <i> Cavalier </i>:
+<br> Homme à cheval participant aux joute du moyen-âge. Combat généralement avec une lance.
+<br> <b> Foret </b>
+<br> 1 :Fée
+<br> 2 :Centaure
+<br> 3 :Elfe / 3A: Druide
+<br> 4 :Licorne
+<br> 5 :Phoénix
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+ 
+    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+</layer>
+
+</body>
+</html>

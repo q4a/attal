@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Attal server
+Exec=attal-server
+Icon=
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Game;StrategyGame;
+NoDisplay=true

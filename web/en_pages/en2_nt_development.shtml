@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<!--#include virtual="../en_pages/en_interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"> <img src="../en_interface/en_titre_development.jpg" width="382" height="16"><br>
+  <br>
+  Attal is developped under Linux environment. <br>
+  Sources are written in C++ (using Qt 2.2 libraries).<br>
+  Note : Qt is released under GPL and you can download it from : <a href="ftp://ftp.trolltech.com/qt/source/">ftp://ftp.trolltech.com/qt/source/ 
+  </a> <br>
+  If you want to know the development steps, look at our <a href="roadmap_en.htm">roadmap</a><br>
+  <br>
+  You can also browse the CVS on <a href="http://sourceforge.net/projects/attal/">Attal's 
+  project site </a> (hosted by Sourceforge) in order to be up-to-date with the 
+  evolutions of Attal. <br>
+  <br>
+  Shortview of the sources.<br>
+  <br>
+  We will trying here to give a quick shortview of sources in order to help new 
+  developers to join us.<br>
+  <br>
+  There is a few folders in the source :<br>
+  - <b>client</b> : code specific for the client (GUI, ...). <b><br>
+  - server</b> : code specific for the server (GUI, game engine, ...).<br>
+  - <b>common</b> : code in common for the client and the server (network, game 
+	structures like map, lords...).<br>
+  - <b>ia</b> : code managing the ai, both for the fight phase (this code is also used by the server when someone
+	fights against creatures which are not owned by any player) and for the adventure phase.
+  - <b>editor</b> : code specific for the map editor.<br>
+  - <b>themes</b> : only data files (and pics) for the theme management. <br>
+  <br>
+  <b>Theme management</b><br>
+  <br>
+  The theme management is one of the most important feature of Attal : it will 
+  allow to create totally different games (different graphics, different rules...). 
+  Information and data which are theme-specific have to be in the 'themes' directory, 
+  where each sub-directory defines a new theme. The name of the sub-directory 
+  will be the name of the theme (for example 'cyberpunk'). In these sub-directories 
+  are other folders :<br>
+  'data', where rules are defined and 'images' where are graphics. There could 
+  be more folders (for example for the sound...) Theses folders ('data', 'images', 
+  ...) could be divided with other sub-folders <br>
+  <br>
+</layer>
+
+</body>
+</html>

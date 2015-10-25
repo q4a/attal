@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE campaign>
+<campaign>
+	<name>Born to be a Chief</name>
+	<theme>medieval</theme>
+	<description>
+		Coming from a well-famous family of sylvestrian warriors, exiled after the battle of Tyrpus, your fate is to rule armies and reconquer the forests of the east. But you'll have to prove your courage and defeat a lot of foes, for driving human troops out of this land.
+	</description>
+	<scenario>forest1.scn</scenario>
+	<scenario>forest2.scn</scenario>
+</campaign>

@@ -1,0 +1,230 @@
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<STYLE TYPE="text/css">
+<!--
+A {text-decoration:none;}
+-->
+</STYLE>
+
+<STYLE>
+BODY
+{scrollbar-face-color: #666666; scrollbar-shadow-color: #33cc00; 
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #33cc00; 
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-arrow-color: #000D45; text-decoration: blink}
+</STYLE> 
+
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+<div id="Layer3" style="position:absolute; width:405px; height:222px; z-index:3; left: 195px; top: 165px" class="cadre12"> 
+  <p class="texte_classique"><img src="../fr_interface/titre_faq_fr.jpg" width="382" height="16"><br>
+
+    <br>
+
+    La FAQ reprend toutes les questions que vous pouvez vous poser 
+
+    sur Attal (programmation, graphismes, campagnes, intégration des thèmes 
+
+    etc.) et y répond (du mieux possible).<br>
+
+	
+  <ul>
+
+<li> <i> Avez vous prévu une date de sortie d'Attal (une version jouable) ? </i>
+<blockquote> Notre but est de proposer une version totalement jouable d'Attal en
+septembre 2001. Le projet ayant debute en septembre 2000, un delai d'un an
+nous a semble et nous semble toujours raisonnable pour sortir une version
+finie du jeu.
+<br> Nous entendons par 'version finie' :
+<br> - IA implementee (sur la carte principale et l'IA des phases de combat)
+<br> - Graphismes
+<br> - Règles gerees
+<br> - Gestion completes des thèmes
+<br> - Partie reseau totalement ok
+<br> - Jeu 'livre' avec deux themes (medieval/fantastique et cyberpunk)
+<br> - Jeu / developpement documentes
+<br>
+<br> --> ce delai s'entend hors portage sous Windows ou autre.
+<br>
+<br> Attal pourra alors etre modifie / ameliore / enrichi par d'autres equipes si
+elles le souhaitent (ajout de themes, de graphismes, de regles, portage sous d'autres os etc.)
+</blockquote>
+
+<li> <i> Vous dites qu'Attal sera gratuit et libre. Pouvez-vous préciser ? </i>
+<blockquote>
+Le projet Attal est sous licence GPL. En consequence, le code source, les
+images, les donnees, les musiques... sont a la disposition de tous.
+<br> Quiconque peut les recuperer, consulter, modifier, diffuser (sous reserve
+de respecter cette licence). Dans la pratique, cela signifie que
+tout ce que nous developpons peut etre obtenu gratuitement, mais aussi
+que tout est transparent vis-a-vis des utilisateurs (qui peuvent verifier
+le fonctionnement de nos programmes par exemple).
+<br> Plus d'informations sur la GPL sur <a href="http://www.gnu.org" target=-"_blank"> www.gnu.org </a> 
+</blockquote>
+
+<li> <i> Je suis très intéressé par votre projet mais mon pc est uniquement sous
+windows. </i>
+<blockquote> - Facile. Installe Linux !
+<br> <i> Non, je ne peux pas, c'est aussi le pc de mon père, et il me dit que linux
+c'est nul etc. </i>
+<br> - Solution 1: achète toi un pc.
+<br> - Solution 2: Attal sera porté sous Windows.
+<br< --> pas de panique. Nous allons faire le maximum pour porter Attal sous
+votre OS favori. Nous sommes malheureusement confronté à quelques problèmes.
+<br> Les sources d'Attal sont écrites en C++ et sont donc portables. 
+Elles utilisent cependant une bibliothèque : Qt. Cette dernière est disponible 
+sous Unix et sous Windows. Le problème est que la version Windows est 
+(pour l'instant) payante, même si le programme est sous GPL. Nous n'avons 
+pas les moyens pour l'instant de nous offrir une licence Windows de cette 
+bibliothèque, mais pourquoi pas plus tard...
+<br> Nous avons bien conscience qu'une majorité de joueurs évolue sous Windows.
+<br> Si un développeur se sent prêt pour prendre en charge cette partie, il peut
+directement contacter <a href="mailto:paudoux@chez.com">Pascal</a> pour en parler.
+</blockquote>
+
+<li> <i> Comment me procurer la dernière version du jeu ? </i>
+<blockquote> L'historique des différentes release est disponible dans la rubrique 'download'
+du site internet, et sur la page du projet sur Sourceforge.
+</blockquote>
+
+    <li> <i> Comment utiliser les thèmes dans Attal ? </i>
+      <blockquote> Pour changer du thème par défaut il vous suffit de rajouter 
+        l'option '-theme' au lancement du client, suivi du nom du thème. Il existe 
+        pour l'instant deux thèmes : 'medieval' et 'cyberpunk' </blockquote>
+   
+    <li> <i> Je n'arrive pas à compiler Attal. Que faut-il faire ? </i>
+      <blockquote> Lire le fichier INSTALL !! Si cela ne marche toujours pas, 
+        <a href="mailto:paudoux@chez.com">me contacter</a>.<br>
+        Le forum &quot;help&quot;<a href="http://sourceforge.net/forum/?group_id=9113" target="_blank"> 
+        accessible ici</a> est &eacute;galement une bonne id&eacute;e non ?<br>
+      </blockquote>
+  
+
+    <li> <i> Je souhaite participer au projet. Y-a-t-il des conditions ? </i>
+      <blockquote> Nous demandons au minimum un Bac+5 et un test graphologique... 
+        ;)<br>
+        Non, &eacute;videmment, tout le monde peut participer au projet. Trois 
+        aspects sont tout de m&ecirc;me privil&eacute;gi&eacute;s :<br>
+        - la comp&eacute;tence (si vous programmez en VB cela risque d'&ecirc;tre 
+        difficile de travailler avec les programmeurs ;)<br>
+        - la cr&eacute;ativit&eacute; (toutes vos id&eacute;es originales seront 
+        les bienvenues).<br>
+        - le plus important : la motivation ;)<br>
+      </blockquote>
+
+<li> <i> Je ne suis ni programmeur, ni graphiste. Puis je tout de meme participer
+au projet ? </i>
+<blockquote> Oui évidemment. Un jeu video fait intervenir une palette de compétence très
+large. Sans compétences techniques, vous pouvez contribuer aux scenario
+général, scenarii des campagnes, définition des règles, des créatures,
+chateaux, structures etc.
+Il y a de nombreux éléments qui doivent être développés, et pas
+nécessairement techniques (heureusement ;)
+<br> Contactez nous pour en parler...
+</blockquote>
+
+<li> <i> Vous parlez souvent de Sourceforge. C'est quoi exactement ? </i>
+<blockquote>
+<br>www.sourceforge.net
+<br> Sourceforge propose une série d'outils d'aide à la gestion de projet, le
+tout en ligne, et gratuitement.
+<br> Concrètement, il suffit d'ouvrir un compte chez eux pour utiliser leurs
+outils tels que:
+<br> - hébergement web
+<br> - espace ftp
+<br> - forums de discussion
+<br> - mailing lists
+<br> - gestion de taches
+<br> - administration du projet
+<br> - mise à disposition d'un cvs
+<br> - release de fichiers
+<br> etc.
+<br> Bref, un ensemble de modules pour vous assister dans le développement d'un
+projet.
+<br> N'hésitez pas à leur rendre visite. Ils hébergent actuellement plus de 15
+000 projets...
+</blockquote>
+
+    <li> <i> J'aimerais tester le jeu mais je n'ai pas Linux. Comment faire ? </i>
+      <blockquote> --&gt; Partie en cours [explications / liens installation linux]<br>
+      </blockquote>
+
+<li> <i> Avez vous d'autres projets une fois Attal 'terminé' ? </i>
+<blockquote> Acheter une villa avec l'argent que nous aura rapporté Attal...
+<br> Hum.
+<br> Plus sérieusement, nous envisageons de développer une 'suite', avec un
+système de jeu totalement différent. Vision beaucoup plus 'proche',
+le joueur ne dirigeant pas un ensemble d'unités mais l'unité elle-même. Dans
+un environnement plus du type guerilla (avec prise d'otage dans un
+batiment, assaut d'un bunker etc.). 
+<br> Le jeu devrait rester au tour par tour pour permettre une stratégie la plus fine possible.
+<br>
+<br> Nous pensons également à développer un jeu 'massivement multijoueurs' dans
+le style Ultima Online, ou plutot la Quatrième Prophétie (T4C pour les
+intimes).
+<br>Rien de définitif en somme, mais des idées...
+</blockquote>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+ </ul>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--#include virtual="interface2.shtml" -->
+
+</body>
+
+</html>
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		

@@ -1,0 +1,258 @@
+<html>
+
+<head>
+
+<title>Untitled Document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css">
+
+<!--
+
+-->
+
+</style>
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<STYLE TYPE="text/css">
+<!--
+A {text-decoration:none;}
+-->
+</STYLE>
+
+<STYLE>
+BODY
+{scrollbar-face-color: #666666; scrollbar-shadow-color: #33cc00; 
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #33cc00; 
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-arrow-color: #000D45; text-decoration: blink}
+</STYLE> 
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+
+
+
+<div id="Layer3" style="position:absolute; width:405px; height:222px; z-index:3; left: 195px; top: 165px" class="cadre12"> 
+  <p><img src="../fr_interface/titre_development_fr.jpg" width="382" height="16"><br>
+   
+
+<br> Vous trouverez ici les règles d'écriture adoptées par les programmeurs.<br>
+Les sujets / questions relatifs à la programmation du jeu peuvent être débatus dans le forum 
+<a href="http://sourceforge.net/forum/forum.php?forum_id=48210" target="_blank">- 
+    Development -</a>
+<br>
+<br>Le fichier est également téléchargeable au format texte <a href="../download/fr_coding.txt">ici</a>.
+<br>
+
+<br> <b> Ecriture du code dans Attal </b>
+<br>
+<br>Ceci est une breve description des regles d'ecriture du code dans le
+projet Attal. Ces regles de codage sont souvent assez personnelles et
+celles proposees ici ne sont pas forcement meilleures que les autres, bien
+qu'elles aient fait leurs preuves dans les divers projets ou je les ai
+utilisees. Il est donc souhaitable que vous preniez en compte ce qui
+suit...
+<br>
+<br>Bien entendu, ce document est tres largement inspire du 'Linux Kernel
+Coding Style' de Linus Torvalds.
+<br>
+<br>
+<br> <b> Chapitre 1 : Indentation </b>
+<br>
+<br>Les tabulations ont une taille de 8 caracteres et il en est donc de meme
+pour l'indentation. Certains mouvements subversifs essaient d'imposer des
+indentations de 4 (voire meme 2) caracteres mais cela releve de l'heresie
+:-) Plus serieusement, le but de l'indentation est de definir de maniere
+claire un bloc d'instructions. En particulier, apres 20 heures passees
+devant l'ecran, l'interet des grandes indentations apparait clairement.
+<br>
+<br>Pour ceux qui trouvent que de telles tabulations decalent le texte trop
+vers la droite et diminuent du coup la lisibilite, ils doivent considerer
+que du code propre ne doit pas exceder 3 niveaux d'indentation...
+<br>
+<br>En resume, les tabulations de 8 caracteres permettent un code facile a
+lire tout en empechant un trop grand nombre de blocs imbriques.
+<br>
+<br>
+<br> <b> Chapitre 2 : La place des accolades et espaces </b>
+<br>
+<br> Un probleme classique lors de l'ecriture du code C est la place des
+accolades. Au contraire du debat sur la taille de l'indentation, il y a
+peu de vraies raisons pour choisir une strategie plutot qu'une autre. Le
+choix le plus frequent (c'est celui fait par Kernighan et Richie
+eux-memes), est de mettre les accolades ouvrantes en fin de ligne et les
+fermantes en debut, comme dans :
+<br>
+<br>	if( x == true ) {
+<br>		// ...
+<br>	}   
+<br>
+<br>Cette regle souffre cependant d'une exception dans le cas des fonctions ou
+l'accolade ouvrante est mise en debut de ligne :
+<br>
+<br>	int fonction( int x )
+<br>	{
+<br>		// body
+<br>	}
+<br>
+<br>C'est vrai que cette exception peut surprendre mais cependant, c'est ainsi
+que font K&R (qui ont toujours raison comme chacun sait). Et de toute
+facon les fonctions elles-memes sont particulieres (on ne peut pas les
+imbriquer, par exemple).
+<br>
+<br>Note : une accolade fermante doit etre sur une ligne vide, hormis dans le
+cas ou elle est suivie par la suite d'une instruction comme dans un
+'while' ou apres un 'else' :
+<br>
+<br>	do {
+<br>		// body
+<br>	} while( condition );
+<br>
+<br>et
+<br>
+<br>	if( x == y ) {
+<br>		..
+<br>	} else if( x > y ) {
+<br>		...
+<br>	} else {
+<br>		....
+<br>	}
+<br>			
+<br>Cela permet en particulier de minimiser le nombre de lignes vides ou
+presque vides sans perte de lisibilite. 
+<br>
+<br>Toujours dans un souci de lisibilite accrue, le texte doit etre aere.
+En particulier, des espaces doivent entourer les operateurs et a
+l'interieur des parenthes (il n'est cependant pas necessaire d'en mettre
+avant, la parenthese faisant corps avec ce qui la precede). Par exemple :
+<br>
+<br>	if( x + 4 < 8 )
+<br>ou
+<br>	main( int argc, char ** argv );
+<br>
+<br>
+<br> <b>	Chapitre 3 : Nommage </b>
+<br>
+<br>Le but du nommage est d'etre efficace, c'est-a-dire clair et rapide. En
+particulier, il est preferable d'appeler une variable 'cpt' plutot que
+'CeciEstUnCompteurTemporaire' car cela s'ecrit beaucoup plus rapidement
+et ce n'est pas beaucoup plus difficile a comprendre.
+<br>
+<br>Cependant, cela ne signifie pas que les noms doivent etre choisis a
+l'economie et ne rien signifier. Cela est particulierement vrai pour les
+variables globales et les classes qui doivent avoir un nom explicite.
+Par convention, les noms de classe commencent par une majuscule. 
+Les objets, ainsi que toutes les variables commencent par une minuscule.
+Lorsque le nom reprend plusieurs mots, chaque mot (sauf le premier)
+commence par une majuscule mais il n'y a pas de symbole (comme '_') entre
+eux. Cela donne des noms du genre 'countActiveUsers' et non pas
+'CountActiveUsers' ou 'count_active_users', etc.
+<br>
+<br>Il est par contre inutile de mettre le type de la fonction/methode dans le
+nom (notation Hongroise) car cela n'est d'aucune utilite au programmeur
+(et quand au compilateur, il sait ce qu'il fait).
+<br>
+<br>Les variables locales doivent avoir un nom court (et approprie). Par
+exemple, le compteur dans une boucle 'for' s'appellera tres certainement
+'i' ou 'j'. L'appeler 'compteur' est inefficace.
+<br>
+<br>Les membres prives d'une methode doivent eux systematiquement commencer
+par le symbole '_' suivi du nom de variable (suivant les memes conventions
+que precedemment).
+<br>
+<br>Les slots devront commencer par slotXXX et les signaux par sigXXX 
+<br>
+<br>Tous les noms choisis doivent etre anglais, pour des raisons evidentes
+d'internationalisation du code et des developpeurs.
+<br>		
+<br> <b> Chapitre 4 : Fonctions et methodes </b>
+<br>
+<br>Les fonctions et methodes doivent etre courtes et claires. En particulier,
+elles ne doivent faire qu'une seule chose (mais bien). En general elles
+doivent tenir dans moins de deux pages (moins de 50 lignes donc).
+<br>
+<br>En fait, la longueur d'une fonction est inversement proportionnelle a la
+complexite et au niveau d'indentation. Vous pouvez donc avoir une fonction
+conceptuellement simple mais composee d'un 'switch' avec de nombreux
+'case' qui ont une action simple.
+<br>
+<br>Par contre, si vous avez une fonction complexe et que vous doutiez qu'un
+programmeur novice pas forcement tres doue puisse comprendre ne serait-ce
+que le but de la fonction, il est souhaitable de s'assurer que tous
+les regles pre-citees sont bien suivies...
+<br>
+<br>Une autre mesure est le nombre de variables locales... si ce nombre
+depasse 7, il y a danger.
+<br>
+<br>
+<br> <b> Chapitre 5 : Commentaires </b>
+<br>
+<br>Le fait de commenter est assurement une bonne chose mais il ne faut
+cependant pas en abuser. En particulier, ne jamais expliquer comment la
+fonction marche, mais uniquement ce que fait le code.
+<br>
+<br>Il faut aussi eviter les commentaires a l'interieur d'une fonction : si la
+fonction est tellement complexe qu'elle necessite des commentaires
+internes, vous devriez relire le chapitre precedent. Au lieu de ca, mettez
+des commentaires avant le corps de la methode/fonction sous la forme :
+<br>
+<br>	/**
+<br>	  * Comments
+<br>	  */ 
+<br>
+<br>Vous pouvez cependant inserez des notes ou brefs commentaires a certains
+endroits pour avertir de modifications futures a apporter ou simplement
+que le code est tres mauvais et qu'il faudra l'ameliorer. Pour des raisons
+de recherche aisee, mettez les sous la forme :
+<br>	/// XXX: ugly code
+<br>
+<br>A noter enfin que toutes les methodes publiques d'une classe doivent etre
+commentees dans la declaration (fichier .h).
+<br>
+<br>Pour des raisons d'internationalisations du code, il est aussi demande de
+mettre des commenatires en ANGLAIS et non dans sa langue d'origine.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</div>
+<!--#include virtual="interface2.shtml" --> 
+</body>
+
+</html>
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		

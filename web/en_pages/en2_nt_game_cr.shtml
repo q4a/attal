@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+ 
+<!--#include virtual="../en_pages/en_interface3.shtml" --> 
+
+<layer id="Layer1" left="195" top="165" width="405" height="222" z-index="1"> 
+<p class="cadre13"> <img src="../en_interface/en_titre_game.jpg" width="382" height="16"><br>
+  <br>
+  <a href="en2_nt_game_cr.shtml">- Reports of the meetings team -</a><br>
+  <a href="en2_nt_game_general.shtml">- General overview -</a><br>
+  <b>[cyberpunk theme]</b><br>
+  <a href="en2_nt_game_monde.shtml">- World / Universe -</a><br>
+  <a href="en2_nt_game_regles.shtml">- Games / Rules -</a><br>
+  <a href="en2_nt_game_unites.shtml">- Units, structures, ressources -</a><br>
+  <a href="en2_nt_game_scenario.shtml">- Scenario, missions -</a><br>
+  <b> [heroic-fantasy theme]</b><br>
+  Actually empty.<b></b><br>
+  <br>
+  <br>
+  <b>- Reports of the meetings team -</b><br>
+  <br>
+  The reports are presented such as they were drafted, in the form of links towards 
+  files standard texts. <br>
+  <br>
+  1. MR 11-16-00 + 11-21-00 <br>
+  <br>
+</layer>
+
+</body>
+</html>

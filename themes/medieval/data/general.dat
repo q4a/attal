@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE general>
+<general>
+	<vision>0</vision>
+	<calendar>
+		<level num="0" value="7">
+			<name num="0">Monday</name>
+			<name num="1">Tuesday</name>
+			<name num="2">Wednesday</name>
+			<name num="3">Thursday</name>
+			<name num="4">Friday</name>
+			<name num="5">Saturday</name>
+			<name num="6">Sunday</name>
+		</level>
+		<level num="1" value="4">
+			<name num="0"></name>
+			<name num="1"></name>
+			<name num="2"></name>
+			<name num="3"></name>
+		</level>
+		<level num="2" value="12">
+			<name num="0">January</name>
+			<name num="1">February</name>
+			<name num="2">March</name>
+			<name num="3">April</name>
+			<name num="4">May</name>
+			<name num="5">June</name>
+			<name num="6">July</name>
+			<name num="7">August</name>
+			<name num="8">September</name>
+			<name num="9">October</name>
+			<name num="10">November</name>
+			<name num="11">December</name>
+		</level>
+	</calendar>
+</general>

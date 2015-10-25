@@ -1,0 +1,11 @@
+editor
+moc_*
+*.moc.cpp
+*.o
+Makefile
+Makefile.in
+.deps
+scenario-editor
+ScenarioEditor.plg
+Debug
+Release

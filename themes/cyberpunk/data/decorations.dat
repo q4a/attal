@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE decorations>
+<decorations>
+	<decoration>
+		<name>Road</name>
+		<info>Road</info>
+		<move>
+			<effect>1</effect>
+			<factor>50</factor>
+		</move>
+		<technic>
+			<effect>0</effect>
+		</technic>
+	</decoration>
+	<decoration>
+		<name>Abbey</name>
+		<info></info>
+		<move>
+			<effect>0</effect>
+			<factor>0</factor>
+		</move>
+		<technic>
+			<effect>0</effect>
+		</technic>
+	</decoration>
+</decorations>

@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../test2.css">
+</head>
+
+<STYLE TYPE="text/css">
+<!--
+A {text-decoration:none;}
+-->
+</STYLE>
+
+<STYLE>
+BODY
+{scrollbar-face-color: #666666; scrollbar-shadow-color: #33cc00; 
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #33cc00; 
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-arrow-color: #000D45; text-decoration: blink}
+</STYLE> 
+
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+<div id="Layer3" style="position:absolute; width:405px; height:222px; z-index:3; left: 195px; top: 165px" class="texte_classique"> 
+  <p class="cadre12"><img src="../fr_interface/titre_team_fr.jpg" width="382" height="16"><br>
+    <br>
+    L'équipe est actuellement composée d'une dizaine de personnes : <br>
+    <br>
+    Pascal Audoux, Cyrille Verrier, Alexandre Lh&eacute;rault et Gilles Oppeneau 
+    sont à l'origine de ce projet.<br>
+    <br>
+    - <a href="mailto:paudoux@chez.com"><b>Audoux Pascal</b></a> <br>
+    - co leader / partie programmation<br>
+    - développeur<br>
+    24 ans<br>
+    Profession: Informatique &amp; Telecom (<a href="http://www.yalbi.com">www.yalbi.com</a>)<br>
+    <br>
+    - <a href="mailto:verrier@chez.com"><b>Verrier Cyrille</b></a> <br>
+    - co leader / programmation IA<br>
+    -&gt; développeur.<br>
+    21 ans <br>
+    Etudiant en Ma&icirc;trise d'informatique.<br>
+    <br>
+    - <a href="mailto:lherault1@caramail.com"><b>Lhérault Alexandre</b></a> <br>
+    - co leader / cr&eacute;ation artistique / design<br>
+    - graphiste 2d / 3d - th&egrave;me cyberpunk<br>
+    23 ans <br>
+    Etudiant en Maîtrise d'Arts Plastiques.<br>
+    <br>
+    - <a href="mailto:mitro@netcourrier.com"><b>Oppeneau Gilles</b></a> <br>
+    - co leader / site internet - communication<br>
+    - graphiste 2d / 3d - th&egrave;me cyberpunk / webmaster<br>
+    24 ans<br>
+    Profession: Informatique<br>
+    <br>
+    - <a href="mailto:glover666@hotmail.com"><b>Glover</b></a><br>
+    - sp&eacute;cifications / synth&egrave;se du projet<br>
+    <br>
+    - <a href="mailto:Archimage2000@heroescommunity.com"><b>Marc Leyral</b></a><br>
+    - graphiste - musicien / th&egrave;me m&eacute;di&eacute;val fantastique<br>
+    <br>
+    - <b>Morgan</b><br>
+    - graphiste - musicien / th&egrave;me m&eacute;di&eacute;val fantastique<br>
+    <br>
+    - <a href="mailto:enrique@perez.tc%20%3Cenrique@perez.tc%3E"><b>Enrique Perez</b></a><br>
+    - d&eacute;finition des r&egrave;gles<br>
+    <br>
+    - <a href="mailto:etombuffy@multimania.com"><b>Touchot Eloise</b></a> <br>
+    - scénariste ?<br>
+    [ Webmastrice d'un site sur la série "<a href="http://www.chez.com/oppeneau/etom">Buffy 
+    contre les Vampires</a>" <br>
+    Webmastrice d'un site consacr&eacute; au tennis: " <a href="http://www.100tennis.fr.fm/">100% 
+    tennis</a> "]<br>
+    <br>
+    <br>
+    Bien entendu, toutes les personnes souhaitant apporter leur contribution à 
+    ce projet sont invitées à nous <a href="mailto:mitro@netcourrier.com">contacter</a> 
+    (développeurs, graphistes, scénaristes, musiciens, beta-testeurs etc.) <br>
+    <br>
+    Vous pouvez consulter la <a href="http://sourceforge.net/projects/attal/">page 
+    du projet</a> Attal sur Sourceforge.net si vous voulez vous inscrire à notre 
+    mailing list, participer au forum ou parcourir notre CVS. <br>
+    <br>
+    <br>
+</div>
+<!--#include virtual="interface2.shtml" --> 
+</body>
+</html>

@@ -1,0 +1,14 @@
+Begin
+Title:          Attal: Lords of Doom 
+Version:        0.2
+Entered-date:   Feb 2001 
+Description:    Network turn based strategy game (Heroes-like).
+Keywords:       heroes, strategy, game, KDE, X11, Qt, HOMM3
+Author:         Pascal Audoux <paudoux@chez.com> 
+Maintained-by:  Pascal Audoux <paudoux@chez.com> 
+Primary-site:   http://attal.sourceforge.net
+Home-page:      http://attal.sourceforge.net
+Original-site:  
+Platform:       Linux and other Unices, needs Qt 2.2 lib
+Copying-policy: GNU Public License
+End

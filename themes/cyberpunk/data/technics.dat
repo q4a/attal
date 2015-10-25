@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE technical>
+<technical>
+	<domain name="Military">
+		<technic name="Flash">
+			<level>1</level>
+			<cost>4</cost>
+		</technic>
+	
+		<technic name="Shield">
+			<level>1</level>
+			<cost>3</cost>
+		</technic>
+	</domain>
+
+	<domain name="Lobby">
+		<technic name="Bribe">
+			<level>2</level>
+			<cost>5</cost>
+		</technic>
+	</domain>
+
+	<domain name="Biogenetic">
+		<technic name="Heal">
+			<level>1</level>
+			<cost>6</cost>
+		</technic>
+	</domain>
+
+	<domain name="Hacker">
+		<technic name="DOS">
+			<level>3</level>
+			<cost>8</cost>
+		</technic>
+	</domain>
+
+</technical>

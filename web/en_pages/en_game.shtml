@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body bgcolor="#000000" link="#CCFFCC" text="#FFFFFF" vlink="#CCFFCC" alink="#CCFFCC">
+ 
+
+<div id="Layer3" style="position:absolute; width:450px; height:222px; z-index:3; left: 325px; top: 130px" class="texte_classique"> 
+  <p><img src="../en_interface/en_titre_game.jpg" width="382" height="16"><br>
+    <br>
+    <a href="en_game_cr.shtml">- Reports of the meetings team -</a><br>
+    You will find here the various reports drafted following the various "meetings" 
+    of the team of development. 
+  <p> <a href="en_game_general.shtml">- General overview -</a><br>
+    Some general explanations on the game itself, its atmosphere, its originality. 
+    <br>
+    <br>
+    <b>[cyberpunk theme]</b><br>
+    <br>
+    <a href="en_game_monde.shtml">- World / Universe -</a><br>
+    World in which the players will evolve. State of technologies, the society.<br>
+    <br>
+    <a href="en_game_regles.shtml">- Games / Rules -</a><br>
+    Explanations on Attal's rules.<br>
+    <br>
+    <a href="en_game_unites.shtml">- Units, structures, ressources -</a><br>
+    Detail of the classes of available persons, various buildings and structures 
+    which it is possible to build, resources.<br>
+    <br>
+    <a href="en_game_scenario.shtml">- Scenario, missions -</a><br>
+    Details of the scenario, the various missions.<br>
+    <br>
+    <br>
+  <p><b> [heroic-fantasy theme]</b><br>
+    <br>
+    Actually empty.<br>
+  <p><br>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!--#include virtual="../en_pages/en_interface.shtml" -->
+
+</body>
+</html>
